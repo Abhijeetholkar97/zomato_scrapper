@@ -1,0 +1,1214 @@
+{
+    "placeName": "Hauz Khas Village",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "Shop 8 CSC, Sector B, Pocket-10, Vasant Kunj, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Vasant Kunj",
+                    "rating": "3.6",
+                    "restaurantName": "Southy",
+                    "votes": "193"
+                },
+                {
+                    "address": "M-22, 1st Floor, M Block Market, Greater Kailash (GK) 1, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "M Block Market, Greater Kailash 1 (GK1)",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "346"
+                },
+                {
+                    "address": "28A/12 Jia Sarai, Near IIT Gate, Qutab Institutional Area, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Qutab Institutional Area",
+                    "rating": "4.1",
+                    "restaurantName": "Dilli 6 On Wheels",
+                    "votes": "382"
+                },
+                {
+                    "address": "6, Corner Market, Near Hanuman Temple, Malviya Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Flavors of Chennai",
+                    "votes": "992"
+                },
+                {
+                    "address": "92-G/1, Partap Market, Munirka, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Munirka",
+                    "rating": "3.6",
+                    "restaurantName": "Masala Kitchen",
+                    "votes": "256"
+                },
+                {
+                    "address": "216, B/7 A Gautam Nagar Road, Gulmohar Park, Green Park, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Chinese",
+                        "Beverages",
+                        "North Indian"
+                    ],
+                    "location": "Green Park",
+                    "rating": "3.4",
+                    "restaurantName": "MJ Food Court",
+                    "votes": "27"
+                },
+                {
+                    "address": "HS- 13, Kailash Colony Market, Kailash Colony, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Mithai"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "3.5",
+                    "restaurantName": "Anupama Sweet",
+                    "votes": "360"
+                },
+                {
+                    "address": "46/16, Near Gate 1, Green Park Metro Station, Yusuf Sarai, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Yusuf Sarai",
+                    "rating": "4.0",
+                    "restaurantName": "Kuldeep Paranthe Wala",
+                    "votes": "141"
+                },
+                {
+                    "address": "A-5, Ground Floor, Vasant Square Mall, Vasant Kunj, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "South Indian",
+                        "Mithai",
+                        "Momos"
+                    ],
+                    "location": "Vasant Square Mall, Vasant Kunj",
+                    "rating": "3.7",
+                    "restaurantName": "Shree Bhagatram",
+                    "votes": "747"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 600,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Healthy Food",
+                        "Burger",
+                        "Biryani",
+                        "Pizza",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "FreshMenu",
+                    "votes": "620"
+                },
+                {
+                    "address": "C 125, Ground Floor, Lajpat Nagar 1, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Street Food",
+                        "Beverages"
+                    ],
+                    "location": "Lajpat Nagar 1",
+                    "rating": "3.5",
+                    "restaurantName": "Nashta \u0928\u093e\u0936\u094d\u0924\u093e",
+                    "votes": "129"
+                },
+                {
+                    "address": "A 85,Main Road Near Big Bazaar, Masood Pur, Vasant Kunj, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food",
+                        "Rolls",
+                        "Biryani"
+                    ],
+                    "location": "Vasant Kunj",
+                    "rating": "4.0",
+                    "restaurantName": "Faasos",
+                    "votes": "391"
+                },
+                {
+                    "address": "297, DDA flat khirki extention\nNear kohli clinic , Delhi NCR",
+                    "cost": 200,
+                    "cuisines": [
+                        "Continental",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "3.5",
+                    "restaurantName": "Shakes Masters N More",
+                    "votes": "57"
+                },
+                {
+                    "address": "3, Krishna Market, Lajpat Nagar 1, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian",
+                        "Street Food"
+                    ],
+                    "location": "Lajpat Nagar 1",
+                    "rating": "4.2",
+                    "restaurantName": "Anand Ji",
+                    "votes": "927"
+                },
+                {
+                    "address": "C-1, Main Market, Paschimi Marg, Block C, Vasant Vihar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Fast Food",
+                        "Salad"
+                    ],
+                    "location": "Vasant Vihar",
+                    "rating": "3.9",
+                    "restaurantName": "Salad Chef",
+                    "votes": "289"
+                }
+            ],
+            "title": "Delivery Restaurants in Hauz Khas Village"
+        },
+        {
+            "details": [
+                {
+                    "address": "50 E, Hauz Khas Village, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "European"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.3",
+                    "restaurantName": "Mia Bella - Romantic Kitchen & Bar",
+                    "votes": "951"
+                },
+                {
+                    "address": "Inside Deer Park, Hauz Khas Village, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "European",
+                        "Chinese",
+                        "North Indian",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.1",
+                    "restaurantName": "Lord Of The Drinks Meadow",
+                    "votes": "1591"
+                },
+                {
+                    "address": "Shop 1, G 53, Main Market, Green Park, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Coffee",
+                        "Beverages"
+                    ],
+                    "location": "Green Park",
+                    "restaurantName": "The Brew Kitchen"
+                },
+                {
+                    "address": "9-A & 12, Hauz Khas Village, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "Chinese",
+                        "Pizza",
+                        "Biryani",
+                        "Beverages"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.6",
+                    "restaurantName": "Hauz Khas Social",
+                    "votes": "13729"
+                },
+                {
+                    "address": "30, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Tibetan",
+                        "Nepalese",
+                        "Momos"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.4",
+                    "restaurantName": "Yeti - The Himalayan Kitchen",
+                    "votes": "1559"
+                },
+                {
+                    "address": "1-A/1, Hauz Khas Village, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Italian",
+                        "Continental",
+                        "Asian",
+                        "North Indian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.0",
+                    "restaurantName": "Imperfecto",
+                    "votes": "2587"
+                },
+                {
+                    "address": "H-2, 2nd & 3rd Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "Kerala"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.3",
+                    "restaurantName": "Coast Cafe",
+                    "votes": "1381"
+                },
+                {
+                    "address": "30, 2nd Floor, Powerhouse Buliding, Hauz Khas Village, New Delhi",
+                    "cost": 1900,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Italian",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.5",
+                    "restaurantName": "Garage Inc.",
+                    "votes": "1109"
+                },
+                {
+                    "address": "HN - 11, Hauz Khas Village, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "Italian",
+                        "Chinese",
+                        "European"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.3",
+                    "restaurantName": "Vapour Bar Exchange",
+                    "votes": "523"
+                },
+                {
+                    "address": "Shop 1, Hauz Khas Village, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.1",
+                    "restaurantName": "Naivedyam",
+                    "votes": "2509"
+                },
+                {
+                    "address": "30-A, Hauz Khas Village, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Continental",
+                        "Tex-Mex"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.2",
+                    "restaurantName": "Maquina",
+                    "votes": "881"
+                },
+                {
+                    "address": "30, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "American",
+                        "British",
+                        "Continental",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.5",
+                    "restaurantName": "Matchbox",
+                    "votes": "1488"
+                },
+                {
+                    "address": "9-A, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Thai",
+                        "Italian",
+                        "Middle Eastern",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.2",
+                    "restaurantName": "Masha",
+                    "votes": "815"
+                },
+                {
+                    "address": "31, 2nd Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Italian",
+                        "Bakery"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.0",
+                    "restaurantName": "Elma's Bakery, Bar and Kitchen",
+                    "votes": "2158"
+                },
+                {
+                    "address": "30, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Italian",
+                        "Mediterranean",
+                        "Burger"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.1",
+                    "restaurantName": "Fork You",
+                    "votes": "2387"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Hauz Khas Village"
+        },
+        {
+            "details": [
+                {
+                    "address": "Part One, Hauz Khas Village, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.1",
+                    "restaurantName": "The Tea Room From Blossom Kochhar",
+                    "votes": "170"
+                },
+                {
+                    "address": "T-49, First Floor, Hauz Khas Village, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.2",
+                    "restaurantName": "Kunzum Travel Cafe",
+                    "votes": "634"
+                },
+                {
+                    "address": "Building 29, Block E, Hauz Khas Village, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.4",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "43"
+                },
+                {
+                    "address": "31, Hauz Khas Village, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Cafe",
+                        "American",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.6",
+                    "restaurantName": "TLR Cafe",
+                    "votes": "235"
+                },
+                {
+                    "address": "S 69/3, GF, Near Gurudwara, Gautam Nagar, Hauz Khas, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.2",
+                    "restaurantName": "18 OURs",
+                    "votes": "7"
+                },
+                {
+                    "address": "1st Floor, T-49, Hauz Khas Village, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.0",
+                    "restaurantName": "Classy Cafe Salon",
+                    "votes": "5"
+                },
+                {
+                    "address": "13 a , ground floor, lakeside, hauz khas village",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.5",
+                    "restaurantName": "Gypsy Cafe",
+                    "votes": "84"
+                },
+                {
+                    "address": "Shop 2, C-11, Safdarjung Development Area Community Centre, Opposite IIT Delhi, SDA, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "SDA Market, SDA",
+                    "rating": "4.4",
+                    "restaurantName": "Theobroma",
+                    "votes": "902"
+                },
+                {
+                    "address": "C16, 1st Floor, Opposite IIT Gate, SDA, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental",
+                        "American",
+                        "Pizza"
+                    ],
+                    "location": "SDA Market, SDA",
+                    "rating": "3.9",
+                    "restaurantName": "The Brew Room",
+                    "votes": "1625"
+                },
+                {
+                    "address": "R-62/1, Humayunpur, Safdarjung Enclave, Safdarjung, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe",
+                        "Korean",
+                        "Sushi"
+                    ],
+                    "location": "Safdarjung",
+                    "rating": "4.0",
+                    "restaurantName": "Kori's",
+                    "votes": "624"
+                },
+                {
+                    "address": "C-4, 1st Floor, SDA Market, SDA, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "American",
+                        "Italian"
+                    ],
+                    "location": "SDA Market, SDA",
+                    "rating": "4.1",
+                    "restaurantName": "Scooter On The Wall",
+                    "votes": "1565"
+                },
+                {
+                    "address": "C-14, SDA Market, Opposite IIT Delhi Main Gate, SDA, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "SDA Market, SDA",
+                    "rating": "4.1",
+                    "restaurantName": "Chaayos",
+                    "votes": "1061"
+                },
+                {
+                    "address": "C-14, Ground Floor, Corner Shop, Community Centre, SDA Market, SDA, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food",
+                        "Desserts",
+                        "Beverages",
+                        "American"
+                    ],
+                    "location": "SDA",
+                    "rating": "4.5",
+                    "restaurantName": "WAFL",
+                    "votes": "530"
+                },
+                {
+                    "address": "1st Floor, Block C-3, SDA Market, Opposite IIT Main Gate, SDA, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "Chinese"
+                    ],
+                    "location": "SDA Market, SDA",
+                    "restaurantName": "Helter Skelter"
+                },
+                {
+                    "address": "G-55, Ground Floor, Main Market, Green Park, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "American",
+                        "Desserts",
+                        "Ice Cream",
+                        "Healthy Food"
+                    ],
+                    "location": "Green Park",
+                    "rating": "4.2",
+                    "restaurantName": "The Funnel Hill Creamery",
+                    "votes": "478"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Hauz Khas Village"
+        },
+        {
+            "details": [
+                {
+                    "address": "31, 2nd Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Italian",
+                        "Bakery"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.0",
+                    "restaurantName": "Elma's Bakery, Bar and Kitchen",
+                    "votes": "2158"
+                },
+                {
+                    "address": "29 A, Ground Floor, Hauz Khas Village, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "restaurantName": "Frozen Ribbons Shaved Ice Cream"
+                },
+                {
+                    "address": "30, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Italian",
+                        "Mediterranean",
+                        "Burger"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.1",
+                    "restaurantName": "Fork You",
+                    "votes": "2387"
+                },
+                {
+                    "address": "26, Ground Floor, Hauz Khas Village, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Frozen Yogurt"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.2",
+                    "restaurantName": "Menchie's Frozen Yogurt",
+                    "votes": "305"
+                },
+                {
+                    "address": "9-A, Hauz Khas Village, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.0",
+                    "restaurantName": "Kulfiano",
+                    "votes": "247"
+                },
+                {
+                    "address": "9-A, Hauz Khas Village, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.0",
+                    "restaurantName": "L'Op\u00e9ra",
+                    "votes": "392"
+                },
+                {
+                    "address": "Building 29, Block E, Hauz Khas Village, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.4",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "43"
+                },
+                {
+                    "address": "2, Hauz Khas Village, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.8",
+                    "restaurantName": "Gelato Roma",
+                    "votes": "120"
+                },
+                {
+                    "address": "Near 9-A & 12, Hauz Khas Village, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.4",
+                    "restaurantName": "Gelato Vinto",
+                    "votes": "11"
+                },
+                {
+                    "address": "E201, Near Green Park Metro, Gautam Nagar, Andrews Ganj",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "restaurantName": "OCD Online Cake Shop"
+                },
+                {
+                    "address": "13 a , ground floor, lakeside, hauz khas village",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.5",
+                    "restaurantName": "Gypsy Cafe",
+                    "votes": "84"
+                },
+                {
+                    "address": "G1, Ground Floor, Opposite Aurobindo Market, Hauz Khas, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.6",
+                    "restaurantName": "Naturals Ice Cream",
+                    "votes": "688"
+                },
+                {
+                    "address": "S-29 & 30, Main Market, Green Park, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "South Indian",
+                        "North Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Green Park",
+                    "rating": "3.9",
+                    "restaurantName": "Evergreen Sweet House",
+                    "votes": "1788"
+                },
+                {
+                    "address": "Shop 2, C-11, Safdarjung Development Area Community Centre, Opposite IIT Delhi, SDA, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "SDA Market, SDA",
+                    "rating": "4.4",
+                    "restaurantName": "Theobroma",
+                    "votes": "902"
+                },
+                {
+                    "address": "C-14, Ground Floor, Corner Shop, Community Centre, SDA Market, SDA, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food",
+                        "Desserts",
+                        "Beverages",
+                        "American"
+                    ],
+                    "location": "SDA",
+                    "rating": "4.5",
+                    "restaurantName": "WAFL",
+                    "votes": "530"
+                }
+            ],
+            "title": "Desserts & Bakes in Hauz Khas Village"
+        },
+        {
+            "details": [
+                {
+                    "address": "TB 6, 2-4 Floor, Hauz Khas Village, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.7",
+                    "restaurantName": "Bulldogs",
+                    "votes": "485"
+                },
+                {
+                    "address": "2nd Floor, Building 28, Hauz Khas Village, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.5",
+                    "restaurantName": "Mafioso",
+                    "votes": "475"
+                },
+                {
+                    "address": "A-2/A, 2nd Floor, Aurobindo Marg, Green Park, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "Fast Food",
+                        "Pizza"
+                    ],
+                    "location": "Green Park",
+                    "rating": "4.0",
+                    "restaurantName": "Raasta",
+                    "votes": "3281"
+                },
+                {
+                    "address": "9-A & 12, Hauz Khas Village, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "Chinese",
+                        "Pizza",
+                        "Biryani",
+                        "Beverages"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.6",
+                    "restaurantName": "Hauz Khas Social",
+                    "votes": "13729"
+                },
+                {
+                    "address": "50 E, Hauz Khas Village, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "European"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.3",
+                    "restaurantName": "Mia Bella - Romantic Kitchen & Bar",
+                    "votes": "951"
+                },
+                {
+                    "address": "30, 2nd Floor, Powerhouse Buliding, Hauz Khas Village, New Delhi",
+                    "cost": 1900,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Italian",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.5",
+                    "restaurantName": "Garage Inc.",
+                    "votes": "1109"
+                },
+                {
+                    "address": "Inside Deer Park, Hauz Khas Village, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "European",
+                        "Chinese",
+                        "North Indian",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.1",
+                    "restaurantName": "Lord Of The Drinks Meadow",
+                    "votes": "1591"
+                },
+                {
+                    "address": "HN - 11, Hauz Khas Village, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "Italian",
+                        "Chinese",
+                        "European"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.3",
+                    "restaurantName": "Vapour Bar Exchange",
+                    "votes": "523"
+                },
+                {
+                    "address": "30, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "American",
+                        "British",
+                        "Continental",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.5",
+                    "restaurantName": "Matchbox",
+                    "votes": "1488"
+                },
+                {
+                    "address": "Building 30, 3rd Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "2.4",
+                    "restaurantName": "Amplifier",
+                    "votes": "127"
+                },
+                {
+                    "address": "30, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Italian",
+                        "Mediterranean",
+                        "Burger"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.1",
+                    "restaurantName": "Fork You",
+                    "votes": "2387"
+                },
+                {
+                    "address": "28, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.2",
+                    "restaurantName": "Hauz Khas Official",
+                    "votes": "8"
+                },
+                {
+                    "address": "50-A, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.0",
+                    "restaurantName": "Kaffeine",
+                    "votes": "710"
+                },
+                {
+                    "address": "2nd Floor, Bulding 6, Hauz Khas Village, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.6",
+                    "restaurantName": "The Bunk House",
+                    "votes": "103"
+                },
+                {
+                    "address": "30, 2nd Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.9",
+                    "restaurantName": "Rehab Gastropub",
+                    "votes": "210"
+                }
+            ],
+            "title": "Clubs and lounges in Hauz Khas Village"
+        },
+        {
+            "details": [
+                {
+                    "address": "28, 3rd Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.8",
+                    "restaurantName": "My Bar Grill",
+                    "votes": "1707"
+                },
+                {
+                    "address": "B6/6, 2nd Floor, DDA Market, Opposite Deer Park, Safdarjung Enclave, Safdarjung, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Asian",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Safdarjung",
+                    "rating": "4.1",
+                    "restaurantName": "Hyjack",
+                    "votes": "351"
+                },
+                {
+                    "address": "1-A/1, Hauz Khas Village, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Italian",
+                        "Continental",
+                        "Asian",
+                        "North Indian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.0",
+                    "restaurantName": "Imperfecto",
+                    "votes": "2587"
+                },
+                {
+                    "address": "30-A, Hauz Khas Village, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Continental",
+                        "Tex-Mex"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.2",
+                    "restaurantName": "Maquina",
+                    "votes": "881"
+                },
+                {
+                    "address": "9-A, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Thai",
+                        "Italian",
+                        "Middle Eastern",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.2",
+                    "restaurantName": "Masha",
+                    "votes": "815"
+                },
+                {
+                    "address": "29 A, Hauz Khas Village, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.8",
+                    "restaurantName": "Capsule",
+                    "votes": "221"
+                },
+                {
+                    "address": "30, Second Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Indian",
+                        "Chinese"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "2.8",
+                    "restaurantName": "Moonshine Cafe and Bar",
+                    "votes": "16"
+                },
+                {
+                    "address": "30 A, 1st Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.5",
+                    "restaurantName": "K Boulevard",
+                    "votes": "34"
+                },
+                {
+                    "address": "26, 3rd Floor, Hauz Khas Village, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Continental",
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "3.6",
+                    "restaurantName": "Barsoom Frat House",
+                    "votes": "294"
+                },
+                {
+                    "address": "1st Floor, DDA Shopping Complex, Aurobindo Place, Hauz Khas, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Finger Food",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.3",
+                    "restaurantName": "Summer House Cafe",
+                    "votes": "4347"
+                },
+                {
+                    "address": "Shop B, 6, 7/22, Safdarjung Enclave Market, Opposite Deer Park, Safdarjung, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Mexican",
+                        "American",
+                        "Continental",
+                        "Finger Food"
+                    ],
+                    "location": "Safdarjung",
+                    "rating": "4.2",
+                    "restaurantName": "The Piano Man Jazz Club",
+                    "votes": "1105"
+                },
+                {
+                    "address": "Shop 31, 2nd Floor, DDA Shopping Complex, Aurobindo Place, Hauz Khas, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Modern Australian"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.2",
+                    "restaurantName": "Auro Kitchen & Bar",
+                    "votes": "1620"
+                },
+                {
+                    "address": "2nd Floor, B-6/2, Opposite Deer Park, Safdarjung Enclave, Safdarjung, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Asian"
+                    ],
+                    "location": "Safdarjung",
+                    "rating": "4.3",
+                    "restaurantName": "Antidot Waterbar Cafe",
+                    "votes": "298"
+                },
+                {
+                    "address": "C-1, Commercial Centre, Opposite IIT Main Gate, SDA, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Asian",
+                        "Japanese",
+                        "Momos"
+                    ],
+                    "location": "SDA Market, SDA",
+                    "rating": "4.2",
+                    "restaurantName": "Chi Asian Cookhouse",
+                    "votes": "1348"
+                },
+                {
+                    "address": "S-14, Green Park Extension, Green Park, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Asian",
+                        "Seafood",
+                        "Thai",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Green Park",
+                    "rating": "4.3",
+                    "restaurantName": "Drums of Heaven",
+                    "votes": "577"
+                }
+            ],
+            "title": "Pubs & Bars in Hauz Khas Village"
+        }
+    ]
+}

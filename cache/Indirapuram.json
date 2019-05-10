@@ -1,0 +1,997 @@
+{
+    "placeName": "Indirapuram",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "SD 121, Jaipuria Sunrise Plaza, Dr Sushila Naiyar Marg, Indirapuram, Ghaziabad",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Jaipuria Sunrise Plaza, Indirapuram",
+                    "rating": "4.0",
+                    "restaurantName": "Le Winkies",
+                    "votes": "203"
+                },
+                {
+                    "address": "269, C Block, 1st Floor, Sector 63, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian",
+                        "Rolls",
+                        "Chinese",
+                        "Continental",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 63, Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Petoo",
+                    "votes": "188"
+                },
+                {
+                    "address": "Near Aditya Complex, Mayur Vihar Phase 3, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Momos",
+                        "Rolls",
+                        "Italian"
+                    ],
+                    "location": "Mayur Vihar Phase 3",
+                    "rating": "3.9",
+                    "restaurantName": "Moon Bite",
+                    "votes": "1267"
+                },
+                {
+                    "address": "Opposite Rajhans Plaza, Dr Sushila Naiyar Marg, Ahinsa Khand 1, Indirapuram, Ghaziabad",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Momos",
+                        "Rolls",
+                        "North Indian"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.9",
+                    "restaurantName": "Wrappers",
+                    "votes": "895"
+                },
+                {
+                    "address": "C 269, Sector 63, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 63, Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Food Plaza",
+                    "votes": "113"
+                },
+                {
+                    "address": "ATM 1, Omaxe Park Plaza, Indrapuram, Ghaziabad",
+                    "cost": 400,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food",
+                        "Salad",
+                        "Beverages"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.5",
+                    "restaurantName": "Oye!! Burger",
+                    "votes": "21"
+                },
+                {
+                    "address": "LGF 39, Express Garden Market, Indirapuram, Ghaziabad",
+                    "cost": 300,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.8",
+                    "restaurantName": "Nocturnal",
+                    "votes": "46"
+                },
+                {
+                    "address": "Near F-71, Swastik House Line, Sector 51, Noida",
+                    "cost": 200,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Rolls"
+                    ],
+                    "location": "Sector 51, Noida",
+                    "rating": "3.6",
+                    "restaurantName": "Diamond Food",
+                    "votes": "246"
+                },
+                {
+                    "address": "RN 11, Sector 62, Noida",
+                    "cost": 450,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages",
+                        "Wraps"
+                    ],
+                    "location": "Sector 62, Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Wat-a-Burger!",
+                    "votes": "1054"
+                },
+                {
+                    "address": "F-71, Near Swastik House, Line sector 51, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Sector 51, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Taste of India",
+                    "votes": "782"
+                },
+                {
+                    "address": "Shop no. 1, Omaxe Park Plaza, Shakti Khand-2, Indirapuram, Ghaziabad",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.3",
+                    "restaurantName": "Satvik",
+                    "votes": "248"
+                },
+                {
+                    "address": "Shop 072, Ground Floor, Eros Market Place, Shakti Khand 2, Indirapuram, Ghaziabad",
+                    "cost": 600,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.9",
+                    "restaurantName": "Spoon & Chopsticks",
+                    "votes": "454"
+                },
+                {
+                    "address": "RTG 107, Royal Towar Market, Indirapuram, Ghaziabad",
+                    "cost": 400,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "Jaipuria Sunrise Plaza, Indirapuram",
+                    "rating": "4.0",
+                    "restaurantName": "Mashhoor Punjabi Dhaba",
+                    "votes": "205"
+                },
+                {
+                    "address": "Yadav Market, Shop 2, Block D, Sector 51, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sector 51, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Mainland Punjab",
+                    "votes": "53"
+                },
+                {
+                    "address": "Shop 1, Block D, Sector 51, Noida",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Biryani"
+                    ],
+                    "location": "Sector 51, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Nawabjaans",
+                    "votes": "55"
+                }
+            ],
+            "title": "Delivery Restaurants in Indirapuram"
+        },
+        {
+            "details": [
+                {
+                    "address": "Eros Market Place, Shakti Khand 2, Indirapuram, Ghaziabad",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.2",
+                    "restaurantName": "Mystery of Food",
+                    "votes": "977"
+                },
+                {
+                    "address": "A-B Block, 2nd Floor, Indirapuram Habitat Centre, Indirapuram, Ghaziabad",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "3.8",
+                    "restaurantName": "Hook Pub N Kitchen",
+                    "votes": "188"
+                },
+                {
+                    "address": "2nd Floor, Aditiya City Center, Near Raj Hans Apartment, Ghaziabad",
+                    "cost": 2500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Indirapuram",
+                    "restaurantName": "The Rock Resto Bar"
+                },
+                {
+                    "address": "H-1/A 31, H Block, Commercial Market, Sector 63, Noida",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "Chinese"
+                    ],
+                    "location": "Sector 63, Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Black Bottle + Kitchen",
+                    "votes": "967"
+                },
+                {
+                    "address": "Park Ascent, Plot 126, Khoda Road, Opposite IIM Lucknow Noida Campus, Sector 62, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Park Ascent, Sector 62, Noida",
+                    "rating": "3.6",
+                    "restaurantName": "Malt n Brew",
+                    "votes": "44"
+                },
+                {
+                    "address": "N-55/56 & 88/89, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Ardor 2.1",
+                    "votes": "3046"
+                },
+                {
+                    "address": "The Walk, Worldmark 2, Aerocity, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Asian"
+                    ],
+                    "location": "Aerocity",
+                    "rating": "4.9",
+                    "restaurantName": "Plum By Bent Chair",
+                    "votes": "952"
+                },
+                {
+                    "address": "Ground Floor, Qutub Hotel, A Block, Shaheed Jeet Singh Marg, Block C, Qutab Institutional Area, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Finger Food",
+                        "American"
+                    ],
+                    "location": "Qutab Institutional Area",
+                    "rating": "3.4",
+                    "restaurantName": "Dear Donna",
+                    "votes": "136"
+                },
+                {
+                    "address": "9-A & 12, Hauz Khas Village, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "Chinese",
+                        "Pizza",
+                        "Biryani",
+                        "Beverages"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.6",
+                    "restaurantName": "Hauz Khas Social",
+                    "votes": "13725"
+                },
+                {
+                    "address": "1/83, Third Floor, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "AIR- An Ivory Region",
+                    "votes": "1888"
+                },
+                {
+                    "address": "SCO 32, Sector 29, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "Mexican",
+                        "North Indian",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Duty Free | Vayu Bar",
+                    "votes": "1055"
+                },
+                {
+                    "address": "11, KG Marg, Scindia House, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Local",
+                    "votes": "5732"
+                },
+                {
+                    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Tamasha",
+                    "votes": "8135"
+                },
+                {
+                    "address": "1st Floor, DDA Shopping Complex, Aurobindo Place, Hauz Khas, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Finger Food",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.3",
+                    "restaurantName": "Summer House Cafe",
+                    "votes": "4344"
+                },
+                {
+                    "address": "Unit 1B & 1C, Upper Ground Floor-C, Building 10C, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "The Drunken Botanist",
+                    "votes": "4807"
+                }
+            ],
+            "title": "Nightlife Restaurants in Indirapuram"
+        },
+        {
+            "details": [
+                {
+                    "address": "Plot 2, Shop 118, Shakti Khand 2, Eros Market, Indirapuram, Ghaziabad",
+                    "cost": 900,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Indirapuram",
+                    "restaurantName": "The Grand Kitchen"
+                },
+                {
+                    "address": "GC Grand Market, Vaibhav Khand, Indirapuram, Ghaziabad",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Italian"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.1",
+                    "restaurantName": "Wood Box Cafe",
+                    "votes": "223"
+                },
+                {
+                    "address": "Indirapuram Habitat Centre, Indirapuram, Ghaziabad",
+                    "cost": 300,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Chinese"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "3.9",
+                    "restaurantName": "Hira Sweets",
+                    "votes": "573"
+                },
+                {
+                    "address": "208-212, Indirapuram Habitat Centre, Ahinsa Khand 1, Indirapuram, Ghaziabad",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "4.4",
+                    "restaurantName": "The Reader's Cafe",
+                    "votes": "1661"
+                },
+                {
+                    "address": "AG 19, Aditya City Centre, Indirapuram, Ghaziabad",
+                    "cost": 800,
+                    "cuisines": [
+                        "Italian",
+                        "Mediterranean",
+                        "Lebanese",
+                        "Pizza"
+                    ],
+                    "location": "Aditya City Centre, Indirapuram",
+                    "rating": "4.1",
+                    "restaurantName": "Haristo Cafe & Pizzeria",
+                    "votes": "1735"
+                },
+                {
+                    "address": "K-7, Assotech Windsor Street, Vaibhav Khand, Indirapuram, Ghaziabad",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese",
+                        "Kebab"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.8",
+                    "restaurantName": "Urban Punjab",
+                    "votes": "863"
+                },
+                {
+                    "address": "Shop 52, First Floor, Nipun Wonder Mall, Shakti Khand 2, Indirapuram, Ghaziabad",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "North Indian",
+                        "Kebab"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.5",
+                    "restaurantName": "Saundhee Potli",
+                    "votes": "316"
+                },
+                {
+                    "address": "Jaipuria Sunrise Plaza, Indirapuram, Ghaziabad",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Jaipuria Sunrise Plaza, Indirapuram",
+                    "rating": "3.6",
+                    "restaurantName": "Bikanervala",
+                    "votes": "440"
+                },
+                {
+                    "address": "2nd Floor, F Block, Indirapuram Habitat Centre, Indirapuram, Ghaziabad",
+                    "cost": 1900,
+                    "cuisines": [
+                        "Bar Food",
+                        "Finger Food",
+                        "Fast Food"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "4.0",
+                    "restaurantName": "The Flying Dutchman",
+                    "votes": "725"
+                },
+                {
+                    "address": "15, Second Floor, Eros Market Place, Shakti Khand 2, Indirapuram, Ghaziabad, Delhi NCR",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Thai",
+                        "Greek",
+                        "Italian"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.4",
+                    "restaurantName": "Clubate",
+                    "votes": "670"
+                },
+                {
+                    "address": "1st Floor, Indirapuram Habitat Centre, Indirapuram, Ghaziabad",
+                    "cost": 1300,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Mughlai"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "4.6",
+                    "restaurantName": "Paprika Park",
+                    "votes": "1140"
+                },
+                {
+                    "address": "Eros Market Place, Shakti Khand 2, Indirapuram, Ghaziabad",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.2",
+                    "restaurantName": "Mystery of Food",
+                    "votes": "977"
+                },
+                {
+                    "address": "387/1, Shakti Khand 1st, Indirapuram, Ghaziabad",
+                    "cost": 550,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.8",
+                    "restaurantName": "Deepanshu Restaurant",
+                    "votes": "816"
+                },
+                {
+                    "address": "1st Floor, C Block, Indirapuram Habitat Center, Ahinsa Khand 1, Indirapuram, Ghaziabad",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Finger Food"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.6",
+                    "restaurantName": "Drunken Detective",
+                    "votes": "103"
+                },
+                {
+                    "address": "Ground Floor, Eros Market Place, Shakti Khand 2, Indirapuram, Ghaziabad",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.2",
+                    "restaurantName": "Kafe Republic",
+                    "votes": "390"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Indirapuram"
+        },
+        {
+            "details": [
+                {
+                    "address": "GC Grand Market, Vaibhav Khand, Indirapuram, Ghaziabad",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Italian"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.1",
+                    "restaurantName": "Wood Box Cafe",
+                    "votes": "223"
+                },
+                {
+                    "address": "208-212, Indirapuram Habitat Centre, Ahinsa Khand 1, Indirapuram, Ghaziabad",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "4.4",
+                    "restaurantName": "The Reader's Cafe",
+                    "votes": "1661"
+                },
+                {
+                    "address": "Ground Floor, Eros Market Place, Shakti Khand 2, Indirapuram, Ghaziabad",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.2",
+                    "restaurantName": "Kafe Republic",
+                    "votes": "390"
+                },
+                {
+                    "address": "SD 121, Jaipuria Sunrise Plaza, Dr Sushila Naiyar Marg, Indirapuram, Ghaziabad",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Jaipuria Sunrise Plaza, Indirapuram",
+                    "rating": "4.0",
+                    "restaurantName": "Le Winkies",
+                    "votes": "203"
+                },
+                {
+                    "address": "Plot 22, Near Ashiana Green, Ahinsa Khand 2, Indirapuram, Ghaziabad",
+                    "cost": 650,
+                    "cuisines": [
+                        "Cafe",
+                        "Mexican",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.1",
+                    "restaurantName": "Time Out Cafe",
+                    "votes": "1320"
+                },
+                {
+                    "address": "Shop 128-129, Indirapuram Habitat Centre, Ahinsa Khand-1, Indirapuram, Ghaziabad",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "4.2",
+                    "restaurantName": "Chaayos",
+                    "votes": "420"
+                },
+                {
+                    "address": "Shop 24, GC Grand Street, Opposite Aditya Mega City, Gate 2, Indirapuram, Ghaziabad",
+                    "cost": 650,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Indirapuram",
+                    "restaurantName": "Cafe 99"
+                },
+                {
+                    "address": "Plot 32, Ground Floor, Shakti Khand 3, Indirapuram, Ghaziabad",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe Panino",
+                    "votes": "24"
+                },
+                {
+                    "address": "Shop 106, Ahinsa khand- 1, Jaipuria Sunrise Plaza, Indirapuram, Ghaziabad",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Popeye And Olive",
+                    "votes": "169"
+                },
+                {
+                    "address": "Shop BF 35, 1st floor, Aditya Mall, Indirapuram, Ghaziabad",
+                    "cost": 200,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Aditya City Centre, Indirapuram",
+                    "rating": "3.8",
+                    "restaurantName": "Syp n Dyp Cafe",
+                    "votes": "29"
+                },
+                {
+                    "address": "1st Floor, Shipra Mall, Gulmohar Road, Indirapuram, Ghaziabad",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Shipra Mall, Indirapuram",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "95"
+                },
+                {
+                    "address": "Ground Floor, Shipra Mall, Gulmohar Road, Indirapuram, Ghaziabad",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Shipra Mall, Indirapuram",
+                    "rating": "3.6",
+                    "restaurantName": "Barista",
+                    "votes": "54"
+                },
+                {
+                    "address": "Gaur Vealrio, Basement, Indirapuram, Ghaziabad",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.3",
+                    "restaurantName": "Aesthetic Cafe",
+                    "votes": "11"
+                },
+                {
+                    "address": "Shop 30,31, First Floor, Below SRS Cinemas, Aditya City Center, Vaibhav Khand, Indirapuram, Ghaziabad",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Aditya City Centre, Indirapuram",
+                    "rating": "3.5",
+                    "restaurantName": "Cave Cabana",
+                    "votes": "94"
+                },
+                {
+                    "address": "Shop 4, Eros Market Place, Shakti khand 2, Indirapuram, Ghaziabad",
+                    "cost": 250,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.8",
+                    "restaurantName": "11 Chaa Street",
+                    "votes": "47"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Indirapuram"
+        },
+        {
+            "details": [
+                {
+                    "address": "CS-2, Gyan Khand-III, Indirapuram, Ghaziabad",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Mithai",
+                        "Street Food",
+                        "Beverages"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.2",
+                    "restaurantName": "BTW",
+                    "votes": "342"
+                },
+                {
+                    "address": "Indirapuram Habitat Centre, Indirapuram, Ghaziabad",
+                    "cost": 300,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Chinese"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "3.9",
+                    "restaurantName": "Hira Sweets",
+                    "votes": "573"
+                },
+                {
+                    "address": "C-1, Saya Zenith, Next to CISF Camp, Opposite Shipra Sun City, Indirapuram, Ghaziabad",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food",
+                        "Desserts"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.1",
+                    "restaurantName": "Mr. Brown",
+                    "votes": "805"
+                },
+                {
+                    "address": "19 & 50, Level 2, Shipra Mall, Indirapuram, Ghaziabad",
+                    "cost": 600,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Shipra Mall, Indirapuram",
+                    "rating": "4.0",
+                    "restaurantName": "Dunkin' Donuts",
+                    "votes": "473"
+                },
+                {
+                    "address": "Jaipuria Sunrise Plaza, Indirapuram, Ghaziabad",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Jaipuria Sunrise Plaza, Indirapuram",
+                    "rating": "3.6",
+                    "restaurantName": "Bikanervala",
+                    "votes": "440"
+                },
+                {
+                    "address": "Gyan Khand 1, Indirapuram, Ghaziabad",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.6",
+                    "restaurantName": "Cake Bake Company",
+                    "votes": "48"
+                },
+                {
+                    "address": "Ground Floor, Shipra Mall, Gulmohar Road, Indirapuram, Ghaziabad",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food",
+                        "Fast Food",
+                        "Mithai",
+                        "Desserts"
+                    ],
+                    "location": "Shipra Mall, Indirapuram",
+                    "rating": "3.8",
+                    "restaurantName": "Haldiram's",
+                    "votes": "456"
+                },
+                {
+                    "address": "1st Floor, C Block, Indirapuram Habitat Center, Ahinsa Khand 1, Indirapuram, Ghaziabad",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Finger Food"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.6",
+                    "restaurantName": "Drunken Detective",
+                    "votes": "103"
+                },
+                {
+                    "address": "Shop - J287, Indirapuram Habitat Centre Outlet, Indirapuram, Ghaziabad",
+                    "cost": 400,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "4.0",
+                    "restaurantName": "Baskin Robbins",
+                    "votes": "43"
+                },
+                {
+                    "address": "Shop G 50, Dmall, Shakti Khand 2, Indirapuram, Ghaziabad",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.2",
+                    "restaurantName": "Gola Sizzlers",
+                    "votes": "93"
+                },
+                {
+                    "address": "F 225, Indirapuram Habitat Centre, Ghaziabad",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "4.3",
+                    "restaurantName": "SashMicks Bakery",
+                    "votes": "154"
+                },
+                {
+                    "address": "Shop 3, K Block Market, Gaur Green City, Indirapuram, Ghaziabad",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.9",
+                    "restaurantName": "Bakes N Cakes",
+                    "votes": "286"
+                },
+                {
+                    "address": "Windsor Road, Aditya Mega City, Vaibhav Khand, Indirapuram, Ghaziabad",
+                    "cost": 300,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "3.6",
+                    "restaurantName": "Bikaner's Sweets",
+                    "votes": "52"
+                },
+                {
+                    "address": "Shop 354, First Floor, J Block, Indirapuram Habitat Centre, Ahinsa Khand 1, Indirapuram, Ghaziabad",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Indirapuram Habitat Centre, Indirapuram",
+                    "rating": "3.9",
+                    "restaurantName": "Giani's",
+                    "votes": "159"
+                },
+                {
+                    "address": "Shop 15, GC Grand Tower, Street Market, Vaibhav khand, Indirapuram, Ghaziabad",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Indirapuram",
+                    "rating": "4.0",
+                    "restaurantName": "Stop My Starvation",
+                    "votes": "76"
+                }
+            ],
+            "title": "Desserts & Bakes in Indirapuram"
+        }
+    ]
+}

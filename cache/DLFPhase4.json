@@ -1,0 +1,1409 @@
+{
+    "placeName": "DLF Phase 4",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "Delivery Only",
+                    "cost": 700,
+                    "cuisines": [
+                        "American",
+                        "Burger",
+                        "Beverages"
+                    ],
+                    "location": "Golf Course Road",
+                    "rating": "4.2",
+                    "restaurantName": "Dudleys",
+                    "votes": "1122"
+                },
+                {
+                    "address": "LG 41, MGF Metropolis Mall, MG Road, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Beverages",
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "MGF Metropolis Mall, MG Road",
+                    "rating": "4.6",
+                    "restaurantName": "Ice Pice",
+                    "votes": "730"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Appa Desi",
+                    "votes": "114"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Baking Bad",
+                    "votes": "160"
+                },
+                {
+                    "address": "16/26, U Block, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "2.2",
+                    "restaurantName": "Grandma's Kitchen",
+                    "votes": "132"
+                },
+                {
+                    "address": "B-202 & 203, Supermart 1, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "2218"
+                },
+                {
+                    "address": "M-1/6, Basement, DLF Phase 2, Gurgaon, Delhi NCR",
+                    "cost": 600,
+                    "cuisines": [
+                        "American",
+                        "Fast Food",
+                        "Sandwich",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 2",
+                    "rating": "4.5",
+                    "restaurantName": "Wicked Wiches",
+                    "votes": "509"
+                },
+                {
+                    "address": "F-10, Sushant Arcade, Sushant Lok, Gurgaon",
+                    "cost": 650,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Rolls"
+                    ],
+                    "location": "Sushant Shopping Arcade, Sushant Lok, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Wrapchick",
+                    "votes": "516"
+                },
+                {
+                    "address": "2, Central Plaza Mall, Golf Course Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Wraps",
+                        "Lebanese"
+                    ],
+                    "location": "Central Plaza Mall, Golf Course Road",
+                    "rating": "4.5",
+                    "restaurantName": "Shawarma House",
+                    "votes": "1412"
+                },
+                {
+                    "address": "W Block, Moulsari Road, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Shree Om Food Plaza",
+                    "votes": "162"
+                },
+                {
+                    "address": "Shop 59P, HUDA Market, Sector 14, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Rolls"
+                    ],
+                    "location": "Sector 14, Gurgaon",
+                    "rating": "4.2",
+                    "restaurantName": "Rolls Mania",
+                    "votes": "640"
+                },
+                {
+                    "address": "U8/18, Basement, Near DLF Phase 3 Metro Station, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Italian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.6",
+                    "restaurantName": "Chilli Indiana",
+                    "votes": "150"
+                },
+                {
+                    "address": "SF-27, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Burger"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Burger Point",
+                    "votes": "720"
+                },
+                {
+                    "address": "Near Rapid Metro Station, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Rolls"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.9",
+                    "restaurantName": "Eatezee Foods",
+                    "votes": "116"
+                },
+                {
+                    "address": "Shop NM 19, Old DLF Colony Market, Sector 14, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Chinese",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Sector 14, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Chufang  The Chinese Kitchen",
+                    "votes": "144"
+                }
+            ],
+            "title": "Delivery Restaurants in DLF Phase 4"
+        },
+        {
+            "details": [
+                {
+                    "address": "GF-21, Global Foyer Mall, Golf Course Road, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "rating": "4.3",
+                    "restaurantName": "Saints n Sinners - Grub Pub Music",
+                    "votes": "489"
+                },
+                {
+                    "address": "2nd Floor, CrossPoint Mall, Opposite Galleria Market DLF Phase 4, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "European",
+                        "Asian",
+                        "North Indian",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Nowhere Terrace Brewpub Cafe",
+                    "votes": "1175"
+                },
+                {
+                    "address": "106, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Italian",
+                        "European",
+                        "Continental",
+                        "Kebab",
+                        "Momos"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.2",
+                    "restaurantName": "Uptown Fresh Beer Cafe",
+                    "votes": "667"
+                },
+                {
+                    "address": "Opposite Vyapar Kendra, DLF Phase 4, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "3.7",
+                    "restaurantName": "Machan",
+                    "votes": "55"
+                },
+                {
+                    "address": "242A & 242B, 1st & 2nd Floor, DLF Mega Mall, DLF Phase 1, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Mega Mall, DLF Phase 1",
+                    "rating": "4.1",
+                    "restaurantName": "7 Barrel Brew Pub",
+                    "votes": "879"
+                },
+                {
+                    "address": "Opposte Metro Pillar 170, Sector 29, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "3.3",
+                    "restaurantName": "Madhushala Restaurant",
+                    "votes": "7"
+                },
+                {
+                    "address": "210, 2nd Floor, DLF Mega Mall, DLF Phase 1, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "North Indian"
+                    ],
+                    "location": "Mega Mall, DLF Phase 1",
+                    "rating": "2.8",
+                    "restaurantName": "Club Storm",
+                    "votes": "17"
+                },
+                {
+                    "address": "Park Plaza Hotel, B Block, Sushant Lok 1, Sushant Lok, Gurgaon",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Continental",
+                        "Finger Food"
+                    ],
+                    "location": "Park Plaza, Sushant Lok",
+                    "rating": "3.6",
+                    "restaurantName": "New Town Lounge & Bar - Park Plaza",
+                    "votes": "21"
+                },
+                {
+                    "address": "1st Floor, Global Foyer Mall, Sector 43, Golf Course Road, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Finger Food",
+                        "American",
+                        "Continental",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "rating": "4.6",
+                    "restaurantName": "Manhattan Bar Exchange & Brewery",
+                    "votes": "4101"
+                },
+                {
+                    "address": "Global Foyer Mall, Golf Course Road, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "North Indian"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "rating": "4.2",
+                    "restaurantName": "Vapour Bar Exchange",
+                    "votes": "854"
+                },
+                {
+                    "address": "1st Floor, Global Foyer, Golf Course Road, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "restaurantName": "La La Land Brew Pub"
+                },
+                {
+                    "address": "Global Foyer Mall, Sector 43, Golf Course Road, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "European",
+                        "Continental"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "rating": "3.7",
+                    "restaurantName": "Playboy Tap",
+                    "votes": "158"
+                },
+                {
+                    "address": "SCO 32, Sector 29, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "Mexican",
+                        "North Indian",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Duty Free | Vayu Bar",
+                    "votes": "1055"
+                },
+                {
+                    "address": "SCO 53, 4th Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Molecule Air Bar",
+                    "votes": "4869"
+                },
+                {
+                    "address": "Site 8-10, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "Modern Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Prankster",
+                    "votes": "4682"
+                }
+            ],
+            "title": "Nightlife Restaurants in DLF Phase 4"
+        },
+        {
+            "details": [
+                {
+                    "address": "2nd Floor, CrossPoint Mall, Opposite Galleria Market DLF Phase 4, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "European",
+                        "Asian",
+                        "North Indian",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Nowhere Terrace Brewpub Cafe",
+                    "votes": "1175"
+                },
+                {
+                    "address": "106, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Italian",
+                        "European",
+                        "Continental",
+                        "Kebab",
+                        "Momos"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.2",
+                    "restaurantName": "Uptown Fresh Beer Cafe",
+                    "votes": "667"
+                },
+                {
+                    "address": "Shop 11, 12, 14, Bestech Chambers, Block C Road, Sushant Lok Phase I, Sector 43, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "Mediterranean",
+                        "Tex-Mex",
+                        "North Indian",
+                        "Asian",
+                        "Kebab",
+                        "Middle Eastern"
+                    ],
+                    "location": "Sector 43, Gurgaon",
+                    "rating": "3.9",
+                    "restaurantName": "Norenj Kitchen & Microbrewery",
+                    "votes": "61"
+                },
+                {
+                    "address": "242A & 242B, 1st & 2nd Floor, DLF Mega Mall, DLF Phase 1, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Mega Mall, DLF Phase 1",
+                    "rating": "4.1",
+                    "restaurantName": "7 Barrel Brew Pub",
+                    "votes": "879"
+                },
+                {
+                    "address": "1st Floor, Global Foyer Mall, Sector 43, Golf Course Road, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Finger Food",
+                        "American",
+                        "Continental",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "rating": "4.6",
+                    "restaurantName": "Manhattan Bar Exchange & Brewery",
+                    "votes": "4101"
+                },
+                {
+                    "address": "Global Foyer Mall, Golf Course Road, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "North Indian"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "rating": "4.2",
+                    "restaurantName": "Vapour Bar Exchange",
+                    "votes": "854"
+                },
+                {
+                    "address": "1st Floor, Global Foyer, Golf Course Road, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "restaurantName": "La La Land Brew Pub"
+                },
+                {
+                    "address": "SCO 32, Sector 29, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "Mexican",
+                        "North Indian",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Duty Free | Vayu Bar",
+                    "votes": "1055"
+                },
+                {
+                    "address": "SCO 53, 4th Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Molecule Air Bar",
+                    "votes": "4869"
+                },
+                {
+                    "address": "Site 8-10, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "Modern Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Prankster",
+                    "votes": "4682"
+                },
+                {
+                    "address": "SCO 39, 1st Floor, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Modern Indian",
+                        "Finger Food",
+                        "Sushi",
+                        "Bar Food",
+                        "Italian",
+                        "Asian",
+                        "Pizza"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.7",
+                    "restaurantName": "Decode Air Bar",
+                    "votes": "688"
+                },
+                {
+                    "address": "SCO 53, 2nd Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food",
+                        "Italian",
+                        "Asian",
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.8",
+                    "restaurantName": "Feel Alive",
+                    "votes": "1872"
+                },
+                {
+                    "address": "SCO 34, Main Market, Sector 29, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.5",
+                    "restaurantName": "Downtown - Diners & Living Beer Cafe",
+                    "votes": "5022"
+                },
+                {
+                    "address": "Plot 6 & 7, Sector 29, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "European",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.5",
+                    "restaurantName": "Gravity Spacebar",
+                    "votes": "1139"
+                },
+                {
+                    "address": "SCO 30, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Seafood",
+                        "Chinese",
+                        "North Indian",
+                        "Pizza",
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.9",
+                    "restaurantName": "The Hook",
+                    "votes": "2051"
+                }
+            ],
+            "title": "Microbreweries in DLF Phase 4, Gurgaon"
+        },
+        {
+            "details": [
+                {
+                    "address": "97 SF, 1st Floor, Galleria Market, Near Galleria Towers, Facing the Main Road, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Asian",
+                        "Thai"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Auntie Fung's",
+                    "votes": "385"
+                },
+                {
+                    "address": "SF-114, 1st Floor, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Tossin Pizza",
+                    "votes": "2357"
+                },
+                {
+                    "address": "207, Level 2, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Cafe",
+                        "Belgian"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "Di Ghent Cafe",
+                    "votes": "2029"
+                },
+                {
+                    "address": "GL 119-123, 1st Floor, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "1746"
+                },
+                {
+                    "address": "R-003, 2nd Floor, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 1550,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "Momos"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "AMPM Caf\u00e9 & Bar",
+                    "votes": "2417"
+                },
+                {
+                    "address": "2nd Floor, CrossPoint Mall, Opposite Galleria Market DLF Phase 4, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "European",
+                        "Asian",
+                        "North Indian",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Nowhere Terrace Brewpub Cafe",
+                    "votes": "1175"
+                },
+                {
+                    "address": "B-202 & 203, Supermart 1, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "2218"
+                },
+                {
+                    "address": "GL-201, 2nd Floor, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Italian",
+                        "Salad",
+                        "Juices"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.2",
+                    "restaurantName": "The Pasta Bowl Company",
+                    "votes": "1322"
+                },
+                {
+                    "address": "106, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Italian",
+                        "European",
+                        "Continental",
+                        "Kebab",
+                        "Momos"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.2",
+                    "restaurantName": "Uptown Fresh Beer Cafe",
+                    "votes": "667"
+                },
+                {
+                    "address": "GL 204-206, 2nd Floor, Cross Point Mall, DLF Phase 4, Gurugram",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Awadhi",
+                        "Kebab"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.5",
+                    "restaurantName": "Nayab Handi",
+                    "votes": "306"
+                },
+                {
+                    "address": "Shop 14 & 15, Ground Floor, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "American",
+                        "Italian",
+                        "Healthy Food",
+                        "Juices",
+                        "Cafe"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.2",
+                    "restaurantName": "Getafix",
+                    "votes": "750"
+                },
+                {
+                    "address": "216 & 223, 2nd Floor, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "South Indian",
+                        "North Indian"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Madhuban - Sattvic South Indian Restaurant",
+                    "votes": "895"
+                },
+                {
+                    "address": "SF-93, 1st Floor, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Sakley's The Mountain Cafe",
+                    "votes": "1374"
+                },
+                {
+                    "address": "B131, Super Mart 1, DLF Phase 4, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Healthy Food"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "restaurantName": "Sehat Cafe"
+                },
+                {
+                    "address": "2nd Floor, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Continental"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Culture Cafe",
+                    "votes": "1015"
+                }
+            ],
+            "title": "Dine-Out Restaurants in DLF Phase 4"
+        },
+        {
+            "details": [
+                {
+                    "address": "B 133, Supermart 1, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "North Indian"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Nosh",
+                    "votes": "1210"
+                },
+                {
+                    "address": "Supermart 2, DLF Phase 4, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Biryani"
+                    ],
+                    "location": "Supermart 2, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Kaiser",
+                    "votes": "931"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Rolls",
+                        "Mughlai"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "Dilli BC",
+                    "votes": "882"
+                },
+                {
+                    "address": "Shop 8 & 9, Yaduvanshi Market, Behind Supermart 2, DLF Phase 4, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Mughlai",
+                        "North Indian"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Tandoor Express",
+                    "votes": "745"
+                },
+                {
+                    "address": "E-21, Supermart 2, DLF Phase 4, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "Supermart 2, DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Wah! Amritsar",
+                    "votes": "403"
+                },
+                {
+                    "address": "A - 130, Supermart 1, DLF Phase 4, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Mughlai",
+                        "North Indian",
+                        "Rolls"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Alkauser",
+                    "votes": "822"
+                },
+                {
+                    "address": "10, First Floor, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Chef Style Express",
+                    "votes": "447"
+                },
+                {
+                    "address": "48/1, Shiva Market, Chakartur, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "3.6",
+                    "restaurantName": "The Empress- A Mughlai  Affair",
+                    "votes": "584"
+                },
+                {
+                    "address": "DLF Phase 4, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Biryani",
+                        "Kebab"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "3.7",
+                    "restaurantName": "Purani Dilli's Al Karam Kebab House",
+                    "votes": "523"
+                },
+                {
+                    "address": "SF-124, 1st Floor, DLF Galleria",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mughlai",
+                        "North Indian"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "3.8",
+                    "restaurantName": "Lazeez Food",
+                    "votes": "377"
+                },
+                {
+                    "address": "A-201, Supermart 1, DLF Phase 4, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bengali",
+                        "Rolls"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "3.8",
+                    "restaurantName": "Ki Hangla",
+                    "votes": "1190"
+                },
+                {
+                    "address": "GL 204-206, 2nd Floor, Cross Point Mall, DLF Phase 4, Gurugram",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Awadhi",
+                        "Kebab"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.5",
+                    "restaurantName": "Nayab Handi",
+                    "votes": "306"
+                },
+                {
+                    "address": "90, Ground Floor, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 650,
+                    "cuisines": [
+                        "Mughlai",
+                        "North Indian",
+                        "Kebab"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "3.7",
+                    "restaurantName": "Khan Chacha",
+                    "votes": "711"
+                },
+                {
+                    "address": "D-121 Sushant Shopping Arcade, Sushant Lok 1, Gurgaon",
+                    "cost": 650,
+                    "cuisines": [
+                        "Biryani",
+                        "North Indian",
+                        "Kebab"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "Tawa Tales",
+                    "votes": "234"
+                },
+                {
+                    "address": "DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "Mughlai"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "4.2",
+                    "restaurantName": "India Kitchen",
+                    "votes": "961"
+                }
+            ],
+            "title": "North Indian Restaurants in DLF Phase 4, Gurgaon"
+        },
+        {
+            "details": [
+                {
+                    "address": "215, 2nd Floor, Global Foyer Mall, Golf Course Road, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Beverages"
+                    ],
+                    "location": "Global Foyer Mall, Golf Course Road",
+                    "restaurantName": "Reanzen"
+                },
+                {
+                    "address": "207, Level 2, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Cafe",
+                        "Belgian"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "Di Ghent Cafe",
+                    "votes": "2029"
+                },
+                {
+                    "address": "GL 119-123, 1st Floor, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "1746"
+                },
+                {
+                    "address": "G-84, Ground Floor, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "Theobroma",
+                    "votes": "476"
+                },
+                {
+                    "address": "Shop 14 & 15, Ground Floor, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "American",
+                        "Italian",
+                        "Healthy Food",
+                        "Juices",
+                        "Cafe"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.2",
+                    "restaurantName": "Getafix",
+                    "votes": "750"
+                },
+                {
+                    "address": "SG-73, DLF Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Coffee"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "Coffee Bond",
+                    "votes": "79"
+                },
+                {
+                    "address": "SF-93, 1st Floor, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Sakley's The Mountain Cafe",
+                    "votes": "1374"
+                },
+                {
+                    "address": "B131, Super Mart 1, DLF Phase 4, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Healthy Food"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "restaurantName": "Sehat Cafe"
+                },
+                {
+                    "address": "118, CrossPoint Mall, Near Galleria Market, Sector 28, DLF Phase 4, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Mexican",
+                        "Bakery",
+                        "Italian"
+                    ],
+                    "location": "DLF Phase 4",
+                    "restaurantName": "The Chocolate Villa"
+                },
+                {
+                    "address": "Next To Supermart 2, DLF Phase 4, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Italian",
+                        "Pizza"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Cafe Soul Garden",
+                    "votes": "603"
+                },
+                {
+                    "address": "100, 1st Floor, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Italian",
+                        "Burger"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "The Joint Cafe",
+                    "votes": "1504"
+                },
+                {
+                    "address": "SF - 16, First Floor, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Desserts",
+                        "Panini"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Tiny Tuscan",
+                    "votes": "292"
+                },
+                {
+                    "address": "SG-006, Ground Floor, DLF Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Chaayos",
+                    "votes": "1216"
+                },
+                {
+                    "address": "R1, 2nd Floor, DLF Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Blue Tokai Coffee Roasters",
+                    "votes": "173"
+                },
+                {
+                    "address": "Shop 4, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "91"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in DLF Phase 4"
+        },
+        {
+            "details": [
+                {
+                    "address": "SG-104, DLF Galleria Market DLF Phase 4, Gurgaon",
+                    "cost": 150,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.4",
+                    "restaurantName": "Naturals Ice Cream",
+                    "votes": "807"
+                },
+                {
+                    "address": "1st Floor, Shiva Market, Near Vakil Market, Chakarpur, DLF Phase 4, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "The Bombaykery",
+                    "votes": "907"
+                },
+                {
+                    "address": "G-84, Ground Floor, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "Theobroma",
+                    "votes": "476"
+                },
+                {
+                    "address": "A-130, Supermart 1, DLF Phase 4, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Giani",
+                    "votes": "356"
+                },
+                {
+                    "address": "SG-14, Ground Floor, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 450,
+                    "cuisines": [
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Waffle Wallah",
+                    "votes": "289"
+                },
+                {
+                    "address": "118, CrossPoint Mall, Near Galleria Market, Sector 28, DLF Phase 4, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Mexican",
+                        "Bakery",
+                        "Italian"
+                    ],
+                    "location": "DLF Phase 4",
+                    "restaurantName": "The Chocolate Villa"
+                },
+                {
+                    "address": "SG 101, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.4",
+                    "restaurantName": "The Cakecity Patisserie",
+                    "votes": "542"
+                },
+                {
+                    "address": "SG - 45, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "The Belgian Waffle Co.",
+                    "votes": "220"
+                },
+                {
+                    "address": "SG 80, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food",
+                        "Rolls",
+                        "Desserts"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "3.8",
+                    "restaurantName": "Sugar & Spice",
+                    "votes": "50"
+                },
+                {
+                    "address": "SG 101, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Keventers",
+                    "votes": "112"
+                },
+                {
+                    "address": "SF - 16, First Floor, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Desserts",
+                        "Panini"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Tiny Tuscan",
+                    "votes": "292"
+                },
+                {
+                    "address": "Shop D 15, Super Mart 2, DLF Phase 4, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "3.4",
+                    "restaurantName": "Chill Bakes",
+                    "votes": "13"
+                },
+                {
+                    "address": "R1, 2nd Floor, DLF Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Blue Tokai Coffee Roasters",
+                    "votes": "173"
+                },
+                {
+                    "address": "Shop 4, Galleria Market, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.0",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "91"
+                },
+                {
+                    "address": "Plot 5435, 1st Floor Pragati ViharDLF Phase 4, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "4.5",
+                    "restaurantName": "Decadenz",
+                    "votes": "352"
+                }
+            ],
+            "title": "Desserts & Bakes in DLF Phase 4"
+        }
+    ]
+}

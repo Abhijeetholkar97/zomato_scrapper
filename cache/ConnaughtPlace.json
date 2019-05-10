@@ -1,0 +1,1241 @@
+{
+    "placeName": "Connaught Place",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "5/58, Shanker Road, Rajendra Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Rajendra Place",
+                    "rating": "3.7",
+                    "restaurantName": "Waffle Fever",
+                    "votes": "91"
+                },
+                {
+                    "address": "Shop 4, Next to Lucky Juice Center, Gurudwara Road, Zamrudpur, Near Greater Kailash",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Pizza"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.6",
+                    "restaurantName": "Bhookemon",
+                    "votes": "550"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "South Indian"
+                    ],
+                    "location": "Karol Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Foodness",
+                    "votes": "330"
+                },
+                {
+                    "address": "4/1, Meznine Floor, DB Gupta Road, Near Hotel Today, Paharganj, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Fast Food"
+                    ],
+                    "location": "Paharganj",
+                    "rating": "3.5",
+                    "restaurantName": "Midnight Canteen",
+                    "votes": "84"
+                },
+                {
+                    "address": "R 184, Street 8, Near Badi Masjid, Ramesh Park, Laxmi Nagar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Biryani",
+                        "Mughlai",
+                        "Fast Food"
+                    ],
+                    "location": "Laxmi Nagar",
+                    "rating": "3.5",
+                    "restaurantName": "Taste Of Fortune",
+                    "votes": "20"
+                },
+                {
+                    "address": "2, Arya Samaj Road, Karol Bagh, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Karol Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "The Burger Club",
+                    "votes": "1401"
+                },
+                {
+                    "address": "53/5, Bada Bazar Marg, Old Rajender Nagar, Rajinder Nagar, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages",
+                        "Wraps"
+                    ],
+                    "location": "Rajinder Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Wat-a-Burger!",
+                    "votes": "50"
+                },
+                {
+                    "address": "Hauz Khas, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Italian",
+                        "Burger",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.1",
+                    "restaurantName": "Midnight Of Paradise",
+                    "votes": "226"
+                },
+                {
+                    "address": "G-1, Rattan Jyoti Building, Rajendra Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Italian",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Rajendra Place",
+                    "rating": "4.1",
+                    "restaurantName": "Burgelicious by The Flashback",
+                    "votes": "91"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 800,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian",
+                        "Desserts",
+                        "Burger",
+                        "American"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.6",
+                    "restaurantName": "POMP - Pizza On My Plate",
+                    "votes": "1259"
+                },
+                {
+                    "address": "Shop 71, Desh Bandu Gupta Road, Opposite PP Jewelers, Karol Bagh, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Mughlai",
+                        "North Indian"
+                    ],
+                    "location": "Karol Bagh",
+                    "rating": "3.7",
+                    "restaurantName": "Nazeer Foods",
+                    "votes": "268"
+                },
+                {
+                    "address": "4A/57 Main Shankar Road, Old Rajinder Nagar, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Rajinder Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "Burgrill",
+                    "votes": "154"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 500,
+                    "cuisines": [
+                        "Thai",
+                        "Chinese",
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.1",
+                    "restaurantName": "FOIS - Flame Of Indian Spices",
+                    "votes": "245"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 800,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.3",
+                    "restaurantName": "Wild Wild West",
+                    "votes": "98"
+                },
+                {
+                    "address": "4A-59, Old Rajinder Nagar, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Rajinder Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "London Street Kitchen",
+                    "votes": "867"
+                }
+            ],
+            "title": "Delivery Restaurants in Connaught Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "91, 2nd Floor, N Block, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mediterranean",
+                        "Asian",
+                        "Salad",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Junkyard Cafe",
+                    "votes": "5530"
+                },
+                {
+                    "address": "G-72, 1st Floor, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "European",
+                        "Chinese",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Lord of the Drinks",
+                    "votes": "9330"
+                },
+                {
+                    "address": "N/57 & N/60, 1st Floor, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Mexican",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.9",
+                    "restaurantName": "FLYP Cafe",
+                    "votes": "2845"
+                },
+                {
+                    "address": "N-55/56 & 88/89, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Ardor 2.1",
+                    "votes": "3046"
+                },
+                {
+                    "address": "Shop N 49, 2nd Floor, Connaught Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "My Bar Headquarters",
+                    "votes": "5591"
+                },
+                {
+                    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Tamasha",
+                    "votes": "8135"
+                },
+                {
+                    "address": "23, 1st Floor, Odeon Building, Radial 5, D Block, Connaught Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "Momos",
+                        "Beverages"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Odeon Social",
+                    "votes": "5842"
+                },
+                {
+                    "address": "D 19/ 20, D Block, Inner Circle, Near Rajiv Chowk Metro Station Gate 3, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "American",
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Asian",
+                        "Salad",
+                        "Juices",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Warehouse Cafe",
+                    "votes": "9725"
+                },
+                {
+                    "address": "M 43, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "Asian",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.7",
+                    "restaurantName": "Ministry Of Beer",
+                    "votes": "2791"
+                },
+                {
+                    "address": "N-86, 1st Floor, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Finger Food"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Teddy Boy",
+                    "votes": "5045"
+                },
+                {
+                    "address": "M-39, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.5",
+                    "restaurantName": "The Luggage Room Kitchen And Bar",
+                    "votes": "1633"
+                },
+                {
+                    "address": "P15/90, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Asian",
+                        "Thai"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.0",
+                    "restaurantName": "Tales & Spirits",
+                    "votes": "945"
+                },
+                {
+                    "address": "C-37, Connaught Place, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Biryani"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Openhouse Cafe",
+                    "votes": "4726"
+                },
+                {
+                    "address": "1st Floor, F-14/15, Middle Circle, Connaught Place, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Mughlai",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Kill The Bill",
+                    "votes": "1120"
+                },
+                {
+                    "address": "M-11, Middle Circle, Connaught Place, New Delhi",
+                    "cost": 1900,
+                    "cuisines": [
+                        "North Indian",
+                        "Mediterranean",
+                        "Asian",
+                        "Fast Food",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.5",
+                    "restaurantName": "HotMess",
+                    "votes": "2189"
+                }
+            ],
+            "title": "Clubs and lounges in Connaught Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "11, KG Marg, Scindia House, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Local",
+                    "votes": "5732"
+                },
+                {
+                    "address": "F-60, Second Floor, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Asian",
+                        "Continental",
+                        "North Indian",
+                        "Mediterranean",
+                        "Bar Food"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Station Bar",
+                    "votes": "588"
+                },
+                {
+                    "address": "2nd Floor, Scindia House, Atma Ram Mansion, K.G. Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Master Of Malts",
+                    "votes": "2118"
+                },
+                {
+                    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Tamasha",
+                    "votes": "8135"
+                },
+                {
+                    "address": "23/7 L Block, Middle circle, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Unplugged Courtyard",
+                    "votes": "3188"
+                },
+                {
+                    "address": "38/39, Level 1, Block E , Inner Circle, Connaught Place, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Modern Indian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Farzi Cafe",
+                    "votes": "3836"
+                },
+                {
+                    "address": "1st Floor, C-39, Opposite Odean Cinema, Connaught Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Mediterranean",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.9",
+                    "restaurantName": "Caf\u00e9 MRP",
+                    "votes": "2538"
+                },
+                {
+                    "address": "H 55, 1st Floor, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Pizza"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.6",
+                    "restaurantName": "The Darzi Bar & Kitchen",
+                    "votes": "2911"
+                },
+                {
+                    "address": "M-38, Outer Circle, Opposite Shankar Market, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.8",
+                    "restaurantName": "38 Barracks",
+                    "votes": "3055"
+                },
+                {
+                    "address": "N-86, 1st Floor, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Finger Food"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Teddy Boy",
+                    "votes": "5045"
+                },
+                {
+                    "address": "F40, 2nd Floor, Inner Circle, \nConnaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "Mexican",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Detroit",
+                    "votes": "924"
+                },
+                {
+                    "address": "B 45-47, Near PVR Plaza, Connaught Place, New Delhi",
+                    "cost": 1350,
+                    "cuisines": [
+                        "Finger Food",
+                        "Continental",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.8",
+                    "restaurantName": "Castle 9",
+                    "votes": "1537"
+                },
+                {
+                    "address": "D-2, Inner Circle, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "The Beer Cafe - BIGGIE",
+                    "votes": "1487"
+                },
+                {
+                    "address": "B-45/47, 1st Floor, Near PVR Plaza, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.9",
+                    "restaurantName": "Knight",
+                    "votes": "557"
+                },
+                {
+                    "address": "E-42 & 43, Inner Circle, Connaught Place, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental",
+                        "Thai"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Q'BA",
+                    "votes": "332"
+                }
+            ],
+            "title": "Pubs & Bars in Connaught Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "N-55/56 & 88/89, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Ardor 2.1",
+                    "votes": "3046"
+                },
+                {
+                    "address": "22, Antriksh Bhavan, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 2400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Mughlai"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.0",
+                    "restaurantName": "Parikrama - The Revolving Restaurant",
+                    "votes": "3825"
+                },
+                {
+                    "address": "M-39, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.5",
+                    "restaurantName": "The Luggage Room Kitchen And Bar",
+                    "votes": "1633"
+                },
+                {
+                    "address": "Shop N 49, 2nd Floor, Connaught Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "My Bar Headquarters",
+                    "votes": "5591"
+                },
+                {
+                    "address": "11, KG Marg, Scindia House, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Local",
+                    "votes": "5732"
+                },
+                {
+                    "address": "First Floor, B 40, The Colonnade, Opposite Gate 2 Rajiv Chowk Metro Station, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "The Colonnade, Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill Cafe",
+                    "votes": "362"
+                },
+                {
+                    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Tamasha",
+                    "votes": "8135"
+                },
+                {
+                    "address": "P-13, Connaught Circus, Connaught Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "South Indian",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Saravana Bhavan",
+                    "votes": "7629"
+                },
+                {
+                    "address": "2nd Floor, Munshilal Building, Block N, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "BBQ"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Barbeque Nation",
+                    "votes": "4593"
+                },
+                {
+                    "address": "23, 1st Floor, Odeon Building, Radial 5, D Block, Connaught Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "Momos",
+                        "Beverages"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Odeon Social",
+                    "votes": "5842"
+                },
+                {
+                    "address": "L-6, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "Street Food",
+                        "Chinese",
+                        "South Indian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "Haldiram's",
+                    "votes": "1964"
+                },
+                {
+                    "address": "M 39, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "The G.T. Road",
+                    "votes": "2754"
+                },
+                {
+                    "address": "91, 2nd Floor, N Block, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mediterranean",
+                        "Asian",
+                        "Salad",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Junkyard Cafe",
+                    "votes": "5530"
+                },
+                {
+                    "address": "23/7 L Block, Middle circle, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Unplugged Courtyard",
+                    "votes": "3188"
+                },
+                {
+                    "address": "38/39, Level 1, Block E , Inner Circle, Connaught Place, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Modern Indian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Farzi Cafe",
+                    "votes": "3836"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Connaught Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "First Floor, B 40, The Colonnade, Opposite Gate 2 Rajiv Chowk Metro Station, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "The Colonnade, Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill Cafe",
+                    "votes": "362"
+                },
+                {
+                    "address": "23, Ground Floor, Odeon Building, Radial Road 5, D Block, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "European",
+                        "Italian",
+                        "Cafe",
+                        "American",
+                        "Burger",
+                        "Juices",
+                        "Healthy Food",
+                        "Salad"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Smoke House Deli",
+                    "votes": "1348"
+                },
+                {
+                    "address": "L-23/9, Middle Circle, Connaught Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Beverages"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.6",
+                    "restaurantName": "Xero Degrees",
+                    "votes": "924"
+                },
+                {
+                    "address": "M-38, Outer Circle, Opposite Shankar Market, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.8",
+                    "restaurantName": "38 Barracks",
+                    "votes": "3055"
+                },
+                {
+                    "address": "D-28, Ground Floor & Mezzanine Connaught Place New Delhi Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Theobroma",
+                    "votes": "697"
+                },
+                {
+                    "address": "N-81, Oxford Bookstore, Connaught Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.0",
+                    "restaurantName": "Cha Bar",
+                    "votes": "4959"
+                },
+                {
+                    "address": "9, H Block, PVR plaza cinema building Connaught Place",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian",
+                        "Cafe",
+                        "Salad"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Caffe Tonino",
+                    "votes": "2532"
+                },
+                {
+                    "address": "Block A, Hamilton House, Connaught Place, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "3255"
+                },
+                {
+                    "address": "M 48, Connaught Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "French"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Brioche Dor\u00e9e",
+                    "votes": "198"
+                },
+                {
+                    "address": "N 35, Ground Floor, Connaught Circus, Block N, Connaught Place, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.9",
+                    "restaurantName": "The Art House Bar n Cafe",
+                    "votes": "241"
+                },
+                {
+                    "address": "Shop 22, A Block, Connaught Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe",
+                        "Burger"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.0",
+                    "restaurantName": "Rooh Burger Cafe",
+                    "votes": "729"
+                },
+                {
+                    "address": "35/9, H Block, Middle Circle, Connaught Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.8",
+                    "restaurantName": "The Chai Story",
+                    "votes": "696"
+                },
+                {
+                    "address": "Plot 3, M-66, First Floor, M Block, Connaught Place, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.6",
+                    "restaurantName": "Chaayos",
+                    "votes": "477"
+                },
+                {
+                    "address": "B 12/1, Middle Circle, B Block, Connaught Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Chinese",
+                        "Tea"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "#ASHERY",
+                    "votes": "179"
+                },
+                {
+                    "address": "B-49, The Corus, Inner Circle, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.7",
+                    "restaurantName": "Life Caffe",
+                    "votes": "555"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Connaught Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "L-8, L Block, Outer Circle Connaught Place, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.5",
+                    "restaurantName": "Naturals Ice Cream",
+                    "votes": "3891"
+                },
+                {
+                    "address": "First Floor, B 40, The Colonnade, Opposite Gate 2 Rajiv Chowk Metro Station, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "The Colonnade, Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill Cafe",
+                    "votes": "362"
+                },
+                {
+                    "address": "L-6, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "Street Food",
+                        "Chinese",
+                        "South Indian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "Haldiram's",
+                    "votes": "1964"
+                },
+                {
+                    "address": "A-16, Connaught Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food",
+                        "Desserts"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Wenger's",
+                    "votes": "4834"
+                },
+                {
+                    "address": "D-28, Ground Floor & Mezzanine Connaught Place New Delhi Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Theobroma",
+                    "votes": "697"
+                },
+                {
+                    "address": "M 48, Connaught Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "French"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Brioche Dor\u00e9e",
+                    "votes": "198"
+                },
+                {
+                    "address": "1st Floor, Rajiv Gandhi Handicraft Bhavan, Baba Kharak Singh Marg, Connaught Place, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.7",
+                    "restaurantName": "Bikanervala",
+                    "votes": "380"
+                },
+                {
+                    "address": "L-1, Middle Circle, Behind Odeon Cinema, Connaught Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages"
+                    ],
+                    "location": "Connaught Place",
+                    "restaurantName": "Boisson The Blend Company"
+                },
+                {
+                    "address": "1/90, P Block, Daulatram House, Opposite PVR Rivoli, Connaught Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.0",
+                    "restaurantName": "Keventers",
+                    "votes": "369"
+                },
+                {
+                    "address": "K-19/21, Connaught Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Chinese"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.9",
+                    "restaurantName": "Hira Sweets",
+                    "votes": "402"
+                },
+                {
+                    "address": "57, Municipal Market, Connaught Circle, Connaught Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.0",
+                    "restaurantName": "Creme Borne",
+                    "votes": "887"
+                },
+                {
+                    "address": "Ground Floor, HT House, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.0",
+                    "restaurantName": "Dunkin' Donuts",
+                    "votes": "478"
+                },
+                {
+                    "address": "B 12/1, Middle Circle, B Block, Connaught Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Chinese",
+                        "Tea"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "#ASHERY",
+                    "votes": "179"
+                },
+                {
+                    "address": "C-30, Ground Floor, Connaught Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.9",
+                    "restaurantName": "Giani",
+                    "votes": "159"
+                },
+                {
+                    "address": "Shop M 57, M Block, Connaught Place, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Nirula's Icecream",
+                    "votes": "86"
+                }
+            ],
+            "title": "Desserts & Bakes in Connaught Place"
+        }
+    ]
+}

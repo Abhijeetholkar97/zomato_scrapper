@@ -1,0 +1,985 @@
+{
+    "placeName": "DLF Phase 3",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "3, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Parsi",
+                        "North Indian",
+                        "Maharashtrian",
+                        "Beverages",
+                        "Bakery"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "SodaBottleOpenerWala",
+                    "votes": "3847"
+                },
+                {
+                    "address": "LG 41, MGF Metropolis Mall, MG Road, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Beverages",
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "MGF Metropolis Mall, MG Road",
+                    "rating": "4.6",
+                    "restaurantName": "Ice Pice",
+                    "votes": "732"
+                },
+                {
+                    "address": "M-1/6, Basement, DLF Phase 2, Gurgaon, Delhi NCR",
+                    "cost": 600,
+                    "cuisines": [
+                        "American",
+                        "Fast Food",
+                        "Sandwich",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 2",
+                    "rating": "4.5",
+                    "restaurantName": "Wicked Wiches",
+                    "votes": "509"
+                },
+                {
+                    "address": "S-27/9A, 2nd Floor  DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Sandwich",
+                        "Healthy Food",
+                        "Salad",
+                        "Juices"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.6",
+                    "restaurantName": "Caterspoint",
+                    "votes": "2302"
+                },
+                {
+                    "address": "Grand Mall, Near Sikanderpur Metro Station, MG Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Healthy Food",
+                        "North Indian",
+                        "Biryani",
+                        "Continental",
+                        "Desserts"
+                    ],
+                    "location": "MG Road, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "eat.fit",
+                    "votes": "718"
+                },
+                {
+                    "address": "Shop U16/6, U Block, DLF Phase 3, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.1",
+                    "restaurantName": "Pind Bhatura",
+                    "votes": "197"
+                },
+                {
+                    "address": "Inside DLF Phase 3 Rapid Metro Station, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "InstaDozza",
+                    "votes": "391"
+                },
+                {
+                    "address": "13/28 U Block, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Biryani",
+                        "Fast Food"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "2.9",
+                    "restaurantName": "Manorma",
+                    "votes": "380"
+                },
+                {
+                    "address": "W Block, Moulsari Road, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Shree Om Food Plaza",
+                    "votes": "162"
+                },
+                {
+                    "address": "SCF 97, Main Market, Sector 14, Gurgaon",
+                    "cost": 350,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Sandwich",
+                        "Salad"
+                    ],
+                    "location": "Sector 14, Gurgaon",
+                    "rating": "3.8",
+                    "restaurantName": "Subway",
+                    "votes": "368"
+                },
+                {
+                    "address": "Ground Floor, Sahara Mall, MG Road, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Desserts"
+                    ],
+                    "location": "Sahara Mall, MG Road",
+                    "rating": "3.9",
+                    "restaurantName": "Haldiram's",
+                    "votes": "656"
+                },
+                {
+                    "address": "Plot 428 & 429, Phase 3, Udyog Vihar, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "Udyog Vihar",
+                    "rating": "3.6",
+                    "restaurantName": "Thalis of India",
+                    "votes": "52"
+                },
+                {
+                    "address": "G66, Baani Square, Sector 50, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "The Cake Story",
+                    "votes": "928"
+                },
+                {
+                    "address": "Shop 139, DLF City Court, Sikandarpur, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food",
+                        "Rolls",
+                        "Biryani"
+                    ],
+                    "location": "Sikandarpur",
+                    "rating": "3.9",
+                    "restaurantName": "Faasos",
+                    "votes": "256"
+                },
+                {
+                    "address": "SCO 43, Shopping Complex, Huda Main Market, Sector 23, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "Street Food",
+                        "South Indian"
+                    ],
+                    "location": "Sector 23, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Om Sweets & Snacks",
+                    "votes": "1185"
+                }
+            ],
+            "title": "Delivery Restaurants in DLF Phase 3"
+        },
+        {
+            "details": [
+                {
+                    "address": "T 315, 3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "BBQ"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Indishh Barbeque & Grill",
+                    "votes": "372"
+                },
+                {
+                    "address": "3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Jamie's Pizzeria by Jamie Oliver",
+                    "votes": "2583"
+                },
+                {
+                    "address": "3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Mexican",
+                        "American",
+                        "Italian"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.7",
+                    "restaurantName": "Chili's Grill & Bar",
+                    "votes": "3899"
+                },
+                {
+                    "address": "T-317, 3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1900,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza",
+                        "Salad"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.6",
+                    "restaurantName": "Pizza Express",
+                    "votes": "2457"
+                },
+                {
+                    "address": "R-314 B, Third Floor, Ambience Mall, NH-8, DLF Phase 3, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Asian",
+                        "Chinese"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.4",
+                    "restaurantName": "Asia Kitchen By Mainland China",
+                    "votes": "212"
+                },
+                {
+                    "address": "Shop 310, 3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon Haryana",
+                    "cost": 1500,
+                    "cuisines": [
+                        "South Indian",
+                        "Seafood",
+                        "Kerala"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.4",
+                    "restaurantName": "Zambar",
+                    "votes": "1870"
+                },
+                {
+                    "address": "R-303A, Third Floor, Ambience Mall, Ambience Island, DLF Phase 3, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.4",
+                    "restaurantName": "Dhaba - Estd 1986 Delhi",
+                    "votes": "533"
+                },
+                {
+                    "address": "4th Floor, Gate 4 , Ambience Mall,  DLF Phase 3, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "BBQ"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.2",
+                    "restaurantName": "Barbeque Nation",
+                    "votes": "444"
+                },
+                {
+                    "address": "Shop R-404, Fourth Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.1",
+                    "restaurantName": "The G.T. Road",
+                    "votes": "407"
+                },
+                {
+                    "address": "U 16/58, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Mexican"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.2",
+                    "restaurantName": "Vintage Kitchen",
+                    "votes": "629"
+                },
+                {
+                    "address": "Shop T-304, 3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "American"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.2",
+                    "restaurantName": "AMPM Caf\u00e9 & Bar",
+                    "votes": "733"
+                },
+                {
+                    "address": "3rd Floor, Food Court, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.3",
+                    "restaurantName": "Punjab Grill",
+                    "votes": "3770"
+                },
+                {
+                    "address": "Ground Floor, Building 5C, Sector 24, DLF Phase 3, Gurgaon",
+                    "cost": 1000,
+                    "cuisines": [
+                        "American",
+                        "Italian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.1",
+                    "restaurantName": "Black Bucks American Diner",
+                    "votes": "51"
+                },
+                {
+                    "address": "R 405, Fourth Floor, Ambience Mall, NH 8, DLF Phase 3, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab",
+                        "Salad"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.1",
+                    "restaurantName": "Punjabi By Nature",
+                    "votes": "244"
+                },
+                {
+                    "address": "3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Chinese",
+                        "Japanese",
+                        "Thai",
+                        "Seafood",
+                        "Momos"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.3",
+                    "restaurantName": "Asia Seven",
+                    "votes": "1681"
+                }
+            ],
+            "title": "Dine-Out Restaurants in DLF Phase 3"
+        },
+        {
+            "details": [
+                {
+                    "address": "U 16/58, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Mexican"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.2",
+                    "restaurantName": "Vintage Kitchen",
+                    "votes": "629"
+                },
+                {
+                    "address": "U 6/49 & 50, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "The Roasters Cafe",
+                    "votes": "50"
+                },
+                {
+                    "address": "Ground Floor, Hawker Street, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 650,
+                    "cuisines": [
+                        "Cafe",
+                        "Japanese"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.6",
+                    "restaurantName": "Black Brown Coffee",
+                    "votes": "35"
+                },
+                {
+                    "address": "Shop 12, Lohiya Market, Nathupur Road, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.8",
+                    "restaurantName": "Fu.D",
+                    "votes": "53"
+                },
+                {
+                    "address": "Plot 1, Maulsari Avenue, Metro Pillar 142, DLF Phase 3, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Coffee",
+                        "Continental"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.2",
+                    "restaurantName": "Dribble",
+                    "votes": "62"
+                },
+                {
+                    "address": "Ground Floor, Near Gate 4, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.7",
+                    "restaurantName": "Blue Tokai Coffee Roasters",
+                    "votes": "29"
+                },
+                {
+                    "address": "G-27, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.9",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "373"
+                },
+                {
+                    "address": "R-301, 3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "1387"
+                },
+                {
+                    "address": "3rd Floor, Opposite PVR Entrance, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.8",
+                    "restaurantName": "The Coffee Bean & Tea Leaf",
+                    "votes": "207"
+                },
+                {
+                    "address": "3rd Floor, Opposite PVR Gold, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Frozen Yogurt",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.5",
+                    "restaurantName": "Red Mango",
+                    "votes": "137"
+                },
+                {
+                    "address": "Shop S 220, 2nd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.6",
+                    "restaurantName": "Barista",
+                    "votes": "57"
+                },
+                {
+                    "address": "3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.8",
+                    "restaurantName": "Costa Coffee",
+                    "votes": "135"
+                },
+                {
+                    "address": "Rapid Metro Phase 3, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.5",
+                    "restaurantName": "Tpot",
+                    "votes": "53"
+                },
+                {
+                    "address": "632, 6th Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.7",
+                    "restaurantName": "iSkate Cafe",
+                    "votes": "81"
+                },
+                {
+                    "address": "Third Floor, Ambiance Mall, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "Opening",
+                    "restaurantName": "Fifth Avenue Bakery & Cafe",
+                    "votes": "Soon"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in DLF Phase 3"
+        },
+        {
+            "details": [
+                {
+                    "address": "U16/17, DLF Phase 3, Behind Cybercity, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.8",
+                    "restaurantName": "Cake Desire",
+                    "votes": "166"
+                },
+                {
+                    "address": "S-27/9A, 2nd Floor  DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Sandwich",
+                        "Healthy Food",
+                        "Salad",
+                        "Juices"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.6",
+                    "restaurantName": "Caterspoint",
+                    "votes": "2302"
+                },
+                {
+                    "address": "G-1, Ground Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "European"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.9",
+                    "restaurantName": "PAUL",
+                    "votes": "210"
+                },
+                {
+                    "address": "U 16/58, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Mexican"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.2",
+                    "restaurantName": "Vintage Kitchen",
+                    "votes": "629"
+                },
+                {
+                    "address": "U 6/49 & 50, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "The Roasters Cafe",
+                    "votes": "50"
+                },
+                {
+                    "address": "3rd Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "South Indian",
+                        "Street Food",
+                        "Fast Food",
+                        "Chinese",
+                        "Desserts"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.9",
+                    "restaurantName": "Haldiram's",
+                    "votes": "509"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.3",
+                    "restaurantName": "Decadenz",
+                    "votes": "141"
+                },
+                {
+                    "address": "Cyber City, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.4",
+                    "restaurantName": "Cake Bake Company",
+                    "votes": "16"
+                },
+                {
+                    "address": "U-42/31, DLF Phase 3, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.8",
+                    "restaurantName": "Bake-a-Boo",
+                    "votes": "167"
+                },
+                {
+                    "address": "R 133, 1st Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 350,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.7",
+                    "restaurantName": "Cold Stone Creamery",
+                    "votes": "97"
+                },
+                {
+                    "address": "Hawker Street, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 250,
+                    "cuisines": [
+                        "Fast Food",
+                        "North Indian",
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "3.3",
+                    "restaurantName": "Nirulas",
+                    "votes": "5"
+                },
+                {
+                    "address": "U-1/1, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.6",
+                    "restaurantName": "Flying Cakes",
+                    "votes": "257"
+                },
+                {
+                    "address": "Plot 1, Maulsari Avenue, Metro Pillar 142, DLF Phase 3, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Coffee",
+                        "Continental"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.2",
+                    "restaurantName": "Dribble",
+                    "votes": "62"
+                },
+                {
+                    "address": "Shop 2, Nathupur Road, Opposite Crossroad Complex, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Mithai"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.2",
+                    "restaurantName": "Bikaner Sweets & Snacks",
+                    "votes": "10"
+                },
+                {
+                    "address": "S-27/9, Shop  5, DLF Phase 3, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "2.8",
+                    "restaurantName": "Cake 24x7",
+                    "votes": "108"
+                }
+            ],
+            "title": "Desserts & Bakes in DLF Phase 3"
+        },
+        {
+            "details": [
+                {
+                    "address": "4th Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Ambience Mall, DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "748"
+                },
+                {
+                    "address": "Moulsari Road, Near Moulsari Arcade, DLF Phase 3, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Volt by Plan B",
+                    "votes": "188"
+                },
+                {
+                    "address": "The Leela Ambience, Ambience Island, DLF Phase 3, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "The Leela Ambience, DLF Phase 3",
+                    "rating": "3.6",
+                    "restaurantName": "Rubicon Bar - The Leela Ambience",
+                    "votes": "48"
+                },
+                {
+                    "address": "Opposite City Court, Near Rapid Metro Station, DLF Phase 3, Gurgaon",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Karma - A Unit of Lockup",
+                    "votes": "48"
+                },
+                {
+                    "address": "Unit 1B & 1C, Upper Ground Floor-C, Building 10C, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "The Drunken Botanist",
+                    "votes": "4814"
+                },
+                {
+                    "address": "Shop 04A, Ground Floor DLF Cyber Hub, Tower - 08C, DLF Cyber City, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "European"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.5",
+                    "restaurantName": "Cyber Hub Social",
+                    "votes": "3120"
+                },
+                {
+                    "address": "2nd Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Italian",
+                        "Continental",
+                        "Spanish",
+                        "North Indian",
+                        "Asian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "3.9",
+                    "restaurantName": "Imperfecto",
+                    "votes": "3133"
+                },
+                {
+                    "address": "205-208 & 209-A, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2100,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Japanese",
+                        "Asian",
+                        "Pizza"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.3",
+                    "restaurantName": "Soi 7 Pub & Brewery",
+                    "votes": "4847"
+                },
+                {
+                    "address": "7-8, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Modern Indian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.5",
+                    "restaurantName": "Farzi Cafe",
+                    "votes": "5834"
+                },
+                {
+                    "address": "201-202, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2300,
+                    "cuisines": [
+                        "Mediterranean",
+                        "European",
+                        "American",
+                        "North Indian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.3",
+                    "restaurantName": "Sutra Gastropub",
+                    "votes": "2047"
+                },
+                {
+                    "address": "Unit 4/5/104/105, R Block, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2500,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Mexican",
+                        "North Indian",
+                        "American"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "Hard Rock Cafe",
+                    "votes": "3222"
+                },
+                {
+                    "address": "2nd Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "Salad"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "Raasta",
+                    "votes": "2627"
+                },
+                {
+                    "address": "Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2400,
+                    "cuisines": [
+                        "Modern Indian",
+                        "Italian",
+                        "European"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "The Wine Company",
+                    "votes": "2910"
+                },
+                {
+                    "address": "1st Floor, Shop 106-107, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Arabian",
+                        "Lebanese",
+                        "North Indian",
+                        "Kebab",
+                        "Iranian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "Pier 38",
+                    "votes": "1328"
+                },
+                {
+                    "address": "Tower B, Building 10, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1750,
+                    "cuisines": [
+                        "American",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "Quaff Microbrewery",
+                    "votes": "1018"
+                }
+            ],
+            "title": "Nightlife Restaurants in DLF Phase 3"
+        }
+    ]
+}

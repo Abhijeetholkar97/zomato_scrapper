@@ -1,0 +1,981 @@
+{
+    "placeName": "Sohna Road",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "71, Ground Floor, Good Earth City Center, Nirvana, Sector 50, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "Chaayos",
+                    "votes": "697"
+                },
+                {
+                    "address": "Shop  2, Block 3, Vatika Business Park, Sector 49, Sohna Road, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Tea",
+                        "Fast Food",
+                        "Beverages",
+                        "Sandwich"
+                    ],
+                    "location": "Sector 49",
+                    "rating": "3.9",
+                    "restaurantName": "Chai Point",
+                    "votes": "224"
+                },
+                {
+                    "address": "2nd Floor, Food Court, Hongkong Bazaar, Sector 57, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Hong Kong Bazaar Mall, Sector 57, Gurgaon",
+                    "rating": "3.9",
+                    "restaurantName": "Om Sweets & Snacks",
+                    "votes": "447"
+                },
+                {
+                    "address": "17, Ninex City Mart, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "Ninex City Mart Mall, Sohna Road",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "1273"
+                },
+                {
+                    "address": "Omaxe City Centre, Sohna Road, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food",
+                        "Fast Food",
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "Omaxe City Centre",
+                    "rating": "3.9",
+                    "restaurantName": "Haldiram's",
+                    "votes": "533"
+                },
+                {
+                    "address": "Shop 15, Mor Chowk, Civil Lines, Sector 15, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "South Indian",
+                        "Mithai"
+                    ],
+                    "location": "Sector 15, Gurgaon",
+                    "rating": "3.1",
+                    "restaurantName": "Nandan Sweets",
+                    "votes": "437"
+                },
+                {
+                    "address": "Shop 11 A, Omaxe Gurgaon Mall, Sohna Road, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian",
+                        "Street Food"
+                    ],
+                    "location": "Omaxe Gurgaon Mall",
+                    "rating": "3.9",
+                    "restaurantName": "Beeji De Chole Bhature",
+                    "votes": "631"
+                },
+                {
+                    "address": "Shop 24, 1st Floor, Babu Chtru Complex, Wazirabad, Sector 52, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Italian",
+                        "Mithai"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "3.6",
+                    "restaurantName": "Singla's",
+                    "votes": "97"
+                },
+                {
+                    "address": "1802, Near Kushboo Welfare Society, Sector 10 A, Near Sector 37, Gurgaon",
+                    "cost": 150,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sector 37, Gurgaon",
+                    "rating": "3.4",
+                    "restaurantName": "Kanika's Kitchen",
+                    "votes": "22"
+                },
+                {
+                    "address": "136, Huda Market, Sector 31, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sector 31, Gurgaon",
+                    "rating": "4.2",
+                    "restaurantName": "Kulcha Walas",
+                    "votes": "350"
+                },
+                {
+                    "address": "G66, Baani Square, Sector 50, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "The Cake Story",
+                    "votes": "928"
+                },
+                {
+                    "address": "Shivaji Nagar, Near Balaji Mandir, Sector 8, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food"
+                    ],
+                    "location": "Sector 8, Gurgaon",
+                    "rating": "3.8",
+                    "restaurantName": "Sham Sweets",
+                    "votes": "85"
+                },
+                {
+                    "address": "47, Rodeo Drive, Arcadia 2, Sector 49, Near Sector 50, Gurgaon",
+                    "cost": 150,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Rodeo Drive, Sector 49, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Gohana Famous Jalebi",
+                    "votes": "157"
+                },
+                {
+                    "address": "Near Omaxe City Center Mall, Sohna Road, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "South Indian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.8",
+                    "restaurantName": "Rao's Meeting Point",
+                    "votes": "261"
+                },
+                {
+                    "address": "SH 124, 125, 1st Floor, Good Earth City Centre, Sector 50, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Healthy Food",
+                        "Continental",
+                        "Sandwich"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "bueno sandwichcraft",
+                    "votes": "570"
+                }
+            ],
+            "title": "Delivery Restaurants in Sohna Road"
+        },
+        {
+            "details": [
+                {
+                    "address": "Ground Floor, ILD Trade Centre, Sohna Road, Gurgaon",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.9",
+                    "restaurantName": "Bikanervala",
+                    "votes": "890"
+                },
+                {
+                    "address": "UG-01, Raheja Mall, Sohna Road, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Biryani",
+                        "North Indian"
+                    ],
+                    "location": "Raheja Mall, Sohna Road",
+                    "rating": "3.9",
+                    "restaurantName": "Paradise Biryani",
+                    "votes": "1313"
+                },
+                {
+                    "address": "Shop No G85 Spaze Platinum Tower, Ground Floor, Gurgaon-Sohna Highway, Sector 47, Gurugram, Haryana 122018.",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "BBQ"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.1",
+                    "restaurantName": "Barbeque Nation",
+                    "votes": "885"
+                },
+                {
+                    "address": "Shop 3, HR Market, Tikri, Near Iris Tech Park, Sector 48, Sohna Road, Gurgaon",
+                    "cost": 550,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Sohna Road",
+                    "restaurantName": "Aangan Cafe"
+                },
+                {
+                    "address": "2001, 2nd Floor, ILD Trade Centre, Sector 47, Sohna Road, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "ILD Trade Centre Mall, Sohna Road",
+                    "rating": "4.4",
+                    "restaurantName": "Brewer Street",
+                    "votes": "683"
+                },
+                {
+                    "address": "Vipul Trade Centre, Shop 1, Sohna Road, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "North Indian"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.4",
+                    "restaurantName": "Vapour Bar Exchange",
+                    "votes": "1013"
+                },
+                {
+                    "address": "Bestech Business Tower, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts",
+                        "Salad"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.0",
+                    "restaurantName": "Binge",
+                    "votes": "421"
+                },
+                {
+                    "address": "R2 019 Ground Floor, M3M Cosmopolitan, Sector 66, Sohna Road, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Goan",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.2",
+                    "restaurantName": "Osal",
+                    "votes": "57"
+                },
+                {
+                    "address": "Shop No.1, 3rd Floor, Ninex City Mart, Sector 49, Sohna Road, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.7",
+                    "restaurantName": "Scene - High Bar",
+                    "votes": "277"
+                },
+                {
+                    "address": "17, Ninex City Mart, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "Ninex City Mart Mall, Sohna Road",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "1273"
+                },
+                {
+                    "address": "Shop 211, 2nd, Raheja Mall, Sector 47, Sohna Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Pizza"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.8",
+                    "restaurantName": "Caribbean Pizza",
+                    "votes": "161"
+                },
+                {
+                    "address": "Fazilpur Chowk, Near Omaxe Gurgaon Mall, Sector 48, Sohna Road, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.2",
+                    "restaurantName": "Dhaba HR 26",
+                    "votes": "72"
+                },
+                {
+                    "address": "112/112-A, 1st Floor, ILD Trade Centre, Near Subhash Chowk, Sohna Road, Gurgaon",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "ILD Trade Centre Mall, Sohna Road",
+                    "rating": "3.9",
+                    "restaurantName": "PIND BALLUCHI",
+                    "votes": "372"
+                },
+                {
+                    "address": "2nd Floor, Raheja Mall, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Momos"
+                    ],
+                    "location": "Raheja Mall, Sohna Road",
+                    "rating": "4.0",
+                    "restaurantName": "Hong Kong Express",
+                    "votes": "380"
+                },
+                {
+                    "address": "LG-07 & LG-08, Raheja Mall, Sohna Road, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Pizza",
+                        "Fast Food"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.6",
+                    "restaurantName": "Pizza Hut",
+                    "votes": "77"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Sohna Road"
+        },
+        {
+            "details": [
+                {
+                    "address": "Shop 3, HR Market, Tikri, Near Iris Tech Park, Sector 48, Sohna Road, Gurgaon",
+                    "cost": 550,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Sohna Road",
+                    "restaurantName": "Aangan Cafe"
+                },
+                {
+                    "address": "Bestech Business Tower, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts",
+                        "Salad"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.0",
+                    "restaurantName": "Binge",
+                    "votes": "421"
+                },
+                {
+                    "address": "GF 61, Ground Floor, JMD Megapolis, Sector 48, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Street Food",
+                        "Beverages"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.6",
+                    "restaurantName": "Zorambo Born In India",
+                    "votes": "22"
+                },
+                {
+                    "address": "A-16, Ground Floor, Omaxe City Centre, Sector 49, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Burger",
+                        "Desserts"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.8",
+                    "restaurantName": "Shaivin's - Donuts & Cafe",
+                    "votes": "126"
+                },
+                {
+                    "address": "Ground Floor, Wellsone Tech Park, Sohna Road, Gurgaon",
+                    "cost": 650,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.0",
+                    "restaurantName": "Barista",
+                    "votes": "9"
+                },
+                {
+                    "address": "Ground Floor, ILD Mall, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "ILD Mall",
+                    "rating": "3.5",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "29"
+                },
+                {
+                    "address": "Ground Floor, 8, Bestech Business Tower, Sector 48, Sohna Road, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.2",
+                    "restaurantName": "Tpot",
+                    "votes": "20"
+                },
+                {
+                    "address": "Behrampur, Sector 59, Near Sohna Road, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.4",
+                    "restaurantName": "OFF the Leash' - A Dog Park & Cafe",
+                    "votes": "13"
+                },
+                {
+                    "address": "Plot 5, Marble Market, Near Huda Infocity 1, Sector 34, Sohna Road, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.6",
+                    "restaurantName": "HR26Cafe",
+                    "votes": "43"
+                },
+                {
+                    "address": "Shop 1, Tower B, Vatika Business Park, Sohna Road, Sector 49, Gurgaon.",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts",
+                        "Sandwich"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe Maple Street",
+                    "votes": "152"
+                },
+                {
+                    "address": "Unit 20, Vipul Trade Center, Sohna Road, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Fast Food"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.6",
+                    "restaurantName": "Whizzo",
+                    "votes": "32"
+                },
+                {
+                    "address": "Main Lobby, Spazedge Mall, Near Malibu Town, Sohna Road, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.5",
+                    "restaurantName": "Mr. Frank Cafe",
+                    "votes": "24"
+                },
+                {
+                    "address": "Opposite Indus World School, Sector 70, Near Sohna Road, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.2",
+                    "restaurantName": "Bistro 69",
+                    "votes": "9"
+                },
+                {
+                    "address": "R3/019, Ground Floor, M3M Cosmopolitan, Sector 66, Sohna Road, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.3",
+                    "restaurantName": "Crazy Bistro",
+                    "votes": "10"
+                },
+                {
+                    "address": "Food Court, Amenity Block, Infospace, Sector 48, Near, Sohna Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Unitech Infospace, Sohna Road",
+                    "rating": "3.5",
+                    "restaurantName": "Tea Halt",
+                    "votes": "41"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Sohna Road"
+        },
+        {
+            "details": [
+                {
+                    "address": "25, Ground Floor, Ninex City Mart Mall, Sohna Road, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Ninex City Mart Mall, Sohna Road",
+                    "rating": "3.9",
+                    "restaurantName": "The CUPnCAKE Factory",
+                    "votes": "616"
+                },
+                {
+                    "address": "F 124, Sector 48, Sohna Road, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Sohna Road",
+                    "restaurantName": "Cake"
+                },
+                {
+                    "address": "Ground Floor, ILD Trade Centre, Sohna Road, Gurgaon",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.9",
+                    "restaurantName": "Bikanervala",
+                    "votes": "890"
+                },
+                {
+                    "address": "Omaxe City Centre, Sohna Road, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food",
+                        "Fast Food",
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "Omaxe City Centre",
+                    "rating": "3.9",
+                    "restaurantName": "Haldiram's",
+                    "votes": "533"
+                },
+                {
+                    "address": "M3M Cosmopolitan Mall, Sector 66, Golf Course Extension Road, Sohna Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "Street Food",
+                        "South Indian"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.9",
+                    "restaurantName": "Om Sweets & Snacks",
+                    "votes": "222"
+                },
+                {
+                    "address": "Shop 33, Suncity Success Tower, Golf Course Extension Road, Sector 65, Sohna Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Continental",
+                        "Sandwich",
+                        "Salad",
+                        "Healthy Food"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.3",
+                    "restaurantName": "NutrioBox",
+                    "votes": "254"
+                },
+                {
+                    "address": "Vipul Trade Centre, Shop 1, Sohna Road, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "North Indian"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.4",
+                    "restaurantName": "Vapour Bar Exchange",
+                    "votes": "1013"
+                },
+                {
+                    "address": "Bestech Business Tower, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts",
+                        "Salad"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.0",
+                    "restaurantName": "Binge",
+                    "votes": "421"
+                },
+                {
+                    "address": "Shop 1-A, Subhash Chowk, Sohna Road, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.6",
+                    "restaurantName": "Giani",
+                    "votes": "100"
+                },
+                {
+                    "address": "17, Ground Floor, Ninex City Mart Mall, Sohna Road, Gurgaon",
+                    "cost": 550,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food",
+                        "Italian",
+                        "Pizza"
+                    ],
+                    "location": "Ninex City Mart Mall, Sohna Road",
+                    "rating": "4.0",
+                    "restaurantName": "The Coco Company",
+                    "votes": "340"
+                },
+                {
+                    "address": "2, Opposite Omaxe Mall, CD Chowk, Sohna Road, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.5",
+                    "restaurantName": "KB's Ice Cream & Kulfis",
+                    "votes": "68"
+                },
+                {
+                    "address": "Food Court, Amenity Block, Unitech Infospace, Sector 48, Near Sohna Road, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Unitech Infospace, Sohna Road",
+                    "rating": "3.4",
+                    "restaurantName": "Bakers Oven Xpress",
+                    "votes": "9"
+                },
+                {
+                    "address": "A-16, Ground Floor, Omaxe City Centre, Sector 49, Sohna Road, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Burger",
+                        "Desserts"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.8",
+                    "restaurantName": "Shaivin's - Donuts & Cafe",
+                    "votes": "126"
+                },
+                {
+                    "address": "Sector 48, Opposite Eldeco Mansionz, Fazilpur Chowk, Sohna Road, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "Street Food"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.3",
+                    "restaurantName": "Shri Ram Restaurant",
+                    "votes": "58"
+                },
+                {
+                    "address": "G-37, Ground Floor, The Sapphire, Block S, Uppal Southend, Sohna Road, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bakery",
+                        "Momos"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.7",
+                    "restaurantName": "Sugarcraft Patisserie",
+                    "votes": "62"
+                }
+            ],
+            "title": "Desserts & Bakes in Sohna Road"
+        },
+        {
+            "details": [
+                {
+                    "address": "2001, 2nd Floor, ILD Trade Centre, Sector 47, Sohna Road, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "ILD Trade Centre Mall, Sohna Road",
+                    "rating": "4.4",
+                    "restaurantName": "Brewer Street",
+                    "votes": "683"
+                },
+                {
+                    "address": "Vipul Trade Centre, Shop 1, Sohna Road, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "North Indian"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.4",
+                    "restaurantName": "Vapour Bar Exchange",
+                    "votes": "1013"
+                },
+                {
+                    "address": "Marble Market Road, Near Subhash Chowk, Sector 72A, Sector 53, Sohna Road, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.7",
+                    "restaurantName": "TFR Villa",
+                    "votes": "150"
+                },
+                {
+                    "address": "Fortune Select Excalibur, Sohna Road, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Chinese",
+                        "Asian"
+                    ],
+                    "location": "Fortune Select Excalibur, Sohna Road",
+                    "rating": "4.2",
+                    "restaurantName": "The Brewhouse - Fortune Select Excalibur",
+                    "votes": "171"
+                },
+                {
+                    "address": "Near Subhash Chowk, Sector 48, Gurgaon, Delhi NCR",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.0",
+                    "restaurantName": "Insane",
+                    "votes": "7"
+                },
+                {
+                    "address": "Lemon Tree Hotels, Sector 68, Near Badshahpur, Sohna Road, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Sohna Road",
+                    "restaurantName": "Slounge"
+                },
+                {
+                    "address": "Element One, Block A Lower Terrace, Sector 47, South City 2, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Asian",
+                        "North Indian",
+                        "Bar Food",
+                        "Mediterranean",
+                        "European",
+                        "Tex-Mex"
+                    ],
+                    "location": "South City 2",
+                    "rating": "3.9",
+                    "restaurantName": "Brewocrat - Brewery Skybar & Kitchen",
+                    "votes": "117"
+                },
+                {
+                    "address": "Vatika Business Park, Sector 49, Near Sohna Road, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Sector 49",
+                    "rating": "4.3",
+                    "restaurantName": "Open Tap",
+                    "votes": "1303"
+                },
+                {
+                    "address": "Hilton Garden Inn, Baani Square, South City 2, Gurgaon",
+                    "cost": 3100,
+                    "cuisines": [
+                        "Italian",
+                        "Thai",
+                        "European",
+                        "North Indian"
+                    ],
+                    "location": "Hilton Garden Inn, Sector 50, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Vibe: The Sky Bar - Hilton Garden Inn",
+                    "votes": "146"
+                },
+                {
+                    "address": "224, 2nd Floor, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "0124 Bar Exchange - Open Terrace Brewery",
+                    "votes": "514"
+                },
+                {
+                    "address": "15, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "3.8",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "263"
+                },
+                {
+                    "address": "170, 171, 179, & 180, 1st Floor, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Finger Food",
+                        "Continental",
+                        "North Indian",
+                        "Asian"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "Beer Company",
+                    "votes": "493"
+                },
+                {
+                    "address": "Opposite Nirvana Country, Golf Course Extention Road, Sector 65, Near Sector 50, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "3.5",
+                    "restaurantName": "Jolly Rockers",
+                    "votes": "40"
+                },
+                {
+                    "address": "South Patio, Block-D, South City 2, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "South City 2",
+                    "restaurantName": "Picasso"
+                },
+                {
+                    "address": "3/1, Emilia 1, Golf Course Extension Road, Opposite Palm Drive, Sector 49, Golf Course Road, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sector 49",
+                    "restaurantName": "Bottoms Up"
+                }
+            ],
+            "title": "Nightlife Restaurants in Sohna Road"
+        }
+    ]
+}

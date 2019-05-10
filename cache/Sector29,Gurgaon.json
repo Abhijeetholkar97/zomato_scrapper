@@ -1,0 +1,1159 @@
+{
+    "placeName": "Sector 29, Gurgaon",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "Delivery Only",
+                    "cost": 700,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza",
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.2",
+                    "restaurantName": "NYC.PIE PIZZA",
+                    "votes": "356"
+                },
+                {
+                    "address": "LG 41, MGF Metropolis Mall, MG Road, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Beverages",
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "MGF Metropolis Mall, MG Road",
+                    "rating": "4.6",
+                    "restaurantName": "Ice Pice",
+                    "votes": "730"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Appa Desi",
+                    "votes": "114"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Baking Bad",
+                    "votes": "160"
+                },
+                {
+                    "address": "16/26, U Block, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "2.2",
+                    "restaurantName": "Grandma's Kitchen",
+                    "votes": "132"
+                },
+                {
+                    "address": "B-202 & 203, Supermart 1, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "2218"
+                },
+                {
+                    "address": "M-1/6, Basement, DLF Phase 2, Gurgaon, Delhi NCR",
+                    "cost": 600,
+                    "cuisines": [
+                        "American",
+                        "Fast Food",
+                        "Sandwich",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 2",
+                    "rating": "4.5",
+                    "restaurantName": "Wicked Wiches",
+                    "votes": "509"
+                },
+                {
+                    "address": "F-10, Sushant Arcade, Sushant Lok, Gurgaon",
+                    "cost": 650,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Rolls"
+                    ],
+                    "location": "Sushant Shopping Arcade, Sushant Lok, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Wrapchick",
+                    "votes": "516"
+                },
+                {
+                    "address": "2, Central Plaza Mall, Golf Course Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Wraps",
+                        "Lebanese"
+                    ],
+                    "location": "Central Plaza Mall, Golf Course Road",
+                    "rating": "4.5",
+                    "restaurantName": "Shawarma House",
+                    "votes": "1412"
+                },
+                {
+                    "address": "W Block, Moulsari Road, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Shree Om Food Plaza",
+                    "votes": "162"
+                },
+                {
+                    "address": "Shop 59P, HUDA Market, Sector 14, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Rolls"
+                    ],
+                    "location": "Sector 14, Gurgaon",
+                    "rating": "4.2",
+                    "restaurantName": "Rolls Mania",
+                    "votes": "640"
+                },
+                {
+                    "address": "U8/18, Basement, Near DLF Phase 3 Metro Station, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Italian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.6",
+                    "restaurantName": "Chilli Indiana",
+                    "votes": "150"
+                },
+                {
+                    "address": "Opposite Bank Of India, Village Islampur, Sector 38, Sohna Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.1",
+                    "restaurantName": "The Pizza Kraft",
+                    "votes": "174"
+                },
+                {
+                    "address": "SF-27, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Burger"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Burger Point",
+                    "votes": "720"
+                },
+                {
+                    "address": "Near Rapid Metro Station, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Rolls"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.9",
+                    "restaurantName": "Eatezee Foods",
+                    "votes": "116"
+                }
+            ],
+            "title": "Delivery Restaurants in Sector 29"
+        },
+        {
+            "details": [
+                {
+                    "address": "SCO 53, 4th Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Molecule Air Bar",
+                    "votes": "4869"
+                },
+                {
+                    "address": "SCO 39, 1st Floor, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Modern Indian",
+                        "Finger Food",
+                        "Sushi",
+                        "Bar Food",
+                        "Italian",
+                        "Asian",
+                        "Pizza"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.7",
+                    "restaurantName": "Decode Air Bar",
+                    "votes": "688"
+                },
+                {
+                    "address": "SCO 23, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Factory By Sutra",
+                    "votes": "2558"
+                },
+                {
+                    "address": "SCO 32, Sector 29, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "Mexican",
+                        "North Indian",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Duty Free | Vayu Bar",
+                    "votes": "1055"
+                },
+                {
+                    "address": "Site 8-10, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "Modern Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Prankster",
+                    "votes": "4682"
+                },
+                {
+                    "address": "SCO 34, Main Market, Sector 29, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.5",
+                    "restaurantName": "Downtown - Diners & Living Beer Cafe",
+                    "votes": "5022"
+                },
+                {
+                    "address": "Plot 6 & 7, Sector 29, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "European",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.5",
+                    "restaurantName": "Gravity Spacebar",
+                    "votes": "1139"
+                },
+                {
+                    "address": "SCO 30, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Seafood",
+                        "Chinese",
+                        "North Indian",
+                        "Pizza",
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.9",
+                    "restaurantName": "The Hook",
+                    "votes": "2051"
+                },
+                {
+                    "address": "SCO 38, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "BRONX Bar Exchange",
+                    "votes": "1636"
+                },
+                {
+                    "address": "SCO 53, 1st Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Boombox Brewstreet",
+                    "votes": "1608"
+                },
+                {
+                    "address": "SCO 53, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "My Bar Headquarters",
+                    "votes": "1196"
+                },
+                {
+                    "address": "SCO 28, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "The Flying Saucer Cafe",
+                    "votes": "992"
+                },
+                {
+                    "address": "SCO 21, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Chinese",
+                        "Continental",
+                        "North Indian",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Pause - Brewery & Pub",
+                    "votes": "378"
+                },
+                {
+                    "address": "SCO 390, Near IFFCO Metro Station, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "After Stories",
+                    "votes": "1309"
+                },
+                {
+                    "address": "Vatika Grand, Near Leisure Valley, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Ministry Of Beer",
+                    "votes": "1595"
+                }
+            ],
+            "title": "Nightlife Restaurants in Sector 29"
+        },
+        {
+            "details": [
+                {
+                    "address": "SCO 53, 4th Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Molecule Air Bar",
+                    "votes": "4869"
+                },
+                {
+                    "address": "SCO 39, 1st Floor, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Modern Indian",
+                        "Finger Food",
+                        "Sushi",
+                        "Bar Food",
+                        "Italian",
+                        "Asian",
+                        "Pizza"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.7",
+                    "restaurantName": "Decode Air Bar",
+                    "votes": "688"
+                },
+                {
+                    "address": "SCO 23, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Factory By Sutra",
+                    "votes": "2558"
+                },
+                {
+                    "address": "SCO 32, Sector 29, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "Mexican",
+                        "North Indian",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Duty Free | Vayu Bar",
+                    "votes": "1055"
+                },
+                {
+                    "address": "Site 8-10, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "Modern Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Prankster",
+                    "votes": "4682"
+                },
+                {
+                    "address": "SCO 53, 2nd Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food",
+                        "Italian",
+                        "Asian",
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.8",
+                    "restaurantName": "Feel Alive",
+                    "votes": "1872"
+                },
+                {
+                    "address": "SCO 34, Main Market, Sector 29, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.5",
+                    "restaurantName": "Downtown - Diners & Living Beer Cafe",
+                    "votes": "5022"
+                },
+                {
+                    "address": "Plot 6 & 7, Sector 29, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "European",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.5",
+                    "restaurantName": "Gravity Spacebar",
+                    "votes": "1139"
+                },
+                {
+                    "address": "SCO 30, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Seafood",
+                        "Chinese",
+                        "North Indian",
+                        "Pizza",
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.9",
+                    "restaurantName": "The Hook",
+                    "votes": "2051"
+                },
+                {
+                    "address": "SCO 38, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "BRONX Bar Exchange",
+                    "votes": "1636"
+                },
+                {
+                    "address": "SCO 53, 1st Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Boombox Brewstreet",
+                    "votes": "1608"
+                },
+                {
+                    "address": "SCO 53, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "My Bar Headquarters",
+                    "votes": "1196"
+                },
+                {
+                    "address": "SCO 390, Near IFFCO Metro Station, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "After Stories",
+                    "votes": "1309"
+                },
+                {
+                    "address": "Vatika Grand, Near Leisure Valley, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Ministry Of Beer",
+                    "votes": "1595"
+                },
+                {
+                    "address": "Oysters Beach, Sector 29, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "PitStop BrewPub",
+                    "votes": "846"
+                }
+            ],
+            "title": "Microbreweries in Sector 29, Gurgaon"
+        },
+        {
+            "details": [
+                {
+                    "address": "Plot 3-5, Sector 29,Near Leisure Valley Park,  Gurgaon",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Bikanervala",
+                    "votes": "2168"
+                },
+                {
+                    "address": "SCO 32, Sector 29, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "Mexican",
+                        "North Indian",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Duty Free | Vayu Bar",
+                    "votes": "1055"
+                },
+                {
+                    "address": "SCO 53, 4th Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Molecule Air Bar",
+                    "votes": "4869"
+                },
+                {
+                    "address": "Site 8-10, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Bar Food",
+                        "Modern Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Prankster",
+                    "votes": "4682"
+                },
+                {
+                    "address": "SCO 39, 1st Floor, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Modern Indian",
+                        "Finger Food",
+                        "Sushi",
+                        "Bar Food",
+                        "Italian",
+                        "Asian",
+                        "Pizza"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.7",
+                    "restaurantName": "Decode Air Bar",
+                    "votes": "688"
+                },
+                {
+                    "address": "Rajiv Gandhi Renewable Energy Park, Leisure Valley, Sector 29, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Roots - Cafe In The Park",
+                    "votes": "2628"
+                },
+                {
+                    "address": "SCO 305, 1st and 2nd Floor, Sector 29, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "BBQ"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "The Barbeque Company",
+                    "votes": "1829"
+                },
+                {
+                    "address": "SCO 53, 2nd Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food",
+                        "Italian",
+                        "Asian",
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.8",
+                    "restaurantName": "Feel Alive",
+                    "votes": "1872"
+                },
+                {
+                    "address": "SCO 34, Main Market, Sector 29, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Bar Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.5",
+                    "restaurantName": "Downtown - Diners & Living Beer Cafe",
+                    "votes": "5022"
+                },
+                {
+                    "address": "Plot 6 & 7, Sector 29, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "European",
+                        "Asian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.5",
+                    "restaurantName": "Gravity Spacebar",
+                    "votes": "1139"
+                },
+                {
+                    "address": "SCO 30, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Seafood",
+                        "Chinese",
+                        "North Indian",
+                        "Pizza",
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.9",
+                    "restaurantName": "The Hook",
+                    "votes": "2051"
+                },
+                {
+                    "address": "SCO 23, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Factory By Sutra",
+                    "votes": "2558"
+                },
+                {
+                    "address": "SCO 38, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "BRONX Bar Exchange",
+                    "votes": "1636"
+                },
+                {
+                    "address": "SCO 19, 1st Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Kebab"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Punjabi By Nature 2.0",
+                    "votes": "1104"
+                },
+                {
+                    "address": "SCO 53, 1st Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Bar Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Boombox Brewstreet",
+                    "votes": "1608"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Sector 29"
+        },
+        {
+            "details": [
+                {
+                    "address": "Rajiv Gandhi Renewable Energy Park, Leisure Valley, Sector 29, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Roots - Cafe In The Park",
+                    "votes": "2628"
+                },
+                {
+                    "address": "SCO 39, Ground Floor, Main Market, Sector 29, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "3.9",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "415"
+                },
+                {
+                    "address": "Sector 29, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "restaurantName": "The Idea Gully Cafe"
+                },
+                {
+                    "address": "Ground Floor, HUDA City Centre Metro Station, Sector 29, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Huda City Centre Metro Station, Sector 29, Gurgaon",
+                    "rating": "3.6",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "46"
+                },
+                {
+                    "address": "Food Court, HUDA Metro Station, Sector 29, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "3.8",
+                    "restaurantName": "The Chocolate Room",
+                    "votes": "51"
+                },
+                {
+                    "address": "Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company Ltd., Auditorium Complex, Sector 29, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Kingdom of Dreams, Sector 29",
+                    "rating": "3.4",
+                    "restaurantName": "Madras Coffee House - Kingdom of Dreams",
+                    "votes": "27"
+                },
+                {
+                    "address": "The Westin Hotel, Sector 29, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "The Westin Gurgaon, Sector 29",
+                    "rating": "3.7",
+                    "restaurantName": "Daily Treats - The Westin Gurgaon",
+                    "votes": "54"
+                },
+                {
+                    "address": "9-C, Ground Floor, Vipul Square, Phase 1, Sushant Lok, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sushant Lok",
+                    "rating": "4.0",
+                    "restaurantName": "Fu.D",
+                    "votes": "409"
+                },
+                {
+                    "address": "Ground Floor, Signature Towers, Sector 16, South City 1, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "South City 1",
+                    "rating": "3.2",
+                    "restaurantName": "Barista",
+                    "votes": "8"
+                },
+                {
+                    "address": "Inside Fortis Hospital, Sector 44, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sector 44, Gurgaon",
+                    "rating": "3.4",
+                    "restaurantName": "Costa Coffee",
+                    "votes": "10"
+                },
+                {
+                    "address": "Ground Floor, Signature Tower, South City 1, Gurgaon",
+                    "cost": 250,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "South City 1",
+                    "restaurantName": "The Adda"
+                },
+                {
+                    "address": "Club Patio, Block-E, Near NH 8, South City 1, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "South City 1",
+                    "restaurantName": "Table of Contents"
+                },
+                {
+                    "address": "GF, 111, Vyapar Kendra, Opposite Ara Mandi Gate 3, Sushant Lok, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Cafe",
+                        "Beverages"
+                    ],
+                    "location": "Sushant Lok",
+                    "restaurantName": "Classic Coffee Shop"
+                },
+                {
+                    "address": "3rd Floor, Tower A2, DLF IT SEZ, Silokhera, Sector 31, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sector 31, Gurgaon",
+                    "rating": "3.5",
+                    "restaurantName": "Tea Halt",
+                    "votes": "24"
+                },
+                {
+                    "address": "207, Level 2, Cross Point Mall, DLF Phase 4, Gurgaon",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Cafe",
+                        "Belgian"
+                    ],
+                    "location": "Cross Point Mall, DLF Phase 4",
+                    "rating": "4.3",
+                    "restaurantName": "Di Ghent Cafe",
+                    "votes": "2029"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Sector 29"
+        },
+        {
+            "details": [
+                {
+                    "address": "Plot 3-5, Sector 29,Near Leisure Valley Park,  Gurgaon",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "Bikanervala",
+                    "votes": "2168"
+                },
+                {
+                    "address": "Shop 3, HUDA City Centre Metro Station, Sector 29, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Huda City Centre Metro Station, Sector 29, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Dunkin' Donuts",
+                    "votes": "515"
+                },
+                {
+                    "address": "Plot 8-9, Sector 29, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Healthy Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.1",
+                    "restaurantName": "FabCafe",
+                    "votes": "103"
+                },
+                {
+                    "address": "SCO 22, 1st Floor, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.6",
+                    "restaurantName": "Cervesia",
+                    "votes": "1247"
+                },
+                {
+                    "address": "SCO 53, 3rd Floor, Sector 29, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food",
+                        "Chinese",
+                        "Italian",
+                        "Seafood"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "The Whisky Bar & Brewpub",
+                    "votes": "315"
+                },
+                {
+                    "address": "Ground Floor, South Wing, HUDA City Centre Metro Station, Sector 29, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Huda City Centre Metro Station, Sector 29, Gurgaon",
+                    "rating": "3.9",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "303"
+                },
+                {
+                    "address": "Crowne Plaza, National Highway 8, Sector 29, Gurgaon",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Crowne Plaza, Sector 29",
+                    "rating": "3.5",
+                    "restaurantName": "Delicious - Crowne Plaza",
+                    "votes": "40"
+                },
+                {
+                    "address": "Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon",
+                    "cost": 450,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Huda City Centre Metro Station, Sector 29, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Giani's",
+                    "votes": "128"
+                },
+                {
+                    "address": "Shop 8, North Court, Huda City Centre Metro Station, Sector 29, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Jadooi Masala",
+                    "votes": "59"
+                },
+                {
+                    "address": "Ground Floor, HUDA City Centre Metro Station, Sector 29, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Huda City Centre Metro Station, Sector 29, Gurgaon",
+                    "rating": "3.6",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "46"
+                },
+                {
+                    "address": "Shop 13, Huda City Centre Metro Station, North Food Court, Sector 29, Gurgaon",
+                    "cost": 350,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "3.2",
+                    "restaurantName": "Waffle Talk",
+                    "votes": "6"
+                },
+                {
+                    "address": "Grand Vatika, Leisure Valley Garden, Sector 29, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "3.7",
+                    "restaurantName": "KB's Ice Cream & Kulfis",
+                    "votes": "39"
+                },
+                {
+                    "address": "Food Court, HUDA Metro Station, Sector 29, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "rating": "3.8",
+                    "restaurantName": "The Chocolate Room",
+                    "votes": "51"
+                },
+                {
+                    "address": "Plot 7, Near Leisure Valley Park, Sector 29, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Sector 29, Gurgaon",
+                    "restaurantName": "Bake My Cake"
+                },
+                {
+                    "address": "Metropark Food Court, HUDA City Centre Metro Station, Sector 29, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Huda City Centre Metro Station, Sector 29, Gurgaon",
+                    "rating": "3.5",
+                    "restaurantName": "JiJi - Kitchen & Bakery",
+                    "votes": "74"
+                }
+            ],
+            "title": "Desserts & Bakes in Sector 29"
+        }
+    ]
+}

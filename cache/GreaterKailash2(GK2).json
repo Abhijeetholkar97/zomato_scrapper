@@ -1,0 +1,986 @@
+{
+    "placeName": "Greater Kailash 2 (GK2)",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "B-6, Shop 3, Shopping Center, Safdarjung Enclave, Safdarjung, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Fast Food"
+                    ],
+                    "location": "Safdarjung",
+                    "rating": "4.0",
+                    "restaurantName": "Six Degree",
+                    "votes": "1547"
+                },
+                {
+                    "address": "TA-210, Guru Ravi Das Marg, Tughalakabad Extension, Tughlakabad Institutional Area, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "Tughlakabad Institutional Area",
+                    "rating": "3.3",
+                    "restaurantName": "Thalis Of India",
+                    "votes": "11"
+                },
+                {
+                    "address": "M-22, 1st Floor, M Block Market, Greater Kailash (GK) 1, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "M Block Market, Greater Kailash 1 (GK1)",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "346"
+                },
+                {
+                    "address": "28A/12 Jia Sarai, Near IIT Gate, Qutab Institutional Area, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Qutab Institutional Area",
+                    "rating": "4.1",
+                    "restaurantName": "Dilli 6 On Wheels",
+                    "votes": "382"
+                },
+                {
+                    "address": "6, Corner Market, Near Hanuman Temple, Malviya Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Flavors of Chennai",
+                    "votes": "992"
+                },
+                {
+                    "address": "1691/2, Govind Puri Extension, Kalkaji, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts",
+                        "Street Food"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "4.0",
+                    "restaurantName": "Gopal's 56",
+                    "votes": "682"
+                },
+                {
+                    "address": "216, B/7 A Gautam Nagar Road, Gulmohar Park, Green Park, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Chinese",
+                        "Beverages",
+                        "North Indian"
+                    ],
+                    "location": "Green Park",
+                    "rating": "3.4",
+                    "restaurantName": "MJ Food Court",
+                    "votes": "27"
+                },
+                {
+                    "address": "HS- 13, Kailash Colony Market, Kailash Colony, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Mithai"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "3.5",
+                    "restaurantName": "Anupama Sweet",
+                    "votes": "360"
+                },
+                {
+                    "address": "46/16, Near Gate 1, Green Park Metro Station, Yusuf Sarai, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Yusuf Sarai",
+                    "rating": "4.0",
+                    "restaurantName": "Kuldeep Paranthe Wala",
+                    "votes": "141"
+                },
+                {
+                    "address": "Shop 32, LSC DDA , Pocket D & E, Sarita Vihar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Sarita Vihar",
+                    "rating": "3.9",
+                    "restaurantName": "Sweet Truth",
+                    "votes": "50"
+                },
+                {
+                    "address": "1552-C/15, Govindpuri, Kalkaji, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Mithai"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "3.8",
+                    "restaurantName": "Aggarwal Sweet Center",
+                    "votes": "335"
+                },
+                {
+                    "address": "7, LSC Market, Phase 2, Near Authority, Sheikh Sarai, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Desserts"
+                    ],
+                    "location": "Sheikh Sarai",
+                    "rating": "3.6",
+                    "restaurantName": "Shree Ram Palace",
+                    "votes": "131"
+                },
+                {
+                    "address": "18, Mini Central Market, DDA Flats, Kalkaji, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "3.2",
+                    "restaurantName": "Samosa's Delivery Express",
+                    "votes": "66"
+                },
+                {
+                    "address": "Shop 2, Krishna Market, Near Deshbandhu College, Kalkaji, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "3.9",
+                    "restaurantName": "Anna Ka Dosa",
+                    "votes": "1128"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 600,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Healthy Food",
+                        "Burger",
+                        "Biryani",
+                        "Pizza",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "FreshMenu",
+                    "votes": "620"
+                }
+            ],
+            "title": "Delivery Restaurants in Greater Kailash 2 (GK2)"
+        },
+        {
+            "details": [
+                {
+                    "address": "M 29, 1st Floor, Above HDFC Bank, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.2",
+                    "restaurantName": "Sidecar",
+                    "votes": "182"
+                },
+                {
+                    "address": "M 30, First Floor, M Block Market, Greater Kailash 2 (GK2), New Delhi",
+                    "cost": 2100,
+                    "cuisines": [
+                        "Thai",
+                        "Asian",
+                        "Japanese",
+                        "Chinese"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.4",
+                    "restaurantName": "Kiara Soul Kitchen",
+                    "votes": "453"
+                },
+                {
+                    "address": "M 80, M Block Market, Greater Kailash 2 New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Modern Indian",
+                        "Italian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.4",
+                    "restaurantName": "The Finch",
+                    "votes": "173"
+                },
+                {
+                    "address": "7, Masjid Moth, Near HDFC Bank, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Bikanervala",
+                    "votes": "648"
+                },
+                {
+                    "address": "M-27, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.1",
+                    "restaurantName": "Fig & Maple",
+                    "votes": "582"
+                },
+                {
+                    "address": "13/14/15/16, Narmada Shopping Complex, Opposite Don Bosco School, Alaknanda Road, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Thai",
+                        "Chinese",
+                        "Sushi",
+                        "Momos"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.7",
+                    "restaurantName": "CIA Call it Asiian",
+                    "votes": "612"
+                },
+                {
+                    "address": "M-24, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Italian"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "4.2",
+                    "restaurantName": "Artusi Ristorante e Bar",
+                    "votes": "849"
+                },
+                {
+                    "address": "M23, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "American",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "restaurantName": "Pearl Boutique Bakery Cafe"
+                },
+                {
+                    "address": "M-21, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.3",
+                    "restaurantName": "Carnatic Cafe",
+                    "votes": "1285"
+                },
+                {
+                    "address": "M-27, Ground Floor, Greater Kailash 2 (GK2), New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Japanese",
+                        "Chinese",
+                        "Thai",
+                        "Momos"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.5",
+                    "restaurantName": "You Mee",
+                    "votes": "834"
+                },
+                {
+                    "address": "Ground Floor, JMD Mall, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Brown Sugar",
+                    "votes": "350"
+                },
+                {
+                    "address": "Shop 2, Chandan Market, S Block, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.0",
+                    "restaurantName": "Culinaire",
+                    "votes": "1199"
+                },
+                {
+                    "address": "1, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "4.0",
+                    "restaurantName": "Chocolateria San Churro",
+                    "votes": "990"
+                },
+                {
+                    "address": "M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.4",
+                    "restaurantName": "Chaayos",
+                    "votes": "385"
+                },
+                {
+                    "address": "M-63, First Floor, Greater Kailash 2 (GK2), New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Asian",
+                        "Japanese",
+                        "Sushi",
+                        "Thai"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.2",
+                    "restaurantName": "Shibuya Food & Bar",
+                    "votes": "332"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Greater Kailash 2 (GK2)"
+        },
+        {
+            "details": [
+                {
+                    "address": "M-25, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.2",
+                    "restaurantName": "Nik Baker's",
+                    "votes": "824"
+                },
+                {
+                    "address": "M23, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "American",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "restaurantName": "Pearl Boutique Bakery Cafe"
+                },
+                {
+                    "address": "Ground Floor, JMD Mall, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Brown Sugar",
+                    "votes": "350"
+                },
+                {
+                    "address": "1, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "4.0",
+                    "restaurantName": "Chocolateria San Churro",
+                    "votes": "990"
+                },
+                {
+                    "address": "M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.4",
+                    "restaurantName": "Chaayos",
+                    "votes": "385"
+                },
+                {
+                    "address": "M-22, Ground Floor, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Theobroma",
+                    "votes": "43"
+                },
+                {
+                    "address": "S 353, Greater Kailash 2 (GK2), New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Salad",
+                        "Healthy Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.2",
+                    "restaurantName": "The Salad Story",
+                    "votes": "188"
+                },
+                {
+                    "address": "M 31, Ground Floor, Local Shopping Complex, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.8",
+                    "restaurantName": "Blue Tokai Coffee Roasters",
+                    "votes": "22"
+                },
+                {
+                    "address": "Ground Floor, M-11, Main Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "239"
+                },
+                {
+                    "address": "M-38, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "3.8",
+                    "restaurantName": "Costa Coffee",
+                    "votes": "139"
+                },
+                {
+                    "address": "Main Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "2.6",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "71"
+                },
+                {
+                    "address": "3rd Floor, M-72, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "American",
+                        "Italian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.4",
+                    "restaurantName": "What A Shot",
+                    "votes": "71"
+                },
+                {
+                    "address": "S 349, Opposite Chandan Market, Greater Kailash 2 (GK2), New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Salad"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.0",
+                    "restaurantName": "Espress-o-Ville",
+                    "votes": "154"
+                },
+                {
+                    "address": "Shop 145, 1st floor, Market 2, Chittaranjan Park, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Chittaranjan Park",
+                    "rating": "3.8",
+                    "restaurantName": "Cafe Green",
+                    "votes": "151"
+                },
+                {
+                    "address": "H-15A, Ground Floor, Kalkaji Main Road, Kalkaji, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "4.1",
+                    "restaurantName": "NYC Queens",
+                    "votes": "95"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Greater Kailash 2 (GK2)"
+        },
+        {
+            "details": [
+                {
+                    "address": "S 353, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Bakery"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.5",
+                    "restaurantName": "La Mia",
+                    "votes": "76"
+                },
+                {
+                    "address": "E-574, Main Road, Near ICICI Bank, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.0",
+                    "restaurantName": "Giani's",
+                    "votes": "518"
+                },
+                {
+                    "address": "7, Masjid Moth, Near HDFC Bank, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Bikanervala",
+                    "votes": "648"
+                },
+                {
+                    "address": "M-25, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.2",
+                    "restaurantName": "Nik Baker's",
+                    "votes": "824"
+                },
+                {
+                    "address": "M23, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "American",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "restaurantName": "Pearl Boutique Bakery Cafe"
+                },
+                {
+                    "address": "E-556, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.2",
+                    "restaurantName": "Whipped",
+                    "votes": "1565"
+                },
+                {
+                    "address": "Shop 11, JMD Kohinoor Mall, Masjid Moth Greater Kailash (GK) 2, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "JMD Kohinoor Mall, Greater Kailash",
+                    "rating": "4.4",
+                    "restaurantName": "Naturals Ice Cream",
+                    "votes": "1043"
+                },
+                {
+                    "address": "1, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "4.0",
+                    "restaurantName": "Chocolateria San Churro",
+                    "votes": "990"
+                },
+                {
+                    "address": "M-22, Ground Floor, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Theobroma",
+                    "votes": "43"
+                },
+                {
+                    "address": "E-564, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food",
+                        "Rolls"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.8",
+                    "restaurantName": "Open Oven",
+                    "votes": "418"
+                },
+                {
+                    "address": "UG-1-A, E-572, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.1",
+                    "restaurantName": "The Waffle Co.",
+                    "votes": "224"
+                },
+                {
+                    "address": "M 60, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Mithai"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "3.7",
+                    "restaurantName": "Anupam Sweets",
+                    "votes": "187"
+                },
+                {
+                    "address": "M-37, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "restaurantName": "L'Opera"
+                },
+                {
+                    "address": "E-564, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.1",
+                    "restaurantName": "Nirula's Ice Cream",
+                    "votes": "176"
+                },
+                {
+                    "address": "M-7, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Defence Bakery",
+                    "votes": "217"
+                }
+            ],
+            "title": "Desserts & Bakes in Greater Kailash 2 (GK2)"
+        },
+        {
+            "details": [
+                {
+                    "address": "M 80, M Block Market, Greater Kailash 2 New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Modern Indian",
+                        "Italian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.4",
+                    "restaurantName": "The Finch",
+                    "votes": "173"
+                },
+                {
+                    "address": "M 4, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 1900,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.4",
+                    "restaurantName": "Kabooze",
+                    "votes": "333"
+                },
+                {
+                    "address": "M 29, 1st Floor, Above HDFC Bank, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.2",
+                    "restaurantName": "Sidecar",
+                    "votes": "182"
+                },
+                {
+                    "address": "M-72, 1st Floor, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Street Food",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "4.7",
+                    "restaurantName": "Street 9 Bar & Lounge",
+                    "votes": "142"
+                },
+                {
+                    "address": "M-42, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 2100,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Italian",
+                        "Salad"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "3.9",
+                    "restaurantName": "Uber Lounge",
+                    "votes": "628"
+                },
+                {
+                    "address": "M-8A, Greater Kailash 2 (GK2), New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Italian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.1",
+                    "restaurantName": "PDA",
+                    "votes": "203"
+                },
+                {
+                    "address": "M 25, 1st Floor, M Block Market, Greater Kailash 2 (GK 2), New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "4.6",
+                    "restaurantName": "Bartrender",
+                    "votes": "81"
+                },
+                {
+                    "address": "M 31, M Block Market, Greater Kailash 2 (GK2), New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "North Indian"
+                    ],
+                    "location": "Greater Kailash 2 (GK2)",
+                    "rating": "3.7",
+                    "restaurantName": "Headphones",
+                    "votes": "229"
+                },
+                {
+                    "address": "M-4, 1st Floor, M Block Market, Greater Kailash (GK) 2, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian"
+                    ],
+                    "location": "M Block Market, Greater Kailash 2 (GK2)",
+                    "rating": "3.8",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "226"
+                },
+                {
+                    "address": "HS-12, Kailash Colony Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "Finger Food"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.1",
+                    "restaurantName": "Uncultured Cafe & Bar",
+                    "votes": "1472"
+                },
+                {
+                    "address": "R - 1, Upper Ground Floor, Epicuria Food Mall, Nehru Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.4",
+                    "restaurantName": "Nehru Place Social",
+                    "votes": "2340"
+                },
+                {
+                    "address": "CG 2-3, Ground Floor, Ansal Plaza, Khel Gaon Marg, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Asian",
+                        "European"
+                    ],
+                    "location": "Ansal Plaza Mall, Khel Gaon Marg",
+                    "rating": "3.9",
+                    "restaurantName": "Clique",
+                    "votes": "310"
+                },
+                {
+                    "address": "Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Flying Saucer Cafe",
+                    "votes": "7714"
+                },
+                {
+                    "address": "36, Community Centre, East of Kailash, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Asian",
+                        "Continental",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "East of Kailash",
+                    "rating": "4.4",
+                    "restaurantName": "Bokan",
+                    "votes": "280"
+                },
+                {
+                    "address": "Moolchand Flyover Complex, Defence Colony, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "Chinese",
+                        "North Indian",
+                        "Salad"
+                    ],
+                    "location": "Defence Colony",
+                    "rating": "3.9",
+                    "restaurantName": "1 Oak Cafe & Bar",
+                    "votes": "1443"
+                }
+            ],
+            "title": "Nightlife Restaurants in Greater Kailash 2 (GK2)"
+        }
+    ]
+}

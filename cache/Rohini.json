@@ -1,0 +1,1201 @@
+{
+    "placeName": "Rohini",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "D 12/231, Sector 7, Near Garg Sweets, Rohini, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "South Indian",
+                        "Chinese"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Madras Cafe",
+                    "votes": "166"
+                },
+                {
+                    "address": "Ground Floor, PP Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Chaayos",
+                    "votes": "467"
+                },
+                {
+                    "address": "BMW Gym, Sector 8, Rohini, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Rolls",
+                        "Salad",
+                        "Sandwich"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Diet Zone",
+                    "votes": "56"
+                },
+                {
+                    "address": "BN-2, Central Market, Shalimar Bagh, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Bakery",
+                        "Chinese",
+                        "Fast Food"
+                    ],
+                    "location": "Shalimar Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "Ever Bake",
+                    "votes": "1040"
+                },
+                {
+                    "address": "B-6/150, Sector 8, Rohini, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Ashu Bhature Wala",
+                    "votes": "273"
+                },
+                {
+                    "address": "Flat 148, Pocket 7, Rohini, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.2",
+                    "restaurantName": "Shree Gopal Ji Chole Bhature",
+                    "votes": "1251"
+                },
+                {
+                    "address": "5, Main Road, Pitampura, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "4.1",
+                    "restaurantName": "Gulab",
+                    "votes": "1454"
+                },
+                {
+                    "address": "G-89, Aggarwal Millennium, Tower 2, Netaji Subhash Place, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Fast Food",
+                        "Burger",
+                        "Sandwich",
+                        "Pizza"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.9",
+                    "restaurantName": "Hashtag Foods",
+                    "votes": "793"
+                },
+                {
+                    "address": "Shop 16, Gole Market, Paschim Vihar, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Juices",
+                        "Beverages",
+                        "Ice Cream"
+                    ],
+                    "location": "Paschim Vihar",
+                    "rating": "3.7",
+                    "restaurantName": "Sunny's Fresh Juices & Shakes",
+                    "votes": "51"
+                },
+                {
+                    "address": "612, Rishi Nagar, Rani Bagh, Near Pitampura, New Delhi",
+                    "cost": 100,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "3.9",
+                    "restaurantName": "Om Corner",
+                    "votes": "269"
+                },
+                {
+                    "address": "GD 21, Near Pitampura Metro Station, Pitampura, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Street Food"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "3.8",
+                    "restaurantName": "Kaleva",
+                    "votes": "518"
+                },
+                {
+                    "address": "House 844, Shop 3, Plot 80, Rishi Nagar, Shakur Basti City, Saraswati Vihar, Pitampura, New Delhi",
+                    "cost": 100,
+                    "cuisines": [
+                        "Beverages",
+                        "Coffee",
+                        "Sandwich",
+                        "Burger"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "3.1",
+                    "restaurantName": "Pio Lassi",
+                    "votes": "6"
+                },
+                {
+                    "address": "D14/215, Sector 3, Near Rohini, New Delhi",
+                    "cost": 100,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Panditjee",
+                    "votes": "491"
+                },
+                {
+                    "address": "Shop 3, A-4, Opposite Paschim Vihar East Metro Station, Paschim Vihar, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food",
+                        "Chinese"
+                    ],
+                    "location": "Paschim Vihar",
+                    "rating": "3.6",
+                    "restaurantName": "Deli 63",
+                    "votes": "140"
+                },
+                {
+                    "address": "B-5-62, Second Floor, Sector 11, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Rolls",
+                        "Fast Food"
+                    ],
+                    "location": "Rohini",
+                    "restaurantName": "Roll's Art"
+                }
+            ],
+            "title": "Delivery Restaurants in Rohini"
+        },
+        {
+            "details": [
+                {
+                    "address": "Metro Walk Mall, Sector 10, Rohini, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Metro Walk Mall, Rohini",
+                    "rating": "2.5",
+                    "restaurantName": "Runway1",
+                    "votes": "365"
+                },
+                {
+                    "address": "397/398, Pocket B5, Sector 3, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.3",
+                    "restaurantName": "The Hogwarts Caf\u00e9",
+                    "votes": "531"
+                },
+                {
+                    "address": "Shop 24, RG Mall, Sector 9, Rohini, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Momos",
+                        "Rolls"
+                    ],
+                    "location": "Rohini",
+                    "restaurantName": "Punjabi Angithi"
+                },
+                {
+                    "address": "Unit 601, 6th Floor, Unity One, MLCP Plot, Rohini West Metro Station Complex, Rohini, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Mediterranean"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.8",
+                    "restaurantName": "Barbeque Nation",
+                    "votes": "1092"
+                },
+                {
+                    "address": "D-12/188, Opposite Metro Pillar 408, Rohini, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Fast Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Punjabi Rasoi",
+                    "votes": "411"
+                },
+                {
+                    "address": "GA-06, Metro Walk Mall, Rohini, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Seafood",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Metro Walk Mall, Rohini",
+                    "rating": "4.2",
+                    "restaurantName": "Berco's",
+                    "votes": "1403"
+                },
+                {
+                    "address": "215/216, 3rd Floor, Kulwant And Company Building, Pocket 1, Sector 25, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Arabian",
+                        "Fast Food",
+                        "Chinese"
+                    ],
+                    "location": "Rohini",
+                    "restaurantName": "School Wala Cafe"
+                },
+                {
+                    "address": "4th Floor, City Centre Mall, Rohini, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "City Centre Mall, Rohini",
+                    "rating": "3.8",
+                    "restaurantName": "Metro Grill",
+                    "votes": "223"
+                },
+                {
+                    "address": "3, Pocket F/19, Sector 8, Rohini, New Delhi",
+                    "cost": 1150,
+                    "cuisines": [
+                        "Asian",
+                        "Italian",
+                        "North Indian"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.8",
+                    "restaurantName": "The Reset",
+                    "votes": "426"
+                },
+                {
+                    "address": "131, 1st Floor, Mangalam Paradise Mall, Sector 3, Rohini, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Rohini",
+                    "restaurantName": "CUE"
+                },
+                {
+                    "address": "G-9, Ring Road Mall, Rohini, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Bikanervala",
+                    "votes": "591"
+                },
+                {
+                    "address": "Crowne Plaza, Twin District Centre, Sector 10, Rohini, New Delhi",
+                    "cost": 3500,
+                    "cuisines": [
+                        "North Indian",
+                        "Awadhi",
+                        "Kebab"
+                    ],
+                    "location": "Crowne Plaza Hotel, Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Spice Art - Crowne Plaza",
+                    "votes": "466"
+                },
+                {
+                    "address": "Unity Mall, Next to Rohini West Metro Station, Rohini, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "813"
+                },
+                {
+                    "address": "Seven Seas Hotel, 12, Mangalam Place, Sector 3, Rohini, New Delhi",
+                    "cost": 3500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Mexican",
+                        "Mediterranean"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.1",
+                    "restaurantName": "Seventh Sense - Seven Seas Hotel",
+                    "votes": "353"
+                },
+                {
+                    "address": "Crowne Plaza, Twin District Centre, Sector 10, Rohini, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Italian",
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "Crowne Plaza Hotel, Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Mosaic - Crowne Plaza",
+                    "votes": "507"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Rohini"
+        },
+        {
+            "details": [
+                {
+                    "address": "397/398, Pocket B5, Sector 3, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.3",
+                    "restaurantName": "The Hogwarts Caf\u00e9",
+                    "votes": "531"
+                },
+                {
+                    "address": "215/216, 3rd Floor, Kulwant And Company Building, Pocket 1, Sector 25, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Arabian",
+                        "Fast Food",
+                        "Chinese"
+                    ],
+                    "location": "Rohini",
+                    "restaurantName": "School Wala Cafe"
+                },
+                {
+                    "address": "C4/23 Main Road, Sector 11, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Bake Bun Bikis",
+                    "votes": "360"
+                },
+                {
+                    "address": "227, Ground Floor Pocket G-20, Sector 7, Rohini, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.6",
+                    "restaurantName": "Insta Burger Cafe",
+                    "votes": "33"
+                },
+                {
+                    "address": "D-7/327, Sector-6, Rohini, New Delhi, Delhi NCR",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Cafe BFF",
+                    "votes": "115"
+                },
+                {
+                    "address": "G-2 DC Chownk, Shopper's Arcade Complex Sector 9, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Bistro 57",
+                    "votes": "64"
+                },
+                {
+                    "address": "Plot 3B1, Shoppers Stop, Rohini, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "61"
+                },
+                {
+                    "address": "Shop 28C, Ground Floor, D Mall, Sector 10, Rohini, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Rohini",
+                    "rating": "2.9",
+                    "restaurantName": "Uncle's Cafe",
+                    "votes": "51"
+                },
+                {
+                    "address": "G1, Aggarwal Central Plaza, Sector 9, Rohini",
+                    "cost": 450,
+                    "cuisines": [
+                        "Cafe",
+                        "American"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.8",
+                    "restaurantName": "The Waffleicious Cafe",
+                    "votes": "140"
+                },
+                {
+                    "address": "Plot 31, Ground Floor, Pocket 12, Sector 24, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Yaari Caf\u00e9",
+                    "votes": "161"
+                },
+                {
+                    "address": "B-1/19, Sector 17, Rohini, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.6",
+                    "restaurantName": "Sachu's Cafe",
+                    "votes": "84"
+                },
+                {
+                    "address": "Tecnia Institute of Advanced Studies, PSP Area, Madhuban Chowk, Sector 14, Rohini, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.4",
+                    "restaurantName": "Kanishk Cafe",
+                    "votes": "20"
+                },
+                {
+                    "address": "C-1/83, Near Sukhdev College, Sector 11, Rohini, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Chinese",
+                        "Pizza",
+                        "Momos"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.8",
+                    "restaurantName": "The Cafe Culture",
+                    "votes": "148"
+                },
+                {
+                    "address": "132, SG Shopping Mall, 1st Floor, DC Chowk, Rohini, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "The Hangout Restaurant",
+                    "votes": "269"
+                },
+                {
+                    "address": "3rd Floor, North Ex Mall, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "North Ex Mall, Rohini",
+                    "rating": "3.3",
+                    "restaurantName": "Baithak Cafe",
+                    "votes": "15"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Rohini"
+        },
+        {
+            "details": [
+                {
+                    "address": "Ground Floor, D-Mall, Sector 10, Near Rohini West Metro Station, Rohini, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "South Indian",
+                        "Fast Food",
+                        "Street Food",
+                        "Chinese",
+                        "Desserts"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Haldiram's",
+                    "votes": "935"
+                },
+                {
+                    "address": "G-71 & G-87, Aggarwal City Plaza, Mangalam Palace, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Street Food",
+                        "South Indian",
+                        "Mithai",
+                        "North Indian",
+                        "Beverages"
+                    ],
+                    "location": "Aggarwal City Plaza, Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "BTW",
+                    "votes": "617"
+                },
+                {
+                    "address": "Flat 9, Pocket C/12, Maharaja Agrasen Marg, Sector 3, Rohini",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.3",
+                    "restaurantName": "Demould",
+                    "votes": "350"
+                },
+                {
+                    "address": "215/216, 3rd Floor, Kulwant And Company Building, Pocket 1, Sector 25, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Arabian",
+                        "Fast Food",
+                        "Chinese"
+                    ],
+                    "location": "Rohini",
+                    "restaurantName": "School Wala Cafe"
+                },
+                {
+                    "address": "B-1/115, 113, Sector 17, Rohini, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Fast Food",
+                        "Desserts"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Apsara Restaurant",
+                    "votes": "787"
+                },
+                {
+                    "address": "110, 1st Floor, MM Mall, DC Chowk, Sector 9, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "The Chocolate Villa",
+                    "votes": "446"
+                },
+                {
+                    "address": "G-20/224-225, Rohini, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Bakery",
+                        "Chinese"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Gaurav Pastry Palace",
+                    "votes": "351"
+                },
+                {
+                    "address": "G-9, Ring Road Mall, Rohini, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Bikanervala",
+                    "votes": "591"
+                },
+                {
+                    "address": "Shop 9, S Mart Mall, D.C Chowk, Rohini, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Bakery",
+                        "Italian",
+                        "Chinese",
+                        "Fast Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.8",
+                    "restaurantName": "The Cake Cafe",
+                    "votes": "162"
+                },
+                {
+                    "address": "Unity Mall, Near Rohini West Metro Station, Rohini, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Dunkin' Donuts",
+                    "votes": "524"
+                },
+                {
+                    "address": "Seven Seas Hotel, 12, Mangalam Place, Sector 3, Rohini, New Delhi",
+                    "cost": 3500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Mexican",
+                        "Mediterranean"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.1",
+                    "restaurantName": "Seventh Sense - Seven Seas Hotel",
+                    "votes": "353"
+                },
+                {
+                    "address": "C4/23 Main Road, Sector 11, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Bake Bun Bikis",
+                    "votes": "360"
+                },
+                {
+                    "address": "Shop 22, 1 Garg Trade Cent, Sector 11, Rohini, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Classic Belgian Waffles",
+                    "votes": "335"
+                },
+                {
+                    "address": "Shop 10, Ground Floor, Unity One Mall, Sector 10, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Keventers",
+                    "votes": "124"
+                },
+                {
+                    "address": "C-9/22, Near Metro Pillar 400, Sector 7, Rohini, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Giani's",
+                    "votes": "233"
+                }
+            ],
+            "title": "Desserts & Bakes in Rohini"
+        },
+        {
+            "details": [
+                {
+                    "address": "Lower Ground Floor, Manglam Paradise Mall, Sector 3, Rohini, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Rohini",
+                    "restaurantName": "Bank Bar & Lounge"
+                },
+                {
+                    "address": "G 11-17, Ground Floor, Mangalam Paradise Mall, Sector 3, Rohini, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Finger Food",
+                        "Bar Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "2.8",
+                    "restaurantName": "The Roxy Club",
+                    "votes": "17"
+                },
+                {
+                    "address": "G-14A (I and II) GF, Plot No 3, TC Jaina Tower-1, Distt Center, Janakpuri, New Delhi",
+                    "cost": 2400,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Prashant Vihar",
+                    "rating": "3.3",
+                    "restaurantName": "Liquid",
+                    "votes": "27"
+                },
+                {
+                    "address": "N-55/56 & 88/89, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Ardor 2.1",
+                    "votes": "3056"
+                },
+                {
+                    "address": "9-A & 12, Hauz Khas Village, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "Chinese",
+                        "Pizza",
+                        "Biryani",
+                        "Beverages"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.6",
+                    "restaurantName": "Hauz Khas Social",
+                    "votes": "13729"
+                },
+                {
+                    "address": "1/83, Third Floor, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "AIR- An Ivory Region",
+                    "votes": "1882"
+                },
+                {
+                    "address": "Shop N 49, 2nd Floor, Connaught Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "My Bar Headquarters",
+                    "votes": "5593"
+                },
+                {
+                    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Tamasha",
+                    "votes": "8136"
+                },
+                {
+                    "address": "52, Tolstoy Lane, Near Connaught Place, Janpath, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Mediterranean",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Janpath",
+                    "rating": "4.0",
+                    "restaurantName": "Informal by Imperfecto",
+                    "votes": "2919"
+                },
+                {
+                    "address": "91, 2nd Floor, N Block, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mediterranean",
+                        "Asian",
+                        "Salad",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.5",
+                    "restaurantName": "The Junkyard Cafe",
+                    "votes": "5536"
+                },
+                {
+                    "address": "HS-12, Kailash Colony Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "Finger Food"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.1",
+                    "restaurantName": "Uncultured Cafe & Bar",
+                    "votes": "1472"
+                },
+                {
+                    "address": "13-C, North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "TOS - Take Off Scarlet",
+                    "votes": "2441"
+                },
+                {
+                    "address": "G-72, 1st Floor, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "European",
+                        "Chinese",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Lord of the Drinks",
+                    "votes": "9331"
+                },
+                {
+                    "address": "Shop 214 & 216, 2nd Floor, DDA Commercial Complex, Aurobindo Place, Hauz Khas, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Finger Food"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.3",
+                    "restaurantName": "Mango Kitchen & Bar",
+                    "votes": "210"
+                },
+                {
+                    "address": "D 19/ 20, D Block, Inner Circle, Near Rajiv Chowk Metro Station Gate 3, Connaught Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "American",
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Asian",
+                        "Salad",
+                        "Juices",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Warehouse Cafe",
+                    "votes": "9728"
+                }
+            ],
+            "title": "Clubs and lounges in Rohini"
+        },
+        {
+            "details": [
+                {
+                    "address": "Unity Mall, Next to Rohini West Metro Station, Rohini, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "813"
+                },
+                {
+                    "address": "GA-7 & 8, Metro Walk Mall, Rohini, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Finger Food",
+                        "Mughlai",
+                        "Chinese",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.4",
+                    "restaurantName": "Cafe DEM - Restaurant & Bar",
+                    "votes": "301"
+                },
+                {
+                    "address": "Crowne Plaza, Twin District Centre, Sector 10, Rohini, New Delhi",
+                    "cost": 2500,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Crowne Plaza Hotel, Rohini",
+                    "rating": "3.8",
+                    "restaurantName": "Connexions Bar - Crowne Plaza",
+                    "votes": "81"
+                },
+                {
+                    "address": "B-309, North Ex Mall, Rohini, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "North Ex Mall, Rohini",
+                    "rating": "3.4",
+                    "restaurantName": "Chill House",
+                    "votes": "68"
+                },
+                {
+                    "address": "First Floor, Best Mega Mall, Sector-24, Rohini, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.4",
+                    "restaurantName": "BarShala",
+                    "votes": "52"
+                },
+                {
+                    "address": "Hotel City Park, KP Block, Pitampura, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Hotel City Park, Pitampura",
+                    "rating": "3.4",
+                    "restaurantName": "Opium Bar - Hotel City Park",
+                    "votes": "37"
+                },
+                {
+                    "address": "Shop 1, 1st Floor, Block CSC 5, Sector 14, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Prashant Vihar",
+                    "rating": "3.6",
+                    "restaurantName": "Pehli Manzil",
+                    "votes": "67"
+                },
+                {
+                    "address": "The Walk, Worldmark 2, Aerocity, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Asian"
+                    ],
+                    "location": "Aerocity",
+                    "rating": "4.9",
+                    "restaurantName": "Plum By Bent Chair",
+                    "votes": "959"
+                },
+                {
+                    "address": "11, KG Marg, Scindia House, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Local",
+                    "votes": "5738"
+                },
+                {
+                    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Tamasha",
+                    "votes": "8136"
+                },
+                {
+                    "address": "A 7/8, Kailash Park, Near Metro Pillar 326, Kirti Nagar, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Kirti Nagar",
+                    "rating": "4.3",
+                    "restaurantName": "The Marketplace",
+                    "votes": "540"
+                },
+                {
+                    "address": "1st Floor, DDA Shopping Complex, Aurobindo Place, Hauz Khas, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Finger Food",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.3",
+                    "restaurantName": "Summer House Cafe",
+                    "votes": "4347"
+                },
+                {
+                    "address": "Unit 1B & 1C, Upper Ground Floor-C, Building 10C, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "The Drunken Botanist",
+                    "votes": "4814"
+                },
+                {
+                    "address": "One Style Mile, Mehrauli, New Delhi",
+                    "cost": 1850,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Mehrauli",
+                    "rating": "4.2",
+                    "restaurantName": "The Grammar Room",
+                    "votes": "722"
+                },
+                {
+                    "address": "13, Alipur Road, Civil Lines, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Chinese",
+                        "Japanese",
+                        "Korean",
+                        "Asian",
+                        "Momos"
+                    ],
+                    "location": "Civil Lines",
+                    "rating": "4.3",
+                    "restaurantName": "Boa Village",
+                    "votes": "1674"
+                }
+            ],
+            "title": "Pubs & Bars in Rohini"
+        }
+    ]
+}

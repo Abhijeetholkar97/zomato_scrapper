@@ -1,0 +1,1153 @@
+{
+    "placeName": "Netaji Subhash Place",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "G-89, Aggarwal Millennium, Tower 2, Netaji Subhash Place, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Fast Food",
+                        "Burger",
+                        "Sandwich",
+                        "Pizza"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.9",
+                    "restaurantName": "Hashtag Foods",
+                    "votes": "793"
+                },
+                {
+                    "address": "Ground Floor, PP Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Chaayos",
+                    "votes": "467"
+                },
+                {
+                    "address": "BMW Gym, Sector 8, Rohini, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Rolls",
+                        "Salad",
+                        "Sandwich"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Diet Zone",
+                    "votes": "56"
+                },
+                {
+                    "address": "Shop 64, LSC Market, Ashok Vihar Phase 3, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Ashok Vihar Phase 3",
+                    "rating": "3.8",
+                    "restaurantName": "Happy Da Amritsari Kulcha Corner",
+                    "votes": "77"
+                },
+                {
+                    "address": "Deep Market, Ashok Vihar Phase 1, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Ashok Vihar Phase 1",
+                    "rating": "3.8",
+                    "restaurantName": "Mahender Choley Kulche",
+                    "votes": "45"
+                },
+                {
+                    "address": "C- 101, West Patel Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "West Patel Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "South Indian Fast Food",
+                    "votes": "362"
+                },
+                {
+                    "address": "10, Community Centre, Ashok Vihar Phase 2, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "North Indian",
+                        "Street Food"
+                    ],
+                    "location": "Ashok Vihar Phase 2",
+                    "rating": "4.0",
+                    "restaurantName": "Pandit Ji Parantha Hut",
+                    "votes": "1555"
+                },
+                {
+                    "address": "BN-2, Central Market, Shalimar Bagh, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Bakery",
+                        "Chinese",
+                        "Fast Food"
+                    ],
+                    "location": "Shalimar Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "Ever Bake",
+                    "votes": "1040"
+                },
+                {
+                    "address": "B-6/150, Sector 8, Rohini, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Ashu Bhature Wala",
+                    "votes": "273"
+                },
+                {
+                    "address": "Unity One, Near Rohini West Metro Station, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.4",
+                    "restaurantName": "Mr. Sub",
+                    "votes": "281"
+                },
+                {
+                    "address": "Flat 148, Pocket 7, Rohini, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.2",
+                    "restaurantName": "Shree Gopal Ji Chole Bhature",
+                    "votes": "1251"
+                },
+                {
+                    "address": "Block KD 62 A, Wazirpur Village, Ashok Vihar Phase 1, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Ashok Vihar Phase 1",
+                    "rating": "3.6",
+                    "restaurantName": "Manohar Bikkaneri",
+                    "votes": "88"
+                },
+                {
+                    "address": "D 12/231, Sector 7, Near Garg Sweets, Rohini, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "South Indian",
+                        "Chinese"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Madras Cafe",
+                    "votes": "166"
+                },
+                {
+                    "address": "5, Main Road, Pitampura, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "4.1",
+                    "restaurantName": "Gulab",
+                    "votes": "1454"
+                },
+                {
+                    "address": "Property 2, MPL 6303, ward X11",
+                    "cost": 100,
+                    "cuisines": [
+                        "Street Food",
+                        "North Indian"
+                    ],
+                    "location": "Kamla Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "Om Di Hatti",
+                    "votes": "402"
+                }
+            ],
+            "title": "Delivery Restaurants in Netaji Subhash Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "Shop 251, 2nd Floor, Above Stanmax Aggarwal Millennium Tower 1, Netaji Subhash Place, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.6",
+                    "restaurantName": "Themis Barbecue House",
+                    "votes": "2326"
+                },
+                {
+                    "address": "101, Aggarwal Cyber Plaza 1, Netaji Subhash Place, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Thai",
+                        "Kebab"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Sura Vie",
+                    "votes": "1092"
+                },
+                {
+                    "address": "101 & 102, 1st Floor, Agarwal Corporate Heights, Netaji Subhash Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "BBQ"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.2",
+                    "restaurantName": "Barbeque Nation",
+                    "votes": "1526"
+                },
+                {
+                    "address": "200 B, Netaji Subhash Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.4",
+                    "restaurantName": "Xpose Lounge",
+                    "votes": "424"
+                },
+                {
+                    "address": "Ground Floor, PP Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Chaayos",
+                    "votes": "467"
+                },
+                {
+                    "address": "G-51, Krishna Apra Plaza, Near Fun Cinema, Netaji Subhash Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Chinese",
+                        "Continental",
+                        "Mughlai"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.3",
+                    "restaurantName": "Million Dollar",
+                    "votes": "481"
+                },
+                {
+                    "address": "NDM 2, Netaji Subhash Place, New Delhi",
+                    "cost": 1650,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Mexican",
+                        "Lebanese"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Eleven Course",
+                    "votes": "796"
+                },
+                {
+                    "address": "1, ITL Twin Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Bikanervala",
+                    "votes": "229"
+                },
+                {
+                    "address": "113 to 120, 1st Floor, PP Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.4",
+                    "restaurantName": "PIND BALLUCHI",
+                    "votes": "443"
+                },
+                {
+                    "address": "G-3/4, Aggarwal Cyber Plaza-1, Netaji Subhash Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.5",
+                    "restaurantName": "The Chai Story",
+                    "votes": "241"
+                },
+                {
+                    "address": "1st Floor, Bigjos Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "BarShala",
+                    "votes": "57"
+                },
+                {
+                    "address": "107-108, First Floor, PP Towers, Netaji Subhash Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Barista",
+                    "votes": "60"
+                },
+                {
+                    "address": "Redpro Building, Near Max Hospital, Netaji Subhash Place, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "113"
+                },
+                {
+                    "address": "306, D Mall, Netaji Subhash Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "D Mall, Netaji Subhash Place",
+                    "rating": "3.4",
+                    "restaurantName": "Fiery Grills",
+                    "votes": "245"
+                },
+                {
+                    "address": "Shop 101, 1st Floor, D Mall, Netaji Subhash Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Finger Food"
+                    ],
+                    "location": "D Mall, Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe Desire",
+                    "votes": "206"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Netaji Subhash Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "Ground Floor, PP Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Chaayos",
+                    "votes": "467"
+                },
+                {
+                    "address": "HB Twin tower, Netaji Subhash Place, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.0",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "572"
+                },
+                {
+                    "address": "G-3/4, Aggarwal Cyber Plaza-1, Netaji Subhash Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.5",
+                    "restaurantName": "The Chai Story",
+                    "votes": "241"
+                },
+                {
+                    "address": "LOTS Wholesale Building, Near NSP Red Line Metro Station, Gate 2 & 3, Netaji Subhash Place, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.8",
+                    "restaurantName": "Arabitia Caf\u00e9",
+                    "votes": "107"
+                },
+                {
+                    "address": "G-55/58, Aggrawal Metro Heights, Netaji Subhash Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Chinese"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.3",
+                    "restaurantName": "Smoksha Cafe and Lounge",
+                    "votes": "109"
+                },
+                {
+                    "address": "Redpro Building, Near Max Hospital, Netaji Subhash Place, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "113"
+                },
+                {
+                    "address": "107-108, First Floor, PP Towers, Netaji Subhash Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Fast Food",
+                        "Coffee",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Barista",
+                    "votes": "60"
+                },
+                {
+                    "address": "31-32, AL DDA Market, Shalimar Bagh, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Shalimar Bagh",
+                    "rating": "3.6",
+                    "restaurantName": "Ice Cream and Grill Cafe",
+                    "votes": "55"
+                },
+                {
+                    "address": "Shop A-4, Block B-4, Keshav Puram, Lawrence Road, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Lawrence Road",
+                    "rating": "3.5",
+                    "restaurantName": "Nutrition Theka",
+                    "votes": "63"
+                },
+                {
+                    "address": "Shop 40, MP Mall, Pitampura, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Fast Food",
+                        "Street Food",
+                        "Juices"
+                    ],
+                    "location": "Pitampura",
+                    "restaurantName": "Shakti Food Corner"
+                },
+                {
+                    "address": "Shop 3570A, Rajapark, Shakurbasti, Pitampura, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Pitampura",
+                    "restaurantName": "Christmas Cafe"
+                },
+                {
+                    "address": "ED-37A, Near Madhuban Chowk, Pitampura, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "4.3",
+                    "restaurantName": "The Mustang Cafe",
+                    "votes": "124"
+                },
+                {
+                    "address": "B-14, Deep Cinema Complex, Ashok Vihar Phase 1, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Ashok Vihar Phase 1",
+                    "rating": "4.2",
+                    "restaurantName": "Maestro A Restro Cafe",
+                    "votes": "357"
+                },
+                {
+                    "address": "8, Chanderlok Enclave, Pitampura, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "4.0",
+                    "restaurantName": "Cafe Russmunch",
+                    "votes": "297"
+                },
+                {
+                    "address": "Building 2, 2nd Floor, Vaishali Enclave, Pitampura, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "3.8",
+                    "restaurantName": "Smokshh The Lounge",
+                    "votes": "117"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Netaji Subhash Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "D Mall, Netaji Subhash Place, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "South Indian",
+                        "Street Food",
+                        "Fast Food",
+                        "Chinese",
+                        "Desserts"
+                    ],
+                    "location": "D Mall, Netaji Subhash Place",
+                    "rating": "3.9",
+                    "restaurantName": "Haldiram's",
+                    "votes": "665"
+                },
+                {
+                    "address": "Shop G16, G17, G21, Ground Floor, PP Trade Centre, Netaji Subash Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.9",
+                    "restaurantName": "Wheat Basket",
+                    "votes": "177"
+                },
+                {
+                    "address": "Shop G 73, Aggarwal Millenium Tower 2, Plot E, Netaji Subhash Place, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.0",
+                    "restaurantName": "Coolfies",
+                    "votes": "83"
+                },
+                {
+                    "address": "G-33 & 34, Aggarwal Cyber Plaza, Netaji Subhash Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.8",
+                    "restaurantName": "Giani",
+                    "votes": "190"
+                },
+                {
+                    "address": "1, ITL Twin Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Bikanervala",
+                    "votes": "229"
+                },
+                {
+                    "address": "Shop G-71, Ground Floor, Aggarwal Ayber Plaza- II, Netaji Subhash Place, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.4",
+                    "restaurantName": "Pabrai's Fresh And Naturelle Ice Creams",
+                    "votes": "97"
+                },
+                {
+                    "address": "G 88, Aggarwal Millenium Tower 2, Netaji Subhash Place, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.0",
+                    "restaurantName": "Sardar-Ji-Bakhsh Coffee & Co.",
+                    "votes": "355"
+                },
+                {
+                    "address": "Shop G-17, Aggarwal Millenium Tower-I, Netaji Subhash Place, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Utsav - Gourmet Cakes and Breads",
+                    "votes": "105"
+                },
+                {
+                    "address": "G 75, Agarwal Cyber Plaza II, Netaji Subhash Place, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.6",
+                    "restaurantName": "Niti Shakes & Ice Cream Hub",
+                    "votes": "163"
+                },
+                {
+                    "address": "G-90, Aggarwal Millenium Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.9",
+                    "restaurantName": "Keventers",
+                    "votes": "69"
+                },
+                {
+                    "address": "107-108, First Floor, PP Towers, Netaji Subhash Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Barista",
+                    "votes": "60"
+                },
+                {
+                    "address": "G-90, Aggarwal Millenium, Tower-II, Netaji Subhash Place, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery",
+                        "Juices"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.4",
+                    "restaurantName": "Cake Walker Bakery & Juice Bar",
+                    "votes": "14"
+                },
+                {
+                    "address": "G 10, PP Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "restaurantName": "Cake Houz"
+                },
+                {
+                    "address": "G 25, Aggarwal Millenium Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.5",
+                    "restaurantName": "Waffles Delight",
+                    "votes": "12"
+                },
+                {
+                    "address": "G47, Aggarwal Cyber Plaza, Netaji Subhash Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Italian"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.8",
+                    "restaurantName": "Cheese and Chocolate",
+                    "votes": "41"
+                }
+            ],
+            "title": "Desserts & Bakes in Netaji Subhash Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "Shop 251, 2nd Floor, Above Stanmax Aggarwal Millennium Tower 1, Netaji Subhash Place, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.6",
+                    "restaurantName": "Themis Barbecue House",
+                    "votes": "2326"
+                },
+                {
+                    "address": "200 B, Netaji Subhash Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.4",
+                    "restaurantName": "Xpose Lounge",
+                    "votes": "424"
+                },
+                {
+                    "address": "Shop 101, 1st Floor, D Mall, Netaji Subhash Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Finger Food"
+                    ],
+                    "location": "D Mall, Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe Desire",
+                    "votes": "206"
+                },
+                {
+                    "address": "Level 1, Fun Cinemas, North Square Mall, Netaji Subhash Place, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "2.6",
+                    "restaurantName": "Alcoholic Lounge & Bar",
+                    "votes": "33"
+                },
+                {
+                    "address": "F-107 & 108, North Square Mall, Near Fun Cinema, Netaji Subhash Place, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "2.8",
+                    "restaurantName": "Mixx Club & Lounge",
+                    "votes": "8"
+                },
+                {
+                    "address": "TF-04, 3rd Floor, Pearls Omaxe Mall, Netaji Subhash Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.3",
+                    "restaurantName": "Divine Lounge & Bar",
+                    "votes": "12"
+                },
+                {
+                    "address": "214-215, 2nd Floor, Aggarwal City Mall, Pitampura, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Aggarwal City Mall, Pitampura",
+                    "rating": "4.0",
+                    "restaurantName": "Ghar Unplugged",
+                    "votes": "408"
+                },
+                {
+                    "address": "Lower Ground Floor, Manglam Paradise Mall, Sector 3, Rohini, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Rohini",
+                    "restaurantName": "Bank Bar & Lounge"
+                },
+                {
+                    "address": "G-14A (I and II) GF, Plot No 3, TC Jaina Tower-1, Distt Center, Janakpuri, New Delhi",
+                    "cost": 2400,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Prashant Vihar",
+                    "rating": "3.3",
+                    "restaurantName": "Liquid",
+                    "votes": "27"
+                },
+                {
+                    "address": "G 11-17, Ground Floor, Mangalam Paradise Mall, Sector 3, Rohini, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Finger Food",
+                        "Bar Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "2.8",
+                    "restaurantName": "The Roxy Club",
+                    "votes": "17"
+                },
+                {
+                    "address": "N-55/56 & 88/89, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Ardor 2.1",
+                    "votes": "3056"
+                },
+                {
+                    "address": "9-A & 12, Hauz Khas Village, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "Chinese",
+                        "Pizza",
+                        "Biryani",
+                        "Beverages"
+                    ],
+                    "location": "Hauz Khas Village",
+                    "rating": "4.6",
+                    "restaurantName": "Hauz Khas Social",
+                    "votes": "13729"
+                },
+                {
+                    "address": "1/83, Third Floor, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "AIR- An Ivory Region",
+                    "votes": "1882"
+                },
+                {
+                    "address": "Shop N 49, 2nd Floor, Connaught Place, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "My Bar Headquarters",
+                    "votes": "5593"
+                },
+                {
+                    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Tamasha",
+                    "votes": "8136"
+                }
+            ],
+            "title": "Clubs and lounges in Netaji Subhash Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "1st Floor, Bigjos Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "3.7",
+                    "restaurantName": "BarShala",
+                    "votes": "57"
+                },
+                {
+                    "address": "F-101-104, North East Mall, Netaji Subhash Place, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "2.6",
+                    "restaurantName": "Moments Bar and Lounge",
+                    "votes": "22"
+                },
+                {
+                    "address": "1st Floor, Above Bikanerwala Everbake Market, Shalimar Bagh, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Shalimar Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Kinara",
+                    "votes": "79"
+                },
+                {
+                    "address": "112, Aggarwal City Mall, Road 44, Near M2K Multiplex, Pitampura, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Aggarwal City Mall, Pitampura",
+                    "rating": "3.4",
+                    "restaurantName": "4 on 44 Restaurant & Bar",
+                    "votes": "95"
+                },
+                {
+                    "address": "3-4, 1st Floor, Central Market, Ashok Vihar Phase 1, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Ashok Vihar Phase 1",
+                    "rating": "3.7",
+                    "restaurantName": "The Mohans Resto Bar",
+                    "votes": "59"
+                },
+                {
+                    "address": "Hotel City Park, KP Block, Pitampura, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Hotel City Park, Pitampura",
+                    "rating": "3.4",
+                    "restaurantName": "Opium Bar - Hotel City Park",
+                    "votes": "37"
+                },
+                {
+                    "address": "B-309, North Ex Mall, Rohini, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "North Ex Mall, Rohini",
+                    "rating": "3.4",
+                    "restaurantName": "Chill House",
+                    "votes": "68"
+                },
+                {
+                    "address": "Shop 1, 1st Floor, Block CSC 5, Sector 14, Rohini, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Prashant Vihar",
+                    "rating": "3.6",
+                    "restaurantName": "Pehli Manzil",
+                    "votes": "67"
+                },
+                {
+                    "address": "The Walk, Worldmark 2, Aerocity, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Asian"
+                    ],
+                    "location": "Aerocity",
+                    "rating": "4.9",
+                    "restaurantName": "Plum By Bent Chair",
+                    "votes": "959"
+                },
+                {
+                    "address": "11, KG Marg, Scindia House, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.3",
+                    "restaurantName": "Local",
+                    "votes": "5738"
+                },
+                {
+                    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.4",
+                    "restaurantName": "Tamasha",
+                    "votes": "8136"
+                },
+                {
+                    "address": "A 7/8, Kailash Park, Near Metro Pillar 326, Kirti Nagar, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Kirti Nagar",
+                    "rating": "4.3",
+                    "restaurantName": "The Marketplace",
+                    "votes": "540"
+                },
+                {
+                    "address": "1st Floor, DDA Shopping Complex, Aurobindo Place, Hauz Khas, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Finger Food",
+                        "Salad"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.3",
+                    "restaurantName": "Summer House Cafe",
+                    "votes": "4347"
+                },
+                {
+                    "address": "Unit 1B & 1C, Upper Ground Floor-C, Building 10C, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "The Drunken Botanist",
+                    "votes": "4814"
+                },
+                {
+                    "address": "One Style Mile, Mehrauli, New Delhi",
+                    "cost": 1850,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Mehrauli",
+                    "rating": "4.2",
+                    "restaurantName": "The Grammar Room",
+                    "votes": "722"
+                }
+            ],
+            "title": "Pubs & Bars in Netaji Subhash Place"
+        }
+    ]
+}

@@ -1,0 +1,969 @@
+{
+    "placeName": "Khan Market",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "73, Khan Market, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Parsi",
+                        "North Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.2",
+                    "restaurantName": "Soda Bottle Opener Wala",
+                    "votes": "2739"
+                },
+                {
+                    "address": "M-42, Connaught Place, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Mughlai",
+                        "North Indian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.7",
+                    "restaurantName": "Nazeer Foods",
+                    "votes": "93"
+                },
+                {
+                    "address": "2nd, E-20, Shree Krishna Mandir, Central Market, Lajpat Nagar 2, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Lajpat Nagar 2",
+                    "rating": "3.9",
+                    "restaurantName": "Jhakkas Bombay Pav Bhaji",
+                    "votes": "297"
+                },
+                {
+                    "address": "46/16, Near Gate 1, Green Park Metro Station, Yusuf Sarai, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Yusuf Sarai",
+                    "rating": "4.0",
+                    "restaurantName": "Kuldeep Paranthe Wala",
+                    "votes": "141"
+                },
+                {
+                    "address": "F 8, South Extension 1, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food"
+                    ],
+                    "location": "South Extension 1",
+                    "rating": "3.8",
+                    "restaurantName": "No. 1 Uncles Parantha",
+                    "votes": "109"
+                },
+                {
+                    "address": "C 125, Ground Floor, Lajpat Nagar 1, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Street Food",
+                        "Beverages"
+                    ],
+                    "location": "Lajpat Nagar 1",
+                    "rating": "3.5",
+                    "restaurantName": "Nashta \u0928\u093e\u0936\u094d\u0924\u093e",
+                    "votes": "129"
+                },
+                {
+                    "address": "3, Krishna Market, Lajpat Nagar 1, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian",
+                        "Street Food"
+                    ],
+                    "location": "Lajpat Nagar 1",
+                    "rating": "4.2",
+                    "restaurantName": "Anand Ji",
+                    "votes": "927"
+                },
+                {
+                    "address": "Shop no. 7 , Amrit kaur market opposite new delhi railway station paharganj",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Paharganj",
+                    "rating": "4.0",
+                    "restaurantName": "Radhey Shyam Subhash Kumar Special Chole Bhature",
+                    "votes": "271"
+                },
+                {
+                    "address": "2246, Chuna Mandi, Paharganj, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Paharganj",
+                    "rating": "4.1",
+                    "restaurantName": "Sita Ram Diwan Chand",
+                    "votes": "2940"
+                },
+                {
+                    "address": "23/1, Ground Floor, Regal Building, Connaught Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Rolls"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.9",
+                    "restaurantName": "RollsKing",
+                    "votes": "67"
+                },
+                {
+                    "address": "23-25, Bengali Market, Mandi House, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Bengali Market, Mandi House",
+                    "rating": "3.6",
+                    "restaurantName": "Nathu's Sweets",
+                    "votes": "659"
+                },
+                {
+                    "address": "30-33, Bengali Market, Mandi House, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Street Food",
+                        "South Indian",
+                        "Chinese",
+                        "Mithai"
+                    ],
+                    "location": "Bengali Market, Mandi House",
+                    "rating": "3.8",
+                    "restaurantName": "Bengali Sweet House",
+                    "votes": "309"
+                },
+                {
+                    "address": "G19, Main Market, South Extension 1, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "Fast Food",
+                        "Street Food",
+                        "South Indian"
+                    ],
+                    "location": "South Extension 1",
+                    "rating": "3.9",
+                    "restaurantName": "Bengali Sweet Centre",
+                    "votes": "906"
+                },
+                {
+                    "address": "18, Defence Colony Market, Defence Colony, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "South Indian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Defence Colony Main Market, Defence Colony",
+                    "rating": "4.1",
+                    "restaurantName": "Sagar Ratna",
+                    "votes": "984"
+                },
+                {
+                    "address": "115-117, Bangla Sahib Marg, Gole Market, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food"
+                    ],
+                    "location": "Gole Market",
+                    "rating": "4.0",
+                    "restaurantName": "Bangla Sweet House",
+                    "votes": "371"
+                }
+            ],
+            "title": "Delivery Restaurants in Khan Market"
+        },
+        {
+            "details": [
+                {
+                    "address": "57, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "European",
+                        "North Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.2",
+                    "restaurantName": "Anglow",
+                    "votes": "212"
+                },
+                {
+                    "address": "29, First Floor, Khan Market, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Modern Indian",
+                        "Mexican",
+                        "Lebanese",
+                        "Italian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.2",
+                    "restaurantName": "The Immigrant Cafe",
+                    "votes": "607"
+                },
+                {
+                    "address": "68-A, Khan Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill",
+                    "votes": "6275"
+                },
+                {
+                    "address": "4, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "European",
+                        "American"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.2",
+                    "restaurantName": "Sly Granny",
+                    "votes": "569"
+                },
+                {
+                    "address": "Shop 18, 1st & 2nd Floor, Khan Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Cafe",
+                        "Street Food"
+                    ],
+                    "location": "Khan Market",
+                    "restaurantName": "Foxtrot"
+                },
+                {
+                    "address": "73, Khan Market, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Parsi",
+                        "North Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.2",
+                    "restaurantName": "Soda Bottle Opener Wala",
+                    "votes": "2739"
+                },
+                {
+                    "address": "Shop 69, First floor, Middle Lane, Khan Market, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Chinese",
+                        "Japanese",
+                        "Sushi"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.4",
+                    "restaurantName": "Yum Yum Cha",
+                    "votes": "935"
+                },
+                {
+                    "address": "71, 1st Floor, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Cafe",
+                        "European"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Perch Wine & Coffee Bar",
+                    "votes": "1162"
+                },
+                {
+                    "address": "Shop 12, First Floor, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Italian",
+                        "Asian",
+                        "European"
+                    ],
+                    "location": "Khan Market",
+                    "restaurantName": "Andrea's Bar And Brasserie"
+                },
+                {
+                    "address": "60-61, Near Dayal Opticals, Middle Circle Lane, Khan Market, New Delhi",
+                    "cost": 2500,
+                    "cuisines": [
+                        "Japanese",
+                        "Thai",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Town Hall",
+                    "votes": "1638"
+                },
+                {
+                    "address": "58, 1st & 2nd Floor, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food",
+                        "Italian",
+                        "North Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.4",
+                    "restaurantName": "The Chatter House",
+                    "votes": "1699"
+                },
+                {
+                    "address": "Shop 50, 1st Floor, Middle Lane, Khan Market, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Mughlai",
+                        "North Indian",
+                        "Rolls",
+                        "Kebab"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.0",
+                    "restaurantName": "Khan Chacha",
+                    "votes": "3384"
+                },
+                {
+                    "address": "67-68, Khan Market, New Delhi",
+                    "cost": 2100,
+                    "cuisines": [
+                        "European"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Public Affair",
+                    "votes": "519"
+                },
+                {
+                    "address": "2 & 3, Khan Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Modern Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Baar Baar",
+                    "votes": "227"
+                },
+                {
+                    "address": "53, 1st Floor, Middle Lane, Khan Market, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Asian",
+                        "Thai",
+                        "Chinese",
+                        "Salad"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.2",
+                    "restaurantName": "Mamagoto",
+                    "votes": "1804"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Khan Market"
+        },
+        {
+            "details": [
+                {
+                    "address": "68-A, Khan Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill",
+                    "votes": "6275"
+                },
+                {
+                    "address": "Shop 18, 1st & 2nd Floor, Khan Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Cafe",
+                        "Street Food"
+                    ],
+                    "location": "Khan Market",
+                    "restaurantName": "Foxtrot"
+                },
+                {
+                    "address": "71, 1st Floor, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Cafe",
+                        "European"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Perch Wine & Coffee Bar",
+                    "votes": "1162"
+                },
+                {
+                    "address": "17, 1st Floor, Khan Market, New Delhi",
+                    "cost": 1650,
+                    "cuisines": [
+                        "Italian",
+                        "European",
+                        "Cafe",
+                        "American",
+                        "Salad",
+                        "Juices",
+                        "Burger",
+                        "Healthy Food"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Smoke House Deli",
+                    "votes": "1982"
+                },
+                {
+                    "address": "66, Middle Lane, Khan Market, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Italian",
+                        "European",
+                        "Cafe",
+                        "Salad"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.9",
+                    "restaurantName": "The Blue Door Cafe",
+                    "votes": "1025"
+                },
+                {
+                    "address": "62, Middle Lane, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.9",
+                    "restaurantName": "The Coffee Bean & Tea Leaf",
+                    "votes": "411"
+                },
+                {
+                    "address": "Shop 23, 1st & 2nd Floor, Khan Market, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Lebanese",
+                        "Healthy Food"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.7",
+                    "restaurantName": "Caf\u00e9 Turtle",
+                    "votes": "728"
+                },
+                {
+                    "address": "Shop 45, 1st & 2nd Floor, Rabindra Nagar, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "143"
+                },
+                {
+                    "address": "Shop 34, Main Market, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.3",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "48"
+                },
+                {
+                    "address": "67-A, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Cafe"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.9",
+                    "restaurantName": "Choko la",
+                    "votes": "450"
+                },
+                {
+                    "address": "Taj Vivanta, Subramania Bharti Marg, Sujan Singh Park, Khan Market, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Beverages"
+                    ],
+                    "location": "Taj Vivanta, Khan Market",
+                    "rating": "3.6",
+                    "restaurantName": "Baba's Beans Coffee Bar - Taj Vivanta",
+                    "votes": "52"
+                },
+                {
+                    "address": "Khan Market, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.8",
+                    "restaurantName": "FrenZone",
+                    "votes": "30"
+                },
+                {
+                    "address": "Bikaner House, Near India Gate, Pandara Road Market, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Pandara Road Market",
+                    "rating": "4.2",
+                    "restaurantName": "L'Op\u00e9ra Salon De Th\u00e9",
+                    "votes": "78"
+                },
+                {
+                    "address": "Alliance Fran\u00e7aise de Delhi, KK Birla Lane, 72, Lodhi Estate, Lodhi Road, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "French",
+                        "Pizza",
+                        "North Indian"
+                    ],
+                    "location": "Lodhi Road",
+                    "rating": "3.7",
+                    "restaurantName": "Cafe at Alliance Fran\u00e7aise de Delhi",
+                    "votes": "37"
+                },
+                {
+                    "address": "The Taj Mahal Hotel, 1, Mansingh Road, New Delhi",
+                    "cost": 2500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "The Taj Mahal Hotel, Mansingh Road",
+                    "rating": "3.8",
+                    "restaurantName": "Emperor's Lounge - The Taj Mahal Hotel",
+                    "votes": "97"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Khan Market"
+        },
+        {
+            "details": [
+                {
+                    "address": "68-A, Khan Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill",
+                    "votes": "6275"
+                },
+                {
+                    "address": "3B, Main Market, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.5",
+                    "restaurantName": "The Big Chill Cakery",
+                    "votes": "236"
+                },
+                {
+                    "address": "58-A, Khan Market, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food",
+                        "Rolls",
+                        "Desserts"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.8",
+                    "restaurantName": "Sugar & Spice",
+                    "votes": "122"
+                },
+                {
+                    "address": "5-B, Khan Market, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.0",
+                    "restaurantName": "L'Op\u00e9ra",
+                    "votes": "651"
+                },
+                {
+                    "address": "5A, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.9",
+                    "restaurantName": "Enchante Patisserie",
+                    "votes": "51"
+                },
+                {
+                    "address": "1B, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.0",
+                    "restaurantName": "The Big Chill Creamery",
+                    "votes": "36"
+                },
+                {
+                    "address": "Shop 13-B, Khan Market, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.0",
+                    "restaurantName": "The Artful Baker",
+                    "votes": "352"
+                },
+                {
+                    "address": "Shop 45, 1st & 2nd Floor, Rabindra Nagar, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "143"
+                },
+                {
+                    "address": "Shop 34, Main Market, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.3",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "48"
+                },
+                {
+                    "address": "67-A, Khan Market, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Cafe"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.9",
+                    "restaurantName": "Choko la",
+                    "votes": "450"
+                },
+                {
+                    "address": "Shop 15, Ground Floor, Prithvi Raj market, Khan Market, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "2.9",
+                    "restaurantName": "Gopala",
+                    "votes": "6"
+                },
+                {
+                    "address": "100, Golf Links, Near, Khan Market, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.8",
+                    "restaurantName": "Cravings By Arshi Dhupia",
+                    "votes": "41"
+                },
+                {
+                    "address": "44G, Khan Market, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Khan Market",
+                    "restaurantName": "Vindhwashni Bakers , Confectioner & Florist"
+                },
+                {
+                    "address": "Shop 7, Pandara Road Market, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Pandara Road Market",
+                    "rating": "3.9",
+                    "restaurantName": "Krishna Di Kulfi",
+                    "votes": "234"
+                },
+                {
+                    "address": "20, Muncipal Market, Pandara Road Market, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "Pandara Road Market",
+                    "rating": "3.7",
+                    "restaurantName": "Baskin Robbins",
+                    "votes": "57"
+                }
+            ],
+            "title": "Desserts & Bakes in Khan Market"
+        },
+        {
+            "details": [
+                {
+                    "address": "5, Khan Market, New Delhi",
+                    "cost": 1550,
+                    "cuisines": [
+                        "North Indian",
+                        "Lebanese",
+                        "Mexican",
+                        "Italian",
+                        "American"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.2",
+                    "restaurantName": "Out Of The Box",
+                    "votes": "2273"
+                },
+                {
+                    "address": "57, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "European",
+                        "North Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.2",
+                    "restaurantName": "Anglow",
+                    "votes": "212"
+                },
+                {
+                    "address": "71, 1st Floor, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Cafe",
+                        "European"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Perch Wine & Coffee Bar",
+                    "votes": "1162"
+                },
+                {
+                    "address": "58, 1st & 2nd Floor, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food",
+                        "Italian",
+                        "North Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.4",
+                    "restaurantName": "The Chatter House",
+                    "votes": "1699"
+                },
+                {
+                    "address": "67-68, Khan Market, New Delhi",
+                    "cost": 2100,
+                    "cuisines": [
+                        "European"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Public Affair",
+                    "votes": "519"
+                },
+                {
+                    "address": "51, 1st Floor, Khan Market, New Delhi",
+                    "cost": 2100,
+                    "cuisines": [
+                        "American",
+                        "European",
+                        "BBQ"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.1",
+                    "restaurantName": "Smokey's BBQ And Grill",
+                    "votes": "1302"
+                },
+                {
+                    "address": "Shop 52, Khan Market, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.3",
+                    "restaurantName": "Wok In The Clouds",
+                    "votes": "1100"
+                },
+                {
+                    "address": "62/2nd Floor, Khan Market, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Asian",
+                        "American",
+                        "Mexican"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "3.8",
+                    "restaurantName": "Harry's Bar + Cafe",
+                    "votes": "564"
+                },
+                {
+                    "address": "Plot 8, Main Market, Khan Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian"
+                    ],
+                    "location": "Khan Market",
+                    "rating": "4.0",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "194"
+                },
+                {
+                    "address": "Taj Vivanta, Subramania Bharti Marg, Sujan Singh Park, Khan Market, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "Finger Food"
+                    ],
+                    "location": "Taj Vivanta, Khan Market",
+                    "rating": "3.7",
+                    "restaurantName": "Insomnia - Taj Vivanta",
+                    "votes": "60"
+                },
+                {
+                    "address": "The Taj Mahal Hotel, 1, Mansingh Road, New Delhi",
+                    "cost": 4200,
+                    "cuisines": [
+                        "Malaysian",
+                        "Thai"
+                    ],
+                    "location": "The Taj Mahal Hotel, Mansingh Road",
+                    "rating": "3.8",
+                    "restaurantName": "Ricks Bar - The Taj Mahal Hotel",
+                    "votes": "85"
+                },
+                {
+                    "address": "The Claridges, 12, Dr. A.P.J. Abdul Kalam Road, Aurangzeb Road, New Delhi",
+                    "cost": 4000,
+                    "cuisines": [
+                        "Continental"
+                    ],
+                    "location": "The Claridges, Aurangzeb Road",
+                    "rating": "3.7",
+                    "restaurantName": "Aura - The Claridges",
+                    "votes": "55"
+                },
+                {
+                    "address": "The Oberoi, Dr. Zakir Hussain Marg, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "The Oberoi, Dr. Zakir Hussain Marg",
+                    "rating": "4.0",
+                    "restaurantName": "Cirrus 9 - The Oberoi",
+                    "votes": "136"
+                },
+                {
+                    "address": "The Lodhi, Lodhi Road, New Delhi",
+                    "cost": 5000,
+                    "cuisines": [
+                        "Continental",
+                        "Finger Food"
+                    ],
+                    "location": "The Lodhi, Lodhi Road",
+                    "rating": "3.3",
+                    "restaurantName": "The Electric Room - The Lodhi",
+                    "votes": "137"
+                },
+                {
+                    "address": "The Oberoi, Dr. Zakir Hussain Marg, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "The Oberoi, Dr. Zakir Hussain Marg",
+                    "rating": "3.1",
+                    "restaurantName": "The Club Bar & Cigar Lounge - The Oberoi",
+                    "votes": "11"
+                }
+            ],
+            "title": "Nightlife Restaurants in Khan Market"
+        }
+    ]
+}

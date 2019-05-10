@@ -1,0 +1,992 @@
+{
+    "placeName": "Sector 18, Noida",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "A-4, Dadri Main Rd, A block, Sector 49, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Fast Food",
+                        "Chinese"
+                    ],
+                    "location": "Sector 49, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Owlcity",
+                    "votes": "1032"
+                },
+                {
+                    "address": "Shop 7 & 8, Basement, Shanti Complex, Indira Market, Sector 27, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bengali",
+                        "Rolls",
+                        "Biryani"
+                    ],
+                    "location": "Sector 27, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Dada's Chops",
+                    "votes": "246"
+                },
+                {
+                    "address": "B-1/19, Gautam Buddha Nagar, Sector 50, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Burger"
+                    ],
+                    "location": "Sector 50, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Burger Singh",
+                    "votes": "502"
+                },
+                {
+                    "address": "Shop G 26, Savitri Market, Sector 18, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Chinese",
+                        "Rolls",
+                        "North Indian",
+                        "Fast Food",
+                        "Momos",
+                        "Beverages"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.3",
+                    "restaurantName": "Chaska 18",
+                    "votes": "7"
+                },
+                {
+                    "address": "House 45, First Floor, Agahapur Near Mother Dairy, Sector 41, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza",
+                        "Burger"
+                    ],
+                    "location": "Sector 41, Noida",
+                    "rating": "3.7",
+                    "restaurantName": "Hominos Pizza",
+                    "votes": "65"
+                },
+                {
+                    "address": "Near F-71, Swastik House Line, Sector 51, Noida",
+                    "cost": 200,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Rolls"
+                    ],
+                    "location": "Sector 51, Noida",
+                    "rating": "3.6",
+                    "restaurantName": "Diamond Food",
+                    "votes": "246"
+                },
+                {
+                    "address": "B 1/52, Main Market, B Block, Sector 50, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "Sector 50, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "820"
+                },
+                {
+                    "address": "F-71, Near Swastik House, Line sector 51, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Sector 51, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Taste of India",
+                    "votes": "782"
+                },
+                {
+                    "address": "G-27, Savitri Market, Sector 18, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Fast Food",
+                        "Chinese",
+                        "North Indian",
+                        "Rolls",
+                        "Momos",
+                        "Beverages"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "2.9",
+                    "restaurantName": "Cafe 18",
+                    "votes": "234"
+                },
+                {
+                    "address": "Shop 31, Block B-1, Central Market, Sector 50, Noida",
+                    "cost": 450,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Sector 50, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "The Burger Club",
+                    "votes": "95"
+                },
+                {
+                    "address": "Kiosk 6, Glued Reloaded, Dynamic House, Sector 41, Next to H.P. Petrol Pump. P, Main Dadri Road, Noida",
+                    "cost": 450,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages",
+                        "Wraps"
+                    ],
+                    "location": "Sector 41, Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Wat-a-Burger!",
+                    "votes": "82"
+                },
+                {
+                    "address": "A-130, Sector 83, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese",
+                        "Biryani"
+                    ],
+                    "location": "Sector 83, Noida",
+                    "rating": "4.3",
+                    "restaurantName": "501 Kitchen",
+                    "votes": "844"
+                },
+                {
+                    "address": "S.R. Complex, Nayabans Village, Sector 15, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Mughlai",
+                        "North Indian"
+                    ],
+                    "location": "Sector 15, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Kaka Restaurant",
+                    "votes": "202"
+                },
+                {
+                    "address": "D-66, 2nd Floor, Sector 7, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "Sector 7, Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Chawla-Chicken.com",
+                    "votes": "476"
+                },
+                {
+                    "address": "Sector 41, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Momos"
+                    ],
+                    "location": "Sector 41, Noida",
+                    "rating": "3.6",
+                    "restaurantName": "2 Bros Kitchen",
+                    "votes": "1292"
+                }
+            ],
+            "title": "Delivery Restaurants in Sector 18"
+        },
+        {
+            "details": [
+                {
+                    "address": "B-1, 9/10, Near Sector 18 Metro Station, Sector 18, Noida",
+                    "cost": 1550,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "LIT Ultrabar",
+                    "votes": "770"
+                },
+                {
+                    "address": "C-27/27, Sector 18, Noida",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese",
+                        "Finger Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.7",
+                    "restaurantName": "Blue Club & Lounge",
+                    "votes": "90"
+                },
+                {
+                    "address": "Gardens Galleria Mall, Sector 38, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.0",
+                    "restaurantName": "The Smoke Factory",
+                    "votes": "923"
+                },
+                {
+                    "address": "DLF Mall Of India, Sector 18, Noida",
+                    "cost": 1600,
+                    "cuisines": [
+                        "European",
+                        "American"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "The Irish House",
+                    "votes": "957"
+                },
+                {
+                    "address": "A 501 & B 504, 4th Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Noida Pub Exchange",
+                    "votes": "979"
+                },
+                {
+                    "address": "Radisson Blu, L-2, Sector 18, Noida",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian"
+                    ],
+                    "location": "Radisson Blu, Sector 18, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "@ Links - Radisson Blu",
+                    "votes": "91"
+                },
+                {
+                    "address": "K-24, Near HSBC Bank, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.6",
+                    "restaurantName": "ZEST Astor18 Bar And Lounge",
+                    "votes": "334"
+                },
+                {
+                    "address": "G-38, 1st Floor, Sector 18, Noida",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Our Story Pub By Sherlock's",
+                    "votes": "601"
+                },
+                {
+                    "address": "P-11, 2nd & 3rd Floor, Above Sony Centre, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "American",
+                        "Italian"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Cheenos",
+                    "votes": "785"
+                },
+                {
+                    "address": "Mosaic Hotels, C-1, Sector 18, Noida",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Mexican"
+                    ],
+                    "location": "Mosaic Hotels, Sector 18, Noida",
+                    "rating": "3.4",
+                    "restaurantName": "Flluid - Mosaic Hotels",
+                    "votes": "153"
+                },
+                {
+                    "address": "1st Floor, Wave Mall, Sector 18, Noida",
+                    "cost": 1000,
+                    "cuisines": [
+                        "American",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "2.7",
+                    "restaurantName": "Grand Royal Cafe",
+                    "votes": "59"
+                },
+                {
+                    "address": "B-110, Gautam Budh Nagar, Sector 18, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "2.3",
+                    "restaurantName": "RPM - Zanzi Bar",
+                    "votes": "113"
+                },
+                {
+                    "address": "2nd Floor, Opposite Food Court, Gardens Galleria, Sector 38, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "Finger Food",
+                        "Momos"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Time Machine",
+                    "votes": "1748"
+                },
+                {
+                    "address": "305 & 306, 3rd Floor, TGIP Mall, Sector 38, Noida",
+                    "cost": 1900,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "restaurantName": "Reverb"
+                },
+                {
+                    "address": "2nd Floor, Gardens Galleria Mall, Sector 38, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.2",
+                    "restaurantName": "The Bar Company",
+                    "votes": "216"
+                }
+            ],
+            "title": "Nightlife Restaurants in Sector 18"
+        },
+        {
+            "details": [
+                {
+                    "address": "Ground Floor, Silver Tower, Near Metro Station, Sector 18, Noida",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Bikanervala",
+                    "votes": "902"
+                },
+                {
+                    "address": "C-417, 3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Mughlai",
+                        "Asian"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Pirates of Grill",
+                    "votes": "3033"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall Of India, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Mexican",
+                        "American",
+                        "Italian",
+                        "Burger"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.6",
+                    "restaurantName": "Chili's Grill & Bar",
+                    "votes": "3744"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill",
+                    "votes": "1379"
+                },
+                {
+                    "address": "Shop D 420B, Third Floor, DLF Mall of India, Plot M-03, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Asian",
+                        "Burmese"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.6",
+                    "restaurantName": "Burma Burma",
+                    "votes": "632"
+                },
+                {
+                    "address": "DLF Mall Of India, Sector 18, Noida",
+                    "cost": 1600,
+                    "cuisines": [
+                        "European",
+                        "American"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "The Irish House",
+                    "votes": "957"
+                },
+                {
+                    "address": "G-50, 1st Floor, Sector 18, Noida",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Desi Vibes",
+                    "votes": "3351"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza",
+                        "Salad"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "PizzaExpress",
+                    "votes": "2730"
+                },
+                {
+                    "address": "N 15 & 16, N Block, Sector 18, Noida",
+                    "cost": 1650,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Garam Dharam",
+                    "votes": "139"
+                },
+                {
+                    "address": "P-19, Sector 18, Noida",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Punjabi By Nature 2.0",
+                    "votes": "1149"
+                },
+                {
+                    "address": "Ground Floor, Plot K-1, Dharam Palace, Sector 18, Noida",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Mainland China",
+                    "votes": "1049"
+                },
+                {
+                    "address": "A 501 & B 504, 4th Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Noida Pub Exchange",
+                    "votes": "979"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "1511"
+                },
+                {
+                    "address": "D-423, 3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Asian",
+                        "Thai",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Mamagoto",
+                    "votes": "1174"
+                },
+                {
+                    "address": "B-404, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Sushi"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Big Wong XL",
+                    "votes": "1310"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Sector 18"
+        },
+        {
+            "details": [
+                {
+                    "address": "P-15, 6th floor, Sector 18, Noida",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Chinese",
+                        "Lebanese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "The Shed - Sky Garden And Cafe",
+                    "votes": "68"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill",
+                    "votes": "1379"
+                },
+                {
+                    "address": "2K - 8, 1st Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Theobroma",
+                    "votes": "601"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "1511"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Theos",
+                    "votes": "295"
+                },
+                {
+                    "address": "Ground Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "160"
+                },
+                {
+                    "address": "Radisson Blu, L-2, Sector 18, Noida",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Radisson Blu, Sector 18, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "The Chocolate Box Lounge - Radisson Blu",
+                    "votes": "136"
+                },
+                {
+                    "address": "E-18, Plot M-03, Lower Ground Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Chaayos",
+                    "votes": "327"
+                },
+                {
+                    "address": "B-204, 1st Floor, DLF Mall Of India, Sector 18, Noida",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Continental",
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "3.8",
+                    "restaurantName": "PappaRoti",
+                    "votes": "571"
+                },
+                {
+                    "address": "Shop 3, Buddha Tower, Sector 27, Near Sector 18 Metro Station, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Cafe"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "restaurantName": "LA Foodies Cafe"
+                },
+                {
+                    "address": "1st Floor, DLF Mall of India, Sector 19, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Costa Coffee",
+                    "votes": "110"
+                },
+                {
+                    "address": "Ground Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 450,
+                    "cuisines": [
+                        "Beverages",
+                        "Cafe",
+                        "Bakery"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Cinnabon",
+                    "votes": "306"
+                },
+                {
+                    "address": "G 50, Sector 18, Noida",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental",
+                        "Salad"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Kaffiiaa",
+                    "votes": "291"
+                },
+                {
+                    "address": "G-33, Atta Market, Sector 18, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.7",
+                    "restaurantName": "Barista",
+                    "votes": "103"
+                },
+                {
+                    "address": "Shop 11, Ground Floor, DLF Mall Of India, Sector 18, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "3.5",
+                    "restaurantName": "The Coffee Bean & Tea Leaf",
+                    "votes": "41"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Sector 18"
+        },
+        {
+            "details": [
+                {
+                    "address": "G-50, Ground Floor, Sector 18, Noida",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Ka Eclairs & Kafe",
+                    "votes": "1150"
+                },
+                {
+                    "address": "Ground Floor, Silver Tower, Near Metro Station, Sector 18, Noida",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Bikanervala",
+                    "votes": "902"
+                },
+                {
+                    "address": "Ground Floor, DLF Mall Of India, Sector 18, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill Cakery",
+                    "votes": "716"
+                },
+                {
+                    "address": "F-1, Sector 18, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Street Food",
+                        "Mithai",
+                        "South Indian"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "restaurantName": "Haldiram's"
+                },
+                {
+                    "address": "2K - 8, 1st Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Theobroma",
+                    "votes": "601"
+                },
+                {
+                    "address": "B-13, Sector 18, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Hira Sweets",
+                    "votes": "219"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Theos",
+                    "votes": "295"
+                },
+                {
+                    "address": "Ground Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "160"
+                },
+                {
+                    "address": "B-1/3, Near Sector 18 Metro Station, Sector 18, Noida",
+                    "cost": 400,
+                    "cuisines": [
+                        "South Indian",
+                        "Chinese",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Aggarwal Bikaneri Sweets",
+                    "votes": "422"
+                },
+                {
+                    "address": "Food Court, 4th Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Mad Over Donuts",
+                    "votes": "212"
+                },
+                {
+                    "address": "Radisson Blu, L-2, Sector 18, Noida",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Radisson Blu, Sector 18, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "The Chocolate Box Lounge - Radisson Blu",
+                    "votes": "136"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall Of India, Sector 18, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Frozen Yogurt",
+                        "Desserts"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Cocoberry",
+                    "votes": "36"
+                },
+                {
+                    "address": "4th Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 250,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Oh So Stoned!",
+                    "votes": "682"
+                },
+                {
+                    "address": "F-1, Sector 18, Noida",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.5",
+                    "restaurantName": "Bon Bon Pastry Shop",
+                    "votes": "302"
+                },
+                {
+                    "address": "3, Wave Silver Tower, Facing The Metro Line Sector 18, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Donald's Pastry Shop",
+                    "votes": "585"
+                }
+            ],
+            "title": "Desserts & Bakes in Sector 18"
+        }
+    ]
+}

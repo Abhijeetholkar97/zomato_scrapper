@@ -1,0 +1,962 @@
+{
+    "placeName": "Chanakyapuri",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "Building 52, Bada Bazar Marg, Old Rajinder Nagar, Karol Bagh, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Chinese",
+                        "Continental",
+                        "Beverages"
+                    ],
+                    "location": "Karol Bagh",
+                    "rating": "3.7",
+                    "restaurantName": "My Recipes & Cafe",
+                    "votes": "61"
+                },
+                {
+                    "address": "18-20, Hindustan Times Buliding, KG Marg, Connaught Place, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Continental",
+                        "Juices",
+                        "Salad"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.1",
+                    "restaurantName": "GoGourmet",
+                    "votes": "384"
+                },
+                {
+                    "address": "28A/12 Jia Sarai, Near IIT Gate, Qutab Institutional Area, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Qutab Institutional Area",
+                    "rating": "4.1",
+                    "restaurantName": "Dilli 6 On Wheels",
+                    "votes": "382"
+                },
+                {
+                    "address": "92-G/1, Partap Market, Munirka, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Munirka",
+                    "rating": "3.6",
+                    "restaurantName": "Masala Kitchen",
+                    "votes": "256"
+                },
+                {
+                    "address": "216, B/7 A Gautam Nagar Road, Gulmohar Park, Green Park, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Chinese",
+                        "Beverages",
+                        "North Indian"
+                    ],
+                    "location": "Green Park",
+                    "rating": "3.4",
+                    "restaurantName": "MJ Food Court",
+                    "votes": "27"
+                },
+                {
+                    "address": "Old Rajender Nagar Market, Opposite Rapid Floor Mill, Rajinder Nagar, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Fast Food",
+                        "Street Food"
+                    ],
+                    "location": "Rajinder Nagar",
+                    "rating": "3.6",
+                    "restaurantName": "Aradhna Restaurant",
+                    "votes": "104"
+                },
+                {
+                    "address": "19, Old Rajinder Nagar, Rajinder Nagar, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "South Indian",
+                        "North Indian"
+                    ],
+                    "location": "Rajinder Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Sri Annapurana Restaurant",
+                    "votes": "481"
+                },
+                {
+                    "address": "46/16, Near Gate 1, Green Park Metro Station, Yusuf Sarai, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Yusuf Sarai",
+                    "rating": "4.0",
+                    "restaurantName": "Kuldeep Paranthe Wala",
+                    "votes": "141"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "Mughlai"
+                    ],
+                    "location": "East Patel Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "India Kitchen",
+                    "votes": "2354"
+                },
+                {
+                    "address": "C 125, Ground Floor, Lajpat Nagar 1, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Street Food",
+                        "Beverages"
+                    ],
+                    "location": "Lajpat Nagar 1",
+                    "rating": "3.5",
+                    "restaurantName": "Nashta \u0928\u093e\u0936\u094d\u0924\u093e",
+                    "votes": "129"
+                },
+                {
+                    "address": "C-1, Main Market, Paschimi Marg, Block C, Vasant Vihar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Fast Food",
+                        "Salad"
+                    ],
+                    "location": "Vasant Vihar",
+                    "rating": "3.9",
+                    "restaurantName": "Salad Chef",
+                    "votes": "289"
+                },
+                {
+                    "address": "F 8, South Extension 1, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food"
+                    ],
+                    "location": "South Extension 1",
+                    "rating": "3.8",
+                    "restaurantName": "No. 1 Uncles Parantha",
+                    "votes": "109"
+                },
+                {
+                    "address": "23/1, Ground Floor, Regal Building, Connaught Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Rolls"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "3.9",
+                    "restaurantName": "RollsKing",
+                    "votes": "67"
+                },
+                {
+                    "address": "7, Khanna Market, Lodhi Colony, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Lodhi Colony",
+                    "rating": "4.1",
+                    "restaurantName": "Chidambaram's New Madras Hotel",
+                    "votes": "652"
+                },
+                {
+                    "address": "Shop 102, Shopping Centre, Flyover Market, Defence Colony, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Tea",
+                        "Fast Food",
+                        "Sandwich",
+                        "Beverages"
+                    ],
+                    "location": "Defence Colony",
+                    "rating": "3.7",
+                    "restaurantName": "Chai Point",
+                    "votes": "22"
+                }
+            ],
+            "title": "Delivery Restaurants in Chanakyapuri"
+        },
+        {
+            "details": [
+                {
+                    "address": "Lower Ground Floor, Chanakya Mall, Chanakyapuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Mexican",
+                        "Italian",
+                        "North Indian",
+                        "Seafood",
+                        "European"
+                    ],
+                    "location": "Chanakya Mall, Chanakyapuri",
+                    "rating": "4.1",
+                    "restaurantName": "MKT",
+                    "votes": "535"
+                },
+                {
+                    "address": "22/48, Commercial Centre, Chanakyapuri, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Seafood",
+                        "North Indian",
+                        "Mangalorean"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.9",
+                    "restaurantName": "Sanadige",
+                    "votes": "1631"
+                },
+                {
+                    "address": "10, Santushti Shopping Complex, Race Course Road, Chanakyapuri, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "Beverages"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.2",
+                    "restaurantName": "Diggin",
+                    "votes": "2366"
+                },
+                {
+                    "address": "ITC Maurya, Chanakyapuri, New Delhi",
+                    "cost": 6500,
+                    "cuisines": [
+                        "North Indian",
+                        "Kebab"
+                    ],
+                    "location": "ITC Maurya, Chanakyapuri",
+                    "rating": "4.4",
+                    "restaurantName": "Bukhara - ITC Maurya",
+                    "votes": "4108"
+                },
+                {
+                    "address": "10/48, Malcha Marg Shopping Complex, Chanakyapuri, New Delhi",
+                    "cost": 2400,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "Mediterranean"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.1",
+                    "restaurantName": "Amour Bistro",
+                    "votes": "1120"
+                },
+                {
+                    "address": "6/48, Malcha Marg Market, Chanakyapuri, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "3.9",
+                    "restaurantName": "Lazeez Affaire",
+                    "votes": "1454"
+                },
+                {
+                    "address": "Opposite Taj Hotel, Chanakyapuri, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.1",
+                    "restaurantName": "Too Mikkii Tapas",
+                    "votes": "922"
+                },
+                {
+                    "address": "Plot 15, Bihar Niwas, Behind Yashwant Place, Chanakyapuri, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Bihari"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.1",
+                    "restaurantName": "The Potbelly",
+                    "votes": "1026"
+                },
+                {
+                    "address": "3/48, Malcha Marg, Chanakyapuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Chinese",
+                        "Japanese",
+                        "Thai",
+                        "Momos"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "Side Wok",
+                    "votes": "576"
+                },
+                {
+                    "address": "ITC Maurya, Chanakyapuri, New Delhi",
+                    "cost": 5000,
+                    "cuisines": [
+                        "Mughlai",
+                        "Biryani",
+                        "North Indian"
+                    ],
+                    "location": "ITC Maurya, Chanakyapuri",
+                    "rating": "4.4",
+                    "restaurantName": "Dum-Pukht - ITC Maurya",
+                    "votes": "1296"
+                },
+                {
+                    "address": "9, Sardar Patel Marg, Diplomatic Enclave, Chanakyapuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "316"
+                },
+                {
+                    "address": "Pallavi Shopping Arcade, Opposite Taj Palace, Chanakyapuri, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Salad",
+                        "Continental"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.2",
+                    "restaurantName": "The Salad Story",
+                    "votes": "339"
+                },
+                {
+                    "address": "11, Kautilya Marg, Chanakyapuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Gujarati",
+                        "South Indian",
+                        "North Indian"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "Gujarat Bhawan Restaurant",
+                    "votes": "525"
+                },
+                {
+                    "address": "Pallavi AWWA Complex, Opposite Taj Palace Hotel, Chanakyapuri, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "653"
+                },
+                {
+                    "address": "Taj Palace, 2 Sardar Patel Marg, Chanakyapuri, New Delhi",
+                    "cost": 8000,
+                    "cuisines": [
+                        "European"
+                    ],
+                    "location": "Taj Palace, Chanakyapuri",
+                    "rating": "4.2",
+                    "restaurantName": "Orient Express - Taj Palace",
+                    "votes": "257"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Chanakyapuri"
+        },
+        {
+            "details": [
+                {
+                    "address": "Chanakya Mall, Chanakyapuri, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Chanakya Mall, Chanakyapuri",
+                    "rating": "3.8",
+                    "restaurantName": "Cafe C",
+                    "votes": "49"
+                },
+                {
+                    "address": "10, Santushti Shopping Complex, Race Course Road, Chanakyapuri, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "Beverages"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.2",
+                    "restaurantName": "Diggin",
+                    "votes": "2366"
+                },
+                {
+                    "address": "Opposite Taj Hotel, Chanakyapuri, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.1",
+                    "restaurantName": "Too Mikkii Tapas",
+                    "votes": "922"
+                },
+                {
+                    "address": "Plot 15, Bihar Niwas, Behind Yashwant Place, Chanakyapuri, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Bihari"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.1",
+                    "restaurantName": "The Potbelly",
+                    "votes": "1026"
+                },
+                {
+                    "address": "9, Sardar Patel Marg, Diplomatic Enclave, Chanakyapuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "316"
+                },
+                {
+                    "address": "Pallavi Shopping Arcade, Opposite Taj Palace, Chanakyapuri, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Salad",
+                        "Continental"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.2",
+                    "restaurantName": "The Salad Story",
+                    "votes": "339"
+                },
+                {
+                    "address": "Pallavi AWWA Complex, Opposite Taj Palace Hotel, Chanakyapuri, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "653"
+                },
+                {
+                    "address": "215, 2nd Floor, Chanakya Mall, Chanakyapuri, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Chanakya Mall, Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "NicoCaara",
+                    "votes": "216"
+                },
+                {
+                    "address": "Shop 23, Santushti Shopping Complex, Panchsheel Marg, Chanakyapuri, New Delhi, Delhi NCR",
+                    "cost": 450,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.1",
+                    "restaurantName": "Olivia",
+                    "votes": "82"
+                },
+                {
+                    "address": "The Leela Palace, Diplomatic Enclave, Chanakyapuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental"
+                    ],
+                    "location": "The Leela Palace, Chanakyapuri",
+                    "rating": "3.8",
+                    "restaurantName": "The Lobby Lounge - The Leela Palace",
+                    "votes": "42"
+                },
+                {
+                    "address": "2, Chandragupta Marg, Chanakyapuri, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "2.9",
+                    "restaurantName": "Barista",
+                    "votes": "35"
+                },
+                {
+                    "address": "Taj Palace, 2 Sardar Patel Marg, Chanakyapuri, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea"
+                    ],
+                    "location": "Taj Palace, Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "The Tea Lounge - Taj Palace",
+                    "votes": "109"
+                },
+                {
+                    "address": "The Ashok, 50-B, Kautilya Marg, Diplomatic Enclave, Chanakyapuri, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "The Ashok, Chanakyapuri",
+                    "rating": "3.4",
+                    "restaurantName": "Tea Lounge - The Ashok",
+                    "votes": "17"
+                },
+                {
+                    "address": "Shantipath, Chanakyapuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "3.2",
+                    "restaurantName": "Costa Coffee",
+                    "votes": "8"
+                },
+                {
+                    "address": "H-8, Opposite Venkateswara College, Satyaniketan, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Satyaniketan",
+                    "rating": "4.2",
+                    "restaurantName": "Big Yellow Door",
+                    "votes": "4924"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Chanakyapuri"
+        },
+        {
+            "details": [
+                {
+                    "address": "Pallavi Shopping Arcade, Opposite Taj Palace, Chanakyapuri, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Salad",
+                        "Continental"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.2",
+                    "restaurantName": "The Salad Story",
+                    "votes": "339"
+                },
+                {
+                    "address": "Satya Marg, Yashwant Place Commercial Complex, Chanakyapuri, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Yashwant Place Commercial Complex, Chanakyapuri",
+                    "rating": "3.6",
+                    "restaurantName": "Bikanervala",
+                    "votes": "235"
+                },
+                {
+                    "address": "215, 2nd Floor, Chanakya Mall, Chanakyapuri, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Chanakya Mall, Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "NicoCaara",
+                    "votes": "216"
+                },
+                {
+                    "address": "Pallavi Awwa Arcade, Akhaura Block, Bapu Dham, Chanakyapuri, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Frozen Yogurt",
+                        "Desserts"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "3.8",
+                    "restaurantName": "Cocoberry",
+                    "votes": "48"
+                },
+                {
+                    "address": "Lower Ground Floor, The Chanakya, Yashwant Place Commercial Complex, Intersection of Satya Marg & African Avenue, Chanakyapuri, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Bakery",
+                        "Italian",
+                        "Chinese",
+                        "Mexican"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "3.8",
+                    "restaurantName": "The Cafe by Foodhall",
+                    "votes": "57"
+                },
+                {
+                    "address": "ITC Maurya, Chanakyapuri, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "ITC Maurya, Chanakyapuri",
+                    "rating": "3.7",
+                    "restaurantName": "Nutmeg The Gourmet Shop - ITC Maurya",
+                    "votes": "44"
+                },
+                {
+                    "address": "Food Court, Palate of Delhi, Dhaula Kuan Metro Station, Near Chanakyapuri, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Palate of Delhi, Chanakyapuri",
+                    "rating": "3.7",
+                    "restaurantName": "Me Waffle N More",
+                    "votes": "25"
+                },
+                {
+                    "address": "Palate of Delhi, Dhaula Kuan Metro Station, Chanakyapuri, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "Street Food",
+                        "Chinese",
+                        "South Indian"
+                    ],
+                    "location": "Palate of Delhi, Chanakyapuri",
+                    "rating": "3.8",
+                    "restaurantName": "Haldiram's",
+                    "votes": "54"
+                },
+                {
+                    "address": "Chanakya Mall, Chanakyapuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Mithai"
+                    ],
+                    "location": "Chanakya Mall, Chanakyapuri",
+                    "rating": "3.4",
+                    "restaurantName": "Khoya",
+                    "votes": "10"
+                },
+                {
+                    "address": "ITC Maurya, Chanakyapuri, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "ITC Maurya, Chanakyapuri",
+                    "rating": "4.2",
+                    "restaurantName": "Fabelle Chocolate Boutique - ITC Maurya",
+                    "votes": "100"
+                },
+                {
+                    "address": "The Ashok, 50-B, Diplomatic Enclave, Chanakyapuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "The Ashok, Chanakyapuri",
+                    "rating": "3.0",
+                    "restaurantName": "Cake Shop - The Ashok",
+                    "votes": "38"
+                },
+                {
+                    "address": "Chanakyapuri, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Desserts",
+                        "Burger",
+                        "Sandwich",
+                        "Healthy Food"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "3.2",
+                    "restaurantName": "Sweet Revenge",
+                    "votes": "8"
+                },
+                {
+                    "address": "SHop 13, Kautiliya Marg, Chanakyapuri, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food"
+                    ],
+                    "location": "Chanakyapuri",
+                    "restaurantName": "Vikram Sweets"
+                },
+                {
+                    "address": "Yashwant Palace Market, Chanakyapuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Italian",
+                        "Fast Food",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "Angan Bakery & Cafe",
+                    "votes": "71"
+                },
+                {
+                    "address": "1st Floor, Chanakya Mall, Chanakyapuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Chanakya Mall, Chanakyapuri",
+                    "rating": "3.4",
+                    "restaurantName": "Yoku Moku",
+                    "votes": "8"
+                }
+            ],
+            "title": "Desserts & Bakes in Chanakyapuri"
+        },
+        {
+            "details": [
+                {
+                    "address": "The Ashok, Chanakyapuri, New Delhi",
+                    "cost": 5000,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Finger Food"
+                    ],
+                    "location": "The Ashok, Chanakyapuri",
+                    "rating": "3.8",
+                    "restaurantName": "SOHO Delhi - The Ashok",
+                    "votes": "38"
+                },
+                {
+                    "address": "Samrat Hotel, 50-B, Kautilya Marg, Chanakyapuri, New Delhi",
+                    "cost": 4500,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "3.9",
+                    "restaurantName": "Playboy Club",
+                    "votes": "385"
+                },
+                {
+                    "address": "Hotel Samrat, Kautilya Marg, Chanakyapuri, New Delhi",
+                    "cost": 4000,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Bar Food"
+                    ],
+                    "location": "Chanakyapuri",
+                    "rating": "4.4",
+                    "restaurantName": "Key - Hotel Samrat",
+                    "votes": "49"
+                },
+                {
+                    "address": "The Leela Palace, Diplomatic Enclave, Chanakyapuri, New Delhi",
+                    "cost": 3500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "The Leela Palace, Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "The Library - The Leela Palace",
+                    "votes": "88"
+                },
+                {
+                    "address": "The Ashok, 50-B, Kautilya Marg, Diplomatic Enclave, Chanakyapuri, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental"
+                    ],
+                    "location": "The Ashok, Chanakyapuri",
+                    "rating": "3.6",
+                    "restaurantName": "Lithiyum Club - The Ashok",
+                    "votes": "28"
+                },
+                {
+                    "address": "Taj Palace, 2, Sardar Patel Marg, Chanakyapuri, New Delhi",
+                    "cost": 3900,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Taj Palace, Chanakyapuri",
+                    "rating": "4.0",
+                    "restaurantName": "The Blue Bar - Taj Palace",
+                    "votes": "353"
+                },
+                {
+                    "address": "ITC Maurya, Chanakyapuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "ITC Maurya, Chanakyapuri",
+                    "rating": "3.6",
+                    "restaurantName": "Ira - The Waterside Bar - ITC Maurya",
+                    "votes": "38"
+                },
+                {
+                    "address": "ITC Maurya, Chanakyapuri, New Delhi",
+                    "cost": 3500,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "ITC Maurya, Chanakyapuri",
+                    "rating": "3.8",
+                    "restaurantName": "Golf Bar - ITC Maurya",
+                    "votes": "61"
+                },
+                {
+                    "address": "Chanakya Mall, Chanakyapuri, New Delhi",
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Chanakya Mall, Chanakyapuri",
+                    "rating": "3.7",
+                    "restaurantName": "NOI",
+                    "votes": "59"
+                },
+                {
+                    "address": "16, 1st & 2nd Floor, Opposite Sri Venkateshwara College, Satyaniketan, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Cafe",
+                        "Mexican",
+                        "North Indian",
+                        "Italian",
+                        "Salad"
+                    ],
+                    "location": "Satyaniketan",
+                    "rating": "3.9",
+                    "restaurantName": "2 Bandits",
+                    "votes": "1616"
+                },
+                {
+                    "address": "House 16-17, Ground Floor, Satyaniketan, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Satyaniketan",
+                    "rating": "3.0",
+                    "restaurantName": "Khalifa",
+                    "votes": "9"
+                },
+                {
+                    "address": "Ground Floor, Sangam Courtyard, R K Puram, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "European",
+                        "American",
+                        "Asian"
+                    ],
+                    "location": "Sangam Courtyard, RK Puram",
+                    "rating": "4.2",
+                    "restaurantName": "Nueva",
+                    "votes": "819"
+                },
+                {
+                    "address": "Ground Floor, Sangam Courtyard, Major Somnath Marg, R K Puram, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Sangam Courtyard, RK Puram",
+                    "rating": "4.3",
+                    "restaurantName": "Delhi Club House",
+                    "votes": "1061"
+                },
+                {
+                    "address": "Hyatt Regency, Bhikaji Cama Place, New Delhi",
+                    "cost": 2500,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Hyatt Regency, Bhikaji Cama Place",
+                    "rating": "3.7",
+                    "restaurantName": "Polo Lounge - Hyatt Regency",
+                    "votes": "64"
+                },
+                {
+                    "address": "The Claridges, 12, Dr. A.P.J. Abdul Kalam Road, Aurangzeb Road, New Delhi",
+                    "cost": 4000,
+                    "cuisines": [
+                        "Continental"
+                    ],
+                    "location": "The Claridges, Aurangzeb Road",
+                    "rating": "3.7",
+                    "restaurantName": "Aura - The Claridges",
+                    "votes": "55"
+                }
+            ],
+            "title": "Nightlife Restaurants in Chanakyapuri"
+        }
+    ]
+}

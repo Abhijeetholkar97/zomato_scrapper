@@ -1,0 +1,992 @@
+{
+    "placeName": "Janakpuri",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "Delivery Only",
+                    "cost": 500,
+                    "cuisines": [
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.8",
+                    "restaurantName": "China Bowl",
+                    "votes": "174"
+                },
+                {
+                    "address": "D-121, Tagore Garden Extension, Tagore Garden, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Desserts",
+                        "Street Food"
+                    ],
+                    "location": "Tagore Garden",
+                    "rating": "3.8",
+                    "restaurantName": "Sharma Sweets",
+                    "votes": "113"
+                },
+                {
+                    "address": "Plot C -708A, Block C, Palam Extension, Near Shiksha Bharti School, Sector 7, Dwarka, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Healthy Food"
+                    ],
+                    "location": "Sector 7, Dwarka",
+                    "rating": "4.4",
+                    "restaurantName": "Sehat Cafe",
+                    "votes": "79"
+                },
+                {
+                    "address": "B-264, Ground Floor, Palam Extension, Sector 7, Dwarka, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Continental",
+                        "Juices"
+                    ],
+                    "location": "Sector 7, Dwarka",
+                    "rating": "3.8",
+                    "restaurantName": "Feed It",
+                    "votes": "144"
+                },
+                {
+                    "address": "E-1, Bal Udyan Road, Uttam Nagar, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "Uttam Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "Scoops",
+                    "votes": "612"
+                },
+                {
+                    "address": "Wadhva Plaza 3, Plot 18, Sector 10, Dwarka, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "South Indian",
+                        "Fast Food",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Sector 10, Dwarka",
+                    "rating": "4.0",
+                    "restaurantName": "BTW",
+                    "votes": "719"
+                },
+                {
+                    "address": "B-234, Gate 4, East Metro Station, Uttam Nagar, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Biryani",
+                        "Mughlai",
+                        "North Indian"
+                    ],
+                    "location": "Uttam Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "Delhi Darbar Biryani Point",
+                    "votes": "514"
+                },
+                {
+                    "address": "Shop 2 D-1 Fateh Nagar Vaidic Marg Jail Road Opposite Sukho Khalsa School",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Burger",
+                        "Chinese",
+                        "Continental",
+                        "Afghan"
+                    ],
+                    "location": "Tilak Nagar",
+                    "rating": "3.0",
+                    "restaurantName": "9 To 199 Food Express",
+                    "votes": "59"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 250,
+                    "cuisines": [
+                        "Rolls",
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 7, Dwarka",
+                    "rating": "3.6",
+                    "restaurantName": "Roll Xpress",
+                    "votes": "456"
+                },
+                {
+                    "address": "C-1, New Krishna Park, Near Janakpuri West Metro Station, Vikaspuri, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "South Indian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Vikaspuri",
+                    "rating": "3.7",
+                    "restaurantName": "Sagar Ratna",
+                    "votes": "463"
+                },
+                {
+                    "address": "GL-23, Hari Nagar, Jail Road, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Jail Road",
+                    "rating": "4.2",
+                    "restaurantName": "Om Sweets & Snacks",
+                    "votes": "1875"
+                },
+                {
+                    "address": "30, GG1, Main Market, Vikaspuri, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Vikaspuri",
+                    "rating": "3.5",
+                    "restaurantName": "Your's Chole Bhature",
+                    "votes": "198"
+                },
+                {
+                    "address": "2/13, Mall Road, Near Metro Tilak Nagar Station, Tilak Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Mithai"
+                    ],
+                    "location": "Tilak Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Singla's",
+                    "votes": "926"
+                },
+                {
+                    "address": "KG 1/373, Shankar Chowk, PVR Road, Vikaspuri, New Delhi",
+                    "cost": 100,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food",
+                        "Desserts",
+                        "Bakery"
+                    ],
+                    "location": "Vikaspuri",
+                    "rating": "3.9",
+                    "restaurantName": "Aggarwal Standard Sweets",
+                    "votes": "117"
+                },
+                {
+                    "address": "Plot 10, Sector 12A, Near Sector 12 Dwarka, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Sector 12, Dwarka",
+                    "rating": "3.8",
+                    "restaurantName": "Bikanervala",
+                    "votes": "76"
+                }
+            ],
+            "title": "Delivery Restaurants in Janakpuri"
+        },
+        {
+            "details": [
+                {
+                    "address": "2nd Floor, Unity One Mall, Near Janak Puri West Metro Station, Janakpuri, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.4",
+                    "restaurantName": "Three Tuns Cafe & Bar",
+                    "votes": "860"
+                },
+                {
+                    "address": "C-1/1, Opposite Mata Channan Devi Hospital, Janakpuri, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.0",
+                    "restaurantName": "Bite Bikaner",
+                    "votes": "343"
+                },
+                {
+                    "address": "2nd Floor, Unity One, Near Janakpuri West Metro Station, Janakpuri, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "BBQ"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.3",
+                    "restaurantName": "Barbeque Nation",
+                    "votes": "2648"
+                },
+                {
+                    "address": "Janakpuri East Metro Station, Janakpuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Chinese"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.8",
+                    "restaurantName": "Hira Sweets",
+                    "votes": "552"
+                },
+                {
+                    "address": "Shop 23 & amp 27, Ground Floor, Unity One Mall, Janakpuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "140"
+                },
+                {
+                    "address": "C4, B294A, Ground Floor, Janakpuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Healthy Food"
+                    ],
+                    "location": "Janakpuri",
+                    "restaurantName": "Sehat Cafe"
+                },
+                {
+                    "address": "21/10, Choti Subji Mandi, Janak Puri, Janakpuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.4",
+                    "restaurantName": "Kukkad Nukkad",
+                    "votes": "454"
+                },
+                {
+                    "address": "C4-D/56-A, Janakpuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.8",
+                    "restaurantName": "Tantrum Bistro & Patisserie",
+                    "votes": "99"
+                },
+                {
+                    "address": "R-2, DDA Building, District Center, Janak Palace, Janakpuri, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Desserts",
+                        "Beverages",
+                        "Seafood"
+                    ],
+                    "location": "District Centre, Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "Berco's",
+                    "votes": "1270"
+                },
+                {
+                    "address": "19, Satyam Cineplex, Janak Place, District Center, Janakpuri, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Pizza",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.6",
+                    "restaurantName": "Pizza Hut",
+                    "votes": "432"
+                },
+                {
+                    "address": "GL-12 Jail Road, Opposite Axis Bank, Janakpuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.2",
+                    "restaurantName": "Tikka Junction Dine In",
+                    "votes": "344"
+                },
+                {
+                    "address": "Unity One Mall, 2nd Floor, Unit 206, Janakpuri, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "1187"
+                },
+                {
+                    "address": "The Fusion House, C-4F/246, Janakpuri, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian",
+                        "Chinese",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.9",
+                    "restaurantName": "Kartoon Cafe",
+                    "votes": "202"
+                },
+                {
+                    "address": "B-26 & 27, Community Centre, Janakpuri, New Delhi",
+                    "cost": 1250,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.4",
+                    "restaurantName": "Bemisaal Reloaded",
+                    "votes": "390"
+                },
+                {
+                    "address": "R1, Westend Convention Point, Plot 15-16, District Centre, Janakpuri, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.7",
+                    "restaurantName": "Red Chilli",
+                    "votes": "134"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Janakpuri"
+        },
+        {
+            "details": [
+                {
+                    "address": "Shop 23 & amp 27, Ground Floor, Unity One Mall, Janakpuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "140"
+                },
+                {
+                    "address": "C4, B294A, Ground Floor, Janakpuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Healthy Food"
+                    ],
+                    "location": "Janakpuri",
+                    "restaurantName": "Sehat Cafe"
+                },
+                {
+                    "address": "C4-D/56-A, Janakpuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.8",
+                    "restaurantName": "Tantrum Bistro & Patisserie",
+                    "votes": "99"
+                },
+                {
+                    "address": "A5B-A5C/81A, Janakpuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.0",
+                    "restaurantName": "Sardar-Ji-Bakhsh Coffee & Co.",
+                    "votes": "107"
+                },
+                {
+                    "address": "The Fusion House, C-4F/246, Janakpuri, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian",
+                        "Chinese",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.9",
+                    "restaurantName": "Kartoon Cafe",
+                    "votes": "202"
+                },
+                {
+                    "address": "A 3/93, Lower Ground Floor, Janakpuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Fast Food",
+                        "Desserts",
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Janakpuri",
+                    "restaurantName": "Cakestria"
+                },
+                {
+                    "address": "UGF- B2, B/15, Janakpuri, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.4",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "7"
+                },
+                {
+                    "address": "G-2/A, Janak Place, District Centre, Janakpuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "District Centre, Janakpuri",
+                    "rating": "3.7",
+                    "restaurantName": "Barista",
+                    "votes": "112"
+                },
+                {
+                    "address": "Piccadily Hotel, District Center Complex, Janakpuri, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Piccadily Hotel, Janakpuri",
+                    "rating": "3.3",
+                    "restaurantName": "By The Way - Piccadily Hotel",
+                    "votes": "21"
+                },
+                {
+                    "address": "C4-D/56-A, Janakpuri, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.9",
+                    "restaurantName": "Q Bistro",
+                    "votes": "525"
+                },
+                {
+                    "address": "B-7, B-1 Janak Puri Community Center, Janakpuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.6",
+                    "restaurantName": "Destination Restro & Cafe",
+                    "votes": "20"
+                },
+                {
+                    "address": "B1/1 Community Centre, Janakpuri, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Janakpuri",
+                    "restaurantName": "Chai Shy"
+                },
+                {
+                    "address": "Gourmet International, F-13 Jivan Park, Pankha Road, Near Tilakpul, Janakpuri, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe",
+                        "Ice Cream",
+                        "Beverages",
+                        "Coffee",
+                        "Tea",
+                        "Desserts"
+                    ],
+                    "location": "Janakpuri",
+                    "restaurantName": "The Baking Bliss"
+                },
+                {
+                    "address": "B-2/B-1, Janakpuri, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Burger",
+                        "Sandwich"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "Opening",
+                    "restaurantName": "Bean Sahab",
+                    "votes": "Soon"
+                },
+                {
+                    "address": "8 B, Possangipur, Janakpuri, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Janakpuri",
+                    "restaurantName": "Beans Magic Cafe"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Janakpuri"
+        },
+        {
+            "details": [
+                {
+                    "address": "Janakpuri East Metro Station, Janakpuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Chinese"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.8",
+                    "restaurantName": "Hira Sweets",
+                    "votes": "552"
+                },
+                {
+                    "address": "Shop 23 & amp 27, Ground Floor, Unity One Mall, Janakpuri, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "140"
+                },
+                {
+                    "address": "B3/187, Janak Puri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Coffee",
+                        "Beverages"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "Dough & Cream",
+                    "votes": "131"
+                },
+                {
+                    "address": "C4-D/56-A, Janakpuri, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.8",
+                    "restaurantName": "Tantrum Bistro & Patisserie",
+                    "votes": "99"
+                },
+                {
+                    "address": "G-3, Unity One Mall, Janakpuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "South Indian",
+                        "Street Food",
+                        "Chinese",
+                        "Fast Food",
+                        "Desserts"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "Haldiram's",
+                    "votes": "596"
+                },
+                {
+                    "address": "A5B-A5C/81A, Janakpuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.0",
+                    "restaurantName": "Sardar-Ji-Bakhsh Coffee & Co.",
+                    "votes": "107"
+                },
+                {
+                    "address": "C-2/B, 84-A, Lal Sai Mandir Marg, Janakpuri, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "Short Crust",
+                    "votes": "82"
+                },
+                {
+                    "address": "WZ 686 E, Shop 2, Shiv Nagar Extention, Janakpuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "Moffle Waffle",
+                    "votes": "244"
+                },
+                {
+                    "address": "D Block, Pankha Road, Janakpuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "South Indian",
+                        "Fast Food",
+                        "Mithai"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.7",
+                    "restaurantName": "Aggarwal Restaurant",
+                    "votes": "111"
+                },
+                {
+                    "address": "C-4B, 294-A, Ground Floor, Lal Sain Mandir Marg, Janakpuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.0",
+                    "restaurantName": "Waffle Street",
+                    "votes": "207"
+                },
+                {
+                    "address": "A4-C/A, Near Mota Singh School, Janakpuri, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.7",
+                    "restaurantName": "Godavari Namkeen Bakers",
+                    "votes": "95"
+                },
+                {
+                    "address": "A3/230, Opposite St. Francis School, Janakpuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.8",
+                    "restaurantName": "Bakington",
+                    "votes": "356"
+                },
+                {
+                    "address": "Shop 3, C-5A, Kadimi Market, Janakpuri, New Delhi",
+                    "cost": 100,
+                    "cuisines": [
+                        "Mithai"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.5",
+                    "restaurantName": "Kadimi Sweets",
+                    "votes": "77"
+                },
+                {
+                    "address": "C-4, E-253, Janakpuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.7",
+                    "restaurantName": "Giani",
+                    "votes": "98"
+                },
+                {
+                    "address": "22, Ground Floor, Unity One Mall, Janakpuri, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.0",
+                    "restaurantName": "Keventers",
+                    "votes": "176"
+                }
+            ],
+            "title": "Desserts & Bakes in Janakpuri"
+        },
+        {
+            "details": [
+                {
+                    "address": "Unity One Mall, 2nd Floor, Unit 206, Janakpuri, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.1",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "1187"
+                },
+                {
+                    "address": "2nd Floor, Unity One Mall, Near Janak Puri West Metro Station, Janakpuri, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Italian",
+                        "Asian"
+                    ],
+                    "location": "Unity One Mall, Janakpuri",
+                    "rating": "4.4",
+                    "restaurantName": "Three Tuns Cafe & Bar",
+                    "votes": "860"
+                },
+                {
+                    "address": "B-26 & 27, Community Centre, Janakpuri, New Delhi",
+                    "cost": 1250,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.4",
+                    "restaurantName": "Bemisaal Reloaded",
+                    "votes": "390"
+                },
+                {
+                    "address": "B1/1, Community Centre, Janakpuri, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "4.2",
+                    "restaurantName": "Cafe Me Diner",
+                    "votes": "800"
+                },
+                {
+                    "address": "Shop 29, District Center, Janakpuri, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "District Centre, Janakpuri",
+                    "rating": "3.7",
+                    "restaurantName": "BarShala",
+                    "votes": "117"
+                },
+                {
+                    "address": "G37-G42, Suneja Tower-1, District Centre, Janakpuri, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.4",
+                    "restaurantName": "Bar Street",
+                    "votes": "38"
+                },
+                {
+                    "address": "Piccadily Hotel, District Center Complex, Janakpuri, New Delhi",
+                    "cost": 2500,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Piccadily Hotel, Janakpuri",
+                    "rating": "2.6",
+                    "restaurantName": "Malt & Co. - Piccadily Hotel",
+                    "votes": "18"
+                },
+                {
+                    "address": "HL 1-2, L Block, Jail Road, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "BBQ"
+                    ],
+                    "location": "Jail Road",
+                    "rating": "4.2",
+                    "restaurantName": "The Barbeque Company",
+                    "votes": "2695"
+                },
+                {
+                    "address": "C-10, Upper Ground Floor,Vishal\n Enclave, Rajouri Garden",
+                    "cost": 900,
+                    "cuisines": [
+                        "Continental",
+                        "Mexican",
+                        "North Indian",
+                        "Momos"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.1",
+                    "restaurantName": "Duty Free",
+                    "votes": "2686"
+                },
+                {
+                    "address": "C-8, Vishal Enclave, Rajouri Garden, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.3",
+                    "restaurantName": "Dum Maro Dum Studio",
+                    "votes": "441"
+                },
+                {
+                    "address": "C-10, Vishal Enclave, Metro Pillar 415, Rajouri Garden, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.1",
+                    "restaurantName": "Boombox Cafe Reloaded",
+                    "votes": "1350"
+                },
+                {
+                    "address": "Red Fort Harley Davidson, A-16, Satguru Ram Singh Marg, Mayapuri Phase 1, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "American",
+                        "Asian",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Mayapuri Phase 1",
+                    "rating": "4.3",
+                    "restaurantName": "Freedom Roost",
+                    "votes": "274"
+                },
+                {
+                    "address": "C-7, Vishal Enclave, Opposite Metro Pillar 417, Rajouri Garden, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Thai",
+                        "European",
+                        "Mexican",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.0",
+                    "restaurantName": "Qubitos - The Terrace Cafe",
+                    "votes": "1170"
+                },
+                {
+                    "address": "A-2, Vishal Enclave, Opposite Metro Pillar 412, Rajouri Garden, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.3",
+                    "restaurantName": "Marine Drivve - Club & Courtyard",
+                    "votes": "2212"
+                },
+                {
+                    "address": "J 198, 2nd Floor, Rajouri Garden, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Chinese",
+                        "Finger Food"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.2",
+                    "restaurantName": "Suroor Reloaded",
+                    "votes": "487"
+                }
+            ],
+            "title": "Pubs & Bars in Janakpuri"
+        }
+    ]
+}

@@ -1,0 +1,1008 @@
+{
+    "placeName": "Delhi University-GTB Nagar",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "G 22 A, Vijay Nagar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Vijay Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Cake Bake Shake",
+                    "votes": "903"
+                },
+                {
+                    "address": "First Floor, Shop 14, Outram Lines, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Biryani",
+                        "Wraps"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "Biryani Lovers",
+                    "votes": "291"
+                },
+                {
+                    "address": "Plot 4, 5, 6, First Floor, Vishal Market Local Shoping Center, Mukherjee Nagar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Asian",
+                        "Biryani",
+                        "North Indian"
+                    ],
+                    "location": "Mukherjee Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "The Good Bowl",
+                    "votes": "35"
+                },
+                {
+                    "address": "B-45 Old Gupta Colony, Vijay Nagar, New Delhi",
+                    "cost": 100,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Vijay Nagar",
+                    "rating": "3.4",
+                    "restaurantName": "Veera Di Hatti",
+                    "votes": "53"
+                },
+                {
+                    "address": "Shop 2/98, Badi Masjid Road, Opp SBI Colony, Gujranwala Town, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food",
+                        "Pizza"
+                    ],
+                    "location": "Gujranwala Town",
+                    "rating": "3.5",
+                    "restaurantName": "Chef Nation",
+                    "votes": "82"
+                },
+                {
+                    "address": "14, 1st Floor, Outram Lines, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Hinglish Bites",
+                    "votes": "81"
+                },
+                {
+                    "address": "Rithala, Gali 17, Near Rohini, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.3",
+                    "restaurantName": "Cookery",
+                    "votes": "176"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 400,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "Mukherjee Nagar",
+                    "rating": "3.5",
+                    "restaurantName": "H.A.D - Hunger After Dinner",
+                    "votes": "177"
+                },
+                {
+                    "address": "Shop 16, Near Haryana Bus Depot, Indira Vihar Near Mukherjee Nagar, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food"
+                    ],
+                    "location": "Mukherjee Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Food O Clock",
+                    "votes": "166"
+                },
+                {
+                    "address": "2516 Ground Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Burger"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Burger Singh",
+                    "votes": "477"
+                },
+                {
+                    "address": "Shop 5/32, Ground Floor, Double Storey, Vijay Nagar, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Chinese",
+                        "Beverages"
+                    ],
+                    "location": "Vijay Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "Chachu Roll Corner",
+                    "votes": "107"
+                },
+                {
+                    "address": "Shop 14, First Floor, Outram Lines, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Fast Food",
+                        "Rolls",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.6",
+                    "restaurantName": "Rolls Tiger",
+                    "votes": "268"
+                },
+                {
+                    "address": "10, Duplex Flats, Gurmandi, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Door to Door",
+                    "votes": "223"
+                },
+                {
+                    "address": "103-105, Mall Road, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.3",
+                    "restaurantName": "The Burger Club",
+                    "votes": "2513"
+                },
+                {
+                    "address": "Model Town 1, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Chinese",
+                        "Fast Food",
+                        "Momos"
+                    ],
+                    "location": "Model Town 1",
+                    "rating": "3.8",
+                    "restaurantName": "Munch Nation",
+                    "votes": "1383"
+                }
+            ],
+            "title": "Delivery Restaurants in Delhi University-GTB Nagar"
+        },
+        {
+            "details": [
+                {
+                    "address": "3rd Floor, 2624, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.4",
+                    "restaurantName": "Mama's Buoi",
+                    "votes": "2670"
+                },
+                {
+                    "address": "2624, First & Second Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1450,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.7",
+                    "restaurantName": "Dramebaaz",
+                    "votes": "956"
+                },
+                {
+                    "address": "2509, 3rd floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.8",
+                    "restaurantName": "Housefull Cafe Lounge",
+                    "votes": "251"
+                },
+                {
+                    "address": "2514, First Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "Piranha Lounge And Bar",
+                    "votes": "443"
+                },
+                {
+                    "address": "53, Ground and First Floor, Maal Road, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Fast Food",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.0",
+                    "restaurantName": "Tunn And Talli",
+                    "votes": "6"
+                },
+                {
+                    "address": "2531, Hudson Lane, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "2.5",
+                    "restaurantName": "Shooters Lounge and Bar",
+                    "votes": "111"
+                },
+                {
+                    "address": "H-8, Hudson Lane, Vijay Nagar, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Vijay Nagar",
+                    "rating": "4.3",
+                    "restaurantName": "Judge & Jury",
+                    "votes": "405"
+                },
+                {
+                    "address": "G-15/B, Vijay Nagar, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Italian",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Vijay Nagar",
+                    "rating": "4.4",
+                    "restaurantName": "736 A.D.",
+                    "votes": "1753"
+                },
+                {
+                    "address": "G-16A, 1st , 2nd & 3rd Floor, Vijay Nagar, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Vijay Nagar",
+                    "rating": "4.6",
+                    "restaurantName": "Epic Kitchen N Bar",
+                    "votes": "746"
+                },
+                {
+                    "address": "F-16 B, Opposite NDPL Office, Vijay Nagar, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Vijay Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "Box Office Cafe",
+                    "votes": "868"
+                },
+                {
+                    "address": "13, Alipur Road, Civil Lines, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Chinese",
+                        "Japanese",
+                        "Korean",
+                        "Asian",
+                        "Momos"
+                    ],
+                    "location": "Civil Lines",
+                    "rating": "4.3",
+                    "restaurantName": "Boa Village",
+                    "votes": "1673"
+                },
+                {
+                    "address": "1st Floor, 4/2, Opposite Raymond Showroom, Roop Nagar, Near Kamla Nagar, New Delhi",
+                    "cost": 1900,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Kamla Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "Urban Hub",
+                    "votes": "440"
+                },
+                {
+                    "address": "38, Bunglow Road, Kamla Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Kamla Nagar",
+                    "rating": "3.6",
+                    "restaurantName": "BarShala",
+                    "votes": "66"
+                },
+                {
+                    "address": "F-14/55, Model Town 2, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Model Town 2",
+                    "rating": "3.4",
+                    "restaurantName": "Great Wall",
+                    "votes": "83"
+                },
+                {
+                    "address": "N-55/56 & 88/89, Outer Circle, Connaught Place, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Connaught Place",
+                    "rating": "4.2",
+                    "restaurantName": "Ardor 2.1",
+                    "votes": "3046"
+                }
+            ],
+            "title": "Nightlife Restaurants in Delhi University-GTB Nagar"
+        },
+        {
+            "details": [
+                {
+                    "address": "2520, 1st Floor, Hudson Lane, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Fast Food",
+                        "Momos",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "QD's Restaurant",
+                    "votes": "4041"
+                },
+                {
+                    "address": "2521, 2nd Floor, Kingsway Camp, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.3",
+                    "restaurantName": "Big Yellow Door",
+                    "votes": "2153"
+                },
+                {
+                    "address": "2521, Ground Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Chinese",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Wood Box Cafe",
+                    "votes": "1893"
+                },
+                {
+                    "address": "3rd Floor, 2624, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.4",
+                    "restaurantName": "Mama's Buoi",
+                    "votes": "2670"
+                },
+                {
+                    "address": "2526, 1st Floor, Hudson Lane, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "American",
+                        "Italian",
+                        "Mexican"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Ricos",
+                    "votes": "5854"
+                },
+                {
+                    "address": "2624, First & Second Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1450,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.7",
+                    "restaurantName": "Dramebaaz",
+                    "votes": "956"
+                },
+                {
+                    "address": "Shop 5, DDA Complex, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 850,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "Cantino",
+                    "votes": "1067"
+                },
+                {
+                    "address": "2524, 1st Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental",
+                        "Chinese",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "The Hudson Cafe",
+                    "votes": "3090"
+                },
+                {
+                    "address": "7, Mall Road, Kingsway Camp, Hakikat Nagar, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "Apni Rasoi",
+                    "votes": "741"
+                },
+                {
+                    "address": "2525, 1st Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.5",
+                    "restaurantName": "Spezia Bistro",
+                    "votes": "3372"
+                },
+                {
+                    "address": "2518, Hudson Lane, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Pizza",
+                        "Fast Food"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Pizza Hut",
+                    "votes": "537"
+                },
+                {
+                    "address": "G14b, Ground Floor, Vijay Nagar, Hudson lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Mexican",
+                        "Continental"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.6",
+                    "restaurantName": "Phonebooth Reloaded",
+                    "votes": "1061"
+                },
+                {
+                    "address": "9, DDA Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Abongchiiz",
+                    "votes": "1398"
+                },
+                {
+                    "address": "2510, Ground Floor, Hudson Lane, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Indus Flavour",
+                    "votes": "2110"
+                },
+                {
+                    "address": "2509, 3rd floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.8",
+                    "restaurantName": "Housefull Cafe Lounge",
+                    "votes": "251"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Delhi University-GTB Nagar"
+        },
+        {
+            "details": [
+                {
+                    "address": "2526, 1st Floor, Hudson Lane, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "American",
+                        "Italian",
+                        "Mexican"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Ricos",
+                    "votes": "5854"
+                },
+                {
+                    "address": "2521, 2nd Floor, Kingsway Camp, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.3",
+                    "restaurantName": "Big Yellow Door",
+                    "votes": "2153"
+                },
+                {
+                    "address": "2521, Ground Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Chinese",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Wood Box Cafe",
+                    "votes": "1893"
+                },
+                {
+                    "address": "Shop 5, DDA Complex, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 850,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "Cantino",
+                    "votes": "1067"
+                },
+                {
+                    "address": "2524, 1st Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Continental",
+                        "Chinese",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "The Hudson Cafe",
+                    "votes": "3090"
+                },
+                {
+                    "address": "2525, 1st Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.5",
+                    "restaurantName": "Spezia Bistro",
+                    "votes": "3372"
+                },
+                {
+                    "address": "G14b, Ground Floor, Vijay Nagar, Hudson lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Mexican",
+                        "Continental"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.6",
+                    "restaurantName": "Phonebooth Reloaded",
+                    "votes": "1061"
+                },
+                {
+                    "address": "2510, Ground Floor, Hudson Lane, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Cafe",
+                        "Momos"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Indus Flavour",
+                    "votes": "2110"
+                },
+                {
+                    "address": "Shop 6&7, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.4",
+                    "restaurantName": "Sambookas",
+                    "votes": "978"
+                },
+                {
+                    "address": "2648, 1st Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "North Indian"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.9",
+                    "restaurantName": "Radioactive Cafe",
+                    "votes": "254"
+                },
+                {
+                    "address": "2510, 1st Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "Central Perk",
+                    "votes": "709"
+                },
+                {
+                    "address": "2526, Hudson Lane, Kingsway Camp, Near North Campus, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.6",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "132"
+                },
+                {
+                    "address": "84, Mall Road, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Pizza"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.9",
+                    "restaurantName": "Hudson Oven",
+                    "votes": "244"
+                },
+                {
+                    "address": "2515, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 850,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Chinese",
+                        "Pizza"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.4",
+                    "restaurantName": "Virzin Wolf",
+                    "votes": "91"
+                },
+                {
+                    "address": "2261, Ground Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Cafe",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "SuperHero Cafe",
+                    "votes": "570"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Delhi University-GTB Nagar"
+        },
+        {
+            "details": [
+                {
+                    "address": "2520, Hudson Ln, Hudson Lane, GTB Nagar, Delhi, 110009, India",
+                    "cost": 500,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.4",
+                    "restaurantName": "Paparizza",
+                    "votes": "411"
+                },
+                {
+                    "address": "2528, Ground Floor Hudson lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Fast Food",
+                        "Burger",
+                        "Sandwich",
+                        "Pizza"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "restaurantName": "Hashtag Foods"
+                },
+                {
+                    "address": "2509, Ground Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Raw Creams",
+                    "votes": "491"
+                },
+                {
+                    "address": "2521, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "For God's Cake",
+                    "votes": "1031"
+                },
+                {
+                    "address": "H2, Hudson Line, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "Laxmi Ice Cream",
+                    "votes": "227"
+                },
+                {
+                    "address": "12, 13, 14, Edward Line, Kingsway camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "Laxmi Dairy",
+                    "votes": "86"
+                },
+                {
+                    "address": "Shop 43, Edward Lane, Kingsway Camp, Opposite Yes Bank, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.9",
+                    "restaurantName": "The Belgian Waffle Co.",
+                    "votes": "180"
+                },
+                {
+                    "address": "2528, Ground Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Beverages",
+                        "Desserts"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "restaurantName": "Dayum"
+                },
+                {
+                    "address": "Delhi University-GTB Nagar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "ZopMeals",
+                    "votes": "289"
+                },
+                {
+                    "address": "10, Edward Lane, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Waffle Family",
+                    "votes": "63"
+                },
+                {
+                    "address": "54 Edward Line, Near Nirankari Jewellers, Kingsway Camp, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 100,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.4",
+                    "restaurantName": "Grover's - The Baker Shop",
+                    "votes": "50"
+                },
+                {
+                    "address": "Shop 1, DDA Market, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "The Dark Cafe",
+                    "votes": "163"
+                },
+                {
+                    "address": "2528, Ground Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "Wafflogy",
+                    "votes": "218"
+                },
+                {
+                    "address": "Chowk Harikat Nagar, Kingsway Camps, Delhi University-GTB Nagar, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "2.6",
+                    "restaurantName": "Samrat Bakers",
+                    "votes": "29"
+                },
+                {
+                    "address": "32, Edward Lane, Hudson lane, Kingsway Camp, GTB Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Street Food",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Delhi University-GTB Nagar",
+                    "rating": "3.1",
+                    "restaurantName": "Gopal's 56",
+                    "votes": "35"
+                }
+            ],
+            "title": "Desserts & Bakes in Delhi University-GTB Nagar"
+        }
+    ]
+}

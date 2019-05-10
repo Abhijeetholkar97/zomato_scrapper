@@ -1,0 +1,1211 @@
+{
+    "placeName": "Punjabi Bagh",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "Ground Floor, PP Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Chaayos",
+                    "votes": "467"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 500,
+                    "cuisines": [
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Janakpuri",
+                    "rating": "3.8",
+                    "restaurantName": "China Bowl",
+                    "votes": "174"
+                },
+                {
+                    "address": "D-121, Tagore Garden Extension, Tagore Garden, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Desserts",
+                        "Street Food"
+                    ],
+                    "location": "Tagore Garden",
+                    "rating": "3.8",
+                    "restaurantName": "Sharma Sweets",
+                    "votes": "113"
+                },
+                {
+                    "address": "BMW Gym, Sector 8, Rohini, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Rolls",
+                        "Salad",
+                        "Sandwich"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.7",
+                    "restaurantName": "Diet Zone",
+                    "votes": "56"
+                },
+                {
+                    "address": "C- 101, West Patel Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "West Patel Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "South Indian Fast Food",
+                    "votes": "362"
+                },
+                {
+                    "address": "Shop 2 D-1 Fateh Nagar Vaidic Marg Jail Road Opposite Sukho Khalsa School",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Burger",
+                        "Chinese",
+                        "Continental",
+                        "Afghan"
+                    ],
+                    "location": "Tilak Nagar",
+                    "rating": "3.0",
+                    "restaurantName": "9 To 199 Food Express",
+                    "votes": "59"
+                },
+                {
+                    "address": "B-6/150, Sector 8, Rohini, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.9",
+                    "restaurantName": "Ashu Bhature Wala",
+                    "votes": "273"
+                },
+                {
+                    "address": "GL-23, Hari Nagar, Jail Road, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Jail Road",
+                    "rating": "4.2",
+                    "restaurantName": "Om Sweets & Snacks",
+                    "votes": "1875"
+                },
+                {
+                    "address": "30, GG1, Main Market, Vikaspuri, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Vikaspuri",
+                    "rating": "3.5",
+                    "restaurantName": "Your's Chole Bhature",
+                    "votes": "198"
+                },
+                {
+                    "address": "Unity One, Near Rohini West Metro Station, Rohini, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food"
+                    ],
+                    "location": "Rohini",
+                    "rating": "3.4",
+                    "restaurantName": "Mr. Sub",
+                    "votes": "281"
+                },
+                {
+                    "address": "2/13, Mall Road, Near Metro Tilak Nagar Station, Tilak Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Mithai"
+                    ],
+                    "location": "Tilak Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Singla's",
+                    "votes": "926"
+                },
+                {
+                    "address": "KG 1/373, Shankar Chowk, PVR Road, Vikaspuri, New Delhi",
+                    "cost": 100,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food",
+                        "Desserts",
+                        "Bakery"
+                    ],
+                    "location": "Vikaspuri",
+                    "rating": "3.9",
+                    "restaurantName": "Aggarwal Standard Sweets",
+                    "votes": "117"
+                },
+                {
+                    "address": "D 12/231, Sector 7, Near Garg Sweets, Rohini, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "South Indian",
+                        "Chinese"
+                    ],
+                    "location": "Rohini",
+                    "rating": "4.0",
+                    "restaurantName": "Madras Cafe",
+                    "votes": "166"
+                },
+                {
+                    "address": "5, Main Road, Pitampura, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Pitampura",
+                    "rating": "4.1",
+                    "restaurantName": "Gulab",
+                    "votes": "1454"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "Mughlai"
+                    ],
+                    "location": "East Patel Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "India Kitchen",
+                    "votes": "2354"
+                }
+            ],
+            "title": "Delivery Restaurants in Punjabi Bagh"
+        },
+        {
+            "details": [
+                {
+                    "address": "1/83, Third Floor, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "AIR- An Ivory Region",
+                    "votes": "1882"
+                },
+                {
+                    "address": "Shop 39, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.4",
+                    "restaurantName": "Desi Vibes",
+                    "votes": "237"
+                },
+                {
+                    "address": "15C, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Raftaar - The High Speed Lounge & Bar",
+                    "votes": "1014"
+                },
+                {
+                    "address": "13-C, North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "TOS - Take Off Scarlet",
+                    "votes": "2441"
+                },
+                {
+                    "address": "Shop 1, Plot 23, North West Avenue, Club Road, Punjabi Bagh West, Punjabi Bagh, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "American"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.4",
+                    "restaurantName": "BlackJack",
+                    "votes": "1650"
+                },
+                {
+                    "address": "2/85, Third Floor, West Punjabi Bagh Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.4",
+                    "restaurantName": "Verandah Moonshine",
+                    "votes": "782"
+                },
+                {
+                    "address": "3rd Floor A, NWA, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Chinese",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.3",
+                    "restaurantName": "Tornado Cafe & Resto Bar",
+                    "votes": "957"
+                },
+                {
+                    "address": "Building 6, 2nd & 3rd Floor, NWA, Punjabi Bagh Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Sixth Empirica",
+                    "votes": "1404"
+                },
+                {
+                    "address": "25 UG, North West Avenue Road, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Portuguese",
+                        "African"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "Nando's",
+                    "votes": "680"
+                },
+                {
+                    "address": "28, NWA Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.8",
+                    "restaurantName": "Bikanervala",
+                    "votes": "412"
+                },
+                {
+                    "address": "23, NWA Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.9",
+                    "restaurantName": "Tossin Pizza",
+                    "votes": "788"
+                },
+                {
+                    "address": "37, Central Market, Punjabi Bagh West, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.5",
+                    "restaurantName": "Moti Mahal Delux",
+                    "votes": "431"
+                },
+                {
+                    "address": "Plot 1, Sector-4, N.W.A Punjabi Bagh, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.3",
+                    "restaurantName": "Cheekybee",
+                    "votes": "126"
+                },
+                {
+                    "address": "37, North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Continental",
+                        "Beverages"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.0",
+                    "restaurantName": "The Last Course",
+                    "votes": "266"
+                },
+                {
+                    "address": "3rd Floor, 47 North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.3",
+                    "restaurantName": "Cafe Bunkhouse",
+                    "votes": "132"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Punjabi Bagh"
+        },
+        {
+            "details": [
+                {
+                    "address": "39, NWA, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Nik Bakers",
+                    "votes": "858"
+                },
+                {
+                    "address": "Upper Ground Floor, Adarsh Bhawan Co-op House Building Society, Property17, Main Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "Theobroma",
+                    "votes": "353"
+                },
+                {
+                    "address": "Plot 1, Sector-4, N.W.A Punjabi Bagh, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.3",
+                    "restaurantName": "Cheekybee",
+                    "votes": "126"
+                },
+                {
+                    "address": "1/83, Ground Floor, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.0",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "547"
+                },
+                {
+                    "address": "Shop 11, Ground Floor, Market Sector 4, NWA Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Cafe",
+                        "Ice Cream"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.9",
+                    "restaurantName": "99 Pancakes",
+                    "votes": "56"
+                },
+                {
+                    "address": "Shop 1, Ground Floor, Club Road Market, Punjabi Bagh, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "WAFL Caf\u00e9",
+                    "votes": "213"
+                },
+                {
+                    "address": "40, NWA Club Road Punjabi Bagh, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.4",
+                    "restaurantName": "The Oven Deck",
+                    "votes": "179"
+                },
+                {
+                    "address": "37, N W Ave Road, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.6",
+                    "restaurantName": "Cafe 67",
+                    "votes": "63"
+                },
+                {
+                    "address": "Shop 6, 1st Floor, Near Kotak Mahindra Bank, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.6",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "100"
+                },
+                {
+                    "address": "West Punjabi Bagh, New Delhi",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Salad",
+                        "Desserts",
+                        "Healthy Food"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "Opening",
+                    "restaurantName": "The Salad Story",
+                    "votes": "Soon"
+                },
+                {
+                    "address": "G46, DLF Towers, Chatrapati Shivaji Marg, Moti Nagar, Karampura, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Karampura",
+                    "rating": "3.4",
+                    "restaurantName": "Teawist",
+                    "votes": "36"
+                },
+                {
+                    "address": "Pacific Mall, Tagore Garden, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Modern Indian",
+                        "Cafe",
+                        "Italian"
+                    ],
+                    "location": "Pacific Mall, Tagore Garden",
+                    "rating": "4.2",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "860"
+                },
+                {
+                    "address": "A4, Shop 4, CSC DDA Market, Paschim Vihar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Chinese",
+                        "Fast Food"
+                    ],
+                    "location": "Paschim Vihar",
+                    "rating": "4.1",
+                    "restaurantName": "FO - Food Overloded",
+                    "votes": "830"
+                },
+                {
+                    "address": "Shop no 4, E-1, E Block, Rajouri Garden, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages",
+                        "Salad",
+                        "Desserts"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.1",
+                    "restaurantName": "Sardar-Ji-Bakhsh Coffee & Co.",
+                    "votes": "320"
+                },
+                {
+                    "address": "Ground Floor, PP Tower, Netaji Subhash Place, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.1",
+                    "restaurantName": "Chaayos",
+                    "votes": "467"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Punjabi Bagh"
+        },
+        {
+            "details": [
+                {
+                    "address": "39, NWA, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 650,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Nik Bakers",
+                    "votes": "858"
+                },
+                {
+                    "address": "Upper Ground Floor, Adarsh Bhawan Co-op House Building Society, Property17, Main Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "Theobroma",
+                    "votes": "353"
+                },
+                {
+                    "address": "28, NWA Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.8",
+                    "restaurantName": "Bikanervala",
+                    "votes": "412"
+                },
+                {
+                    "address": "21 Central Market, Punjabi Bagh",
+                    "cost": 350,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.0",
+                    "restaurantName": "Ever Bake",
+                    "votes": "126"
+                },
+                {
+                    "address": "173, Pocket 2, Opposite Pir Baba Mazar, Paschim Puri Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.9",
+                    "restaurantName": "The Cake Point",
+                    "votes": "403"
+                },
+                {
+                    "address": "2/81, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.9",
+                    "restaurantName": "Giani",
+                    "votes": "133"
+                },
+                {
+                    "address": "2, Ground Floor, North West Avenue, Punjabi Bagh Extension, Punjabi Bagh, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Frozen Yogurt",
+                        "Desserts"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.8",
+                    "restaurantName": "Cocoberry",
+                    "votes": "104"
+                },
+                {
+                    "address": "19 NWA, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "Bakerz Lodge",
+                    "votes": "308"
+                },
+                {
+                    "address": "50 N.W.A, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "South Indian",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "restaurantName": "Singla's"
+                },
+                {
+                    "address": "Shop 11, Ground Floor, Market Sector 4, NWA Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Cafe",
+                        "Ice Cream"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.9",
+                    "restaurantName": "99 Pancakes",
+                    "votes": "56"
+                },
+                {
+                    "address": "Road 81, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Fast Food"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.9",
+                    "restaurantName": "Sardar-Ji-Bakhsh Coffee & Co.",
+                    "votes": "331"
+                },
+                {
+                    "address": "NWA Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 350,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Wafflesome",
+                    "votes": "376"
+                },
+                {
+                    "address": "Shop 1, Ground Floor, Club Road Market, Punjabi Bagh, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "WAFL Caf\u00e9",
+                    "votes": "213"
+                },
+                {
+                    "address": "40, NWA Club Road Punjabi Bagh, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.4",
+                    "restaurantName": "The Oven Deck",
+                    "votes": "179"
+                },
+                {
+                    "address": "32, North West Avenue Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.6",
+                    "restaurantName": "Fruktville Cafe",
+                    "votes": "44"
+                }
+            ],
+            "title": "Desserts & Bakes in Punjabi Bagh"
+        },
+        {
+            "details": [
+                {
+                    "address": "1/83, Third Floor, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "AIR- An Ivory Region",
+                    "votes": "1882"
+                },
+                {
+                    "address": "13-C, North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "TOS - Take Off Scarlet",
+                    "votes": "2441"
+                },
+                {
+                    "address": "3rd Floor, 47 North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.3",
+                    "restaurantName": "Cafe Bunkhouse",
+                    "votes": "132"
+                },
+                {
+                    "address": "Building 37, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 2300,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.0",
+                    "restaurantName": "Masabaa",
+                    "votes": "1037"
+                },
+                {
+                    "address": "15C, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Raftaar - The High Speed Lounge & Bar",
+                    "votes": "1014"
+                },
+                {
+                    "address": "Plot 1, 2nd Floor, NWA Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.0",
+                    "restaurantName": "Headphones",
+                    "votes": "402"
+                },
+                {
+                    "address": "1, North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1900,
+                    "cuisines": [
+                        "North Indian",
+                        "Finger Food",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "World Art Dining - Brew House",
+                    "votes": "285"
+                },
+                {
+                    "address": "23, North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.1",
+                    "restaurantName": "Bollywood Biistro",
+                    "votes": "429"
+                },
+                {
+                    "address": "40, N W Ave Road, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.6",
+                    "restaurantName": "Al Qaza Lounge & Bar",
+                    "votes": "71"
+                },
+                {
+                    "address": "22, 1st Floor, Northwest Avenue, Club Road, West Punjabi Bagh, Punjabi Bagh, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.5",
+                    "restaurantName": "London Brick",
+                    "votes": "302"
+                },
+                {
+                    "address": "WZ/T1 Kailash Park, Opposite Metro Pillar 328, Moti Nagar, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Moti Nagar",
+                    "rating": "3.6",
+                    "restaurantName": "The People Lounge",
+                    "votes": "80"
+                },
+                {
+                    "address": "Shop 251, 2nd Floor, Above Stanmax Aggarwal Millennium Tower 1, Netaji Subhash Place, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Netaji Subhash Place",
+                    "rating": "4.6",
+                    "restaurantName": "Themis Barbecue House",
+                    "votes": "2326"
+                },
+                {
+                    "address": "F-89, Vishal Enclave, Rajouri Garden, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.5",
+                    "restaurantName": "Jazbaa",
+                    "votes": "917"
+                },
+                {
+                    "address": "Red Fort Harley Davidson, A-16, Satguru Ram Singh Marg, Mayapuri Phase 1, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "American",
+                        "Asian",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Mayapuri Phase 1",
+                    "rating": "4.3",
+                    "restaurantName": "Freedom Roost",
+                    "votes": "274"
+                },
+                {
+                    "address": "BK Dutt Market, Rajouri Garden, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.3",
+                    "restaurantName": "Lord of the Drinks Chamber",
+                    "votes": "3150"
+                }
+            ],
+            "title": "Clubs and lounges in Punjabi Bagh"
+        },
+        {
+            "details": [
+                {
+                    "address": "2/85, Third Floor, West Punjabi Bagh Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.4",
+                    "restaurantName": "Verandah Moonshine",
+                    "votes": "782"
+                },
+                {
+                    "address": "3rd Floor A, NWA, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Chinese",
+                        "Continental",
+                        "North Indian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.3",
+                    "restaurantName": "Tornado Cafe & Resto Bar",
+                    "votes": "957"
+                },
+                {
+                    "address": "Building 6, 2nd & 3rd Floor, NWA, Punjabi Bagh Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Sixth Empirica",
+                    "votes": "1404"
+                },
+                {
+                    "address": "NWA-26, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.8",
+                    "restaurantName": "Drinks at MRP",
+                    "votes": "555"
+                },
+                {
+                    "address": "49, Ground Floor, North West Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "Chinese",
+                        "Thai",
+                        "Momos"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.0",
+                    "restaurantName": "The Backyard",
+                    "votes": "829"
+                },
+                {
+                    "address": "Plot 9, Club Road, 3rd Floor, Punjabi Bagh, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.9",
+                    "restaurantName": "My Bar Punjabi Bagh",
+                    "votes": "202"
+                },
+                {
+                    "address": "Building 13C, Northwest Avenue, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Finger Food",
+                        "Continental",
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "4.0",
+                    "restaurantName": "X Pins Down",
+                    "votes": "58"
+                },
+                {
+                    "address": "42, 3rd Floor, NWA, Club Road, Punjabi Bagh West, Punjabi Bagh, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Momos"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.9",
+                    "restaurantName": "The Derby Cookhouse",
+                    "votes": "159"
+                },
+                {
+                    "address": "1st Floor A, NWA, Club Road, Punjabi Bagh, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Punjabi Bagh",
+                    "rating": "3.1",
+                    "restaurantName": "M Bar & Lounge",
+                    "votes": "7"
+                },
+                {
+                    "address": "A 7/8, Kailash Park, Near Metro Pillar 326, Kirti Nagar, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Asian"
+                    ],
+                    "location": "Kirti Nagar",
+                    "rating": "4.3",
+                    "restaurantName": "The Marketplace",
+                    "votes": "540"
+                },
+                {
+                    "address": "C-10, Upper Ground Floor,Vishal\n Enclave, Rajouri Garden",
+                    "cost": 900,
+                    "cuisines": [
+                        "Continental",
+                        "Mexican",
+                        "North Indian",
+                        "Momos"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.1",
+                    "restaurantName": "Duty Free",
+                    "votes": "2686"
+                },
+                {
+                    "address": "J2/1 ,BK Dutta Market, Rajouri Garden, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Modern Indian",
+                        "Finger Food"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.5",
+                    "restaurantName": "Decode",
+                    "votes": "2554"
+                },
+                {
+                    "address": "C-8, Vishal Enclave, Rajouri Garden, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.3",
+                    "restaurantName": "Dum Maro Dum Studio",
+                    "votes": "441"
+                },
+                {
+                    "address": "A 39, Vishal Enclave, Rajouri Garden, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "3.9",
+                    "restaurantName": "Too Indian",
+                    "votes": "1912"
+                },
+                {
+                    "address": "C-10, Vishal Enclave, Metro Pillar 415, Rajouri Garden, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Rajouri Garden",
+                    "rating": "4.1",
+                    "restaurantName": "Boombox Cafe Reloaded",
+                    "votes": "1350"
+                }
+            ],
+            "title": "Pubs & Bars in Punjabi Bagh"
+        }
+    ]
+}

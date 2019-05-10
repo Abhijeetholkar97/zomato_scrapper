@@ -1,0 +1,205 @@
+{
+    "placeName": "Janpath",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "5/58, Shanker Road, Rajendra Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Rajendra Place",
+                    "rating": "3.7",
+                    "restaurantName": "Waffle Fever",
+                    "votes": "91"
+                },
+                {
+                    "address": "Shop 4, Next to Lucky Juice Center, Gurudwara Road, Zamrudpur, Near Greater Kailash",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Pizza"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.6",
+                    "restaurantName": "Bhookemon",
+                    "votes": "550"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "South Indian"
+                    ],
+                    "location": "Karol Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "Foodness",
+                    "votes": "330"
+                },
+                {
+                    "address": "4/1, Meznine Floor, DB Gupta Road, Near Hotel Today, Paharganj, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Fast Food"
+                    ],
+                    "location": "Paharganj",
+                    "rating": "3.5",
+                    "restaurantName": "Midnight Canteen",
+                    "votes": "84"
+                },
+                {
+                    "address": "R 184, Street 8, Near Badi Masjid, Ramesh Park, Laxmi Nagar, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Biryani",
+                        "Mughlai",
+                        "Fast Food"
+                    ],
+                    "location": "Laxmi Nagar",
+                    "rating": "3.5",
+                    "restaurantName": "Taste Of Fortune",
+                    "votes": "20"
+                },
+                {
+                    "address": "2, Arya Samaj Road, Karol Bagh, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Karol Bagh",
+                    "rating": "4.2",
+                    "restaurantName": "The Burger Club",
+                    "votes": "1401"
+                },
+                {
+                    "address": "53/5, Bada Bazar Marg, Old Rajender Nagar, Rajinder Nagar, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages",
+                        "Wraps"
+                    ],
+                    "location": "Rajinder Nagar",
+                    "rating": "3.8",
+                    "restaurantName": "Wat-a-Burger!",
+                    "votes": "50"
+                },
+                {
+                    "address": "Hauz Khas, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Italian",
+                        "Burger",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.1",
+                    "restaurantName": "Midnight Of Paradise",
+                    "votes": "226"
+                },
+                {
+                    "address": "G-1, Rattan Jyoti Building, Rajendra Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Italian",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Rajendra Place",
+                    "rating": "4.1",
+                    "restaurantName": "Burgelicious by The Flashback",
+                    "votes": "91"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 800,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian",
+                        "Desserts",
+                        "Burger",
+                        "American"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.6",
+                    "restaurantName": "POMP - Pizza On My Plate",
+                    "votes": "1259"
+                },
+                {
+                    "address": "4A/57 Main Shankar Road, Old Rajinder Nagar, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Rajinder Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "Burgrill",
+                    "votes": "154"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 500,
+                    "cuisines": [
+                        "Thai",
+                        "Chinese",
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "Hauz Khas",
+                    "rating": "4.1",
+                    "restaurantName": "FOIS - Flame Of Indian Spices",
+                    "votes": "245"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 800,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.3",
+                    "restaurantName": "Wild Wild West",
+                    "votes": "98"
+                },
+                {
+                    "address": "4A-59, Old Rajinder Nagar, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese"
+                    ],
+                    "location": "Rajinder Nagar",
+                    "rating": "4.0",
+                    "restaurantName": "London Street Kitchen",
+                    "votes": "867"
+                },
+                {
+                    "address": "Rajendra Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Rajendra Place",
+                    "rating": "3.8",
+                    "restaurantName": "BOSS DK",
+                    "votes": "125"
+                }
+            ],
+            "title": "Delivery Restaurants in Janpath"
+        }
+    ]
+}

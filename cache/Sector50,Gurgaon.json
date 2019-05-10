@@ -1,0 +1,1004 @@
+{
+    "placeName": "Sector 50, Gurgaon",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "71, Ground Floor, Good Earth City Center, Nirvana, Sector 50, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "Chaayos",
+                    "votes": "697"
+                },
+                {
+                    "address": "Shop  2, Block 3, Vatika Business Park, Sector 49, Sohna Road, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Tea",
+                        "Fast Food",
+                        "Beverages",
+                        "Sandwich"
+                    ],
+                    "location": "Sector 49",
+                    "rating": "3.9",
+                    "restaurantName": "Chai Point",
+                    "votes": "224"
+                },
+                {
+                    "address": "S-27/9A, 2nd Floor  DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Sandwich",
+                        "Healthy Food",
+                        "Salad",
+                        "Juices"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.6",
+                    "restaurantName": "Caterspoint",
+                    "votes": "2302"
+                },
+                {
+                    "address": "2nd Floor, Food Court, Hongkong Bazaar, Sector 57, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Hong Kong Bazaar Mall, Sector 57, Gurgaon",
+                    "rating": "3.9",
+                    "restaurantName": "Om Sweets & Snacks",
+                    "votes": "447"
+                },
+                {
+                    "address": "Omaxe City Centre, Sohna Road, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food",
+                        "Fast Food",
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "Omaxe City Centre",
+                    "rating": "3.9",
+                    "restaurantName": "Haldiram's",
+                    "votes": "533"
+                },
+                {
+                    "address": "Shop 15, Mor Chowk, Civil Lines, Sector 15, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "South Indian",
+                        "Mithai"
+                    ],
+                    "location": "Sector 15, Gurgaon",
+                    "rating": "3.1",
+                    "restaurantName": "Nandan Sweets",
+                    "votes": "437"
+                },
+                {
+                    "address": "Shop 11 A, Omaxe Gurgaon Mall, Sohna Road, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian",
+                        "Street Food"
+                    ],
+                    "location": "Omaxe Gurgaon Mall",
+                    "rating": "3.9",
+                    "restaurantName": "Beeji De Chole Bhature",
+                    "votes": "631"
+                },
+                {
+                    "address": "Shop 24, 1st Floor, Babu Chtru Complex, Wazirabad, Sector 52, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Italian",
+                        "Mithai"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "3.6",
+                    "restaurantName": "Singla's",
+                    "votes": "97"
+                },
+                {
+                    "address": "136, Huda Market, Sector 31, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sector 31, Gurgaon",
+                    "rating": "4.2",
+                    "restaurantName": "Kulcha Walas",
+                    "votes": "350"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 600,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Healthy Food",
+                        "Burger",
+                        "Biryani",
+                        "Pizza",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 56, Gurgaon",
+                    "rating": "3.6",
+                    "restaurantName": "FreshMenu",
+                    "votes": "25"
+                },
+                {
+                    "address": "Suncity Business Tower, Golf Course Road, Gurgaon",
+                    "cost": 550,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Suncity Business Tower, Golf Course Road",
+                    "rating": "4.0",
+                    "restaurantName": "Bikanervala",
+                    "votes": "920"
+                },
+                {
+                    "address": "G66, Baani Square, Sector 50, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "The Cake Story",
+                    "votes": "928"
+                },
+                {
+                    "address": "Shivaji Nagar, Near Balaji Mandir, Sector 8, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food"
+                    ],
+                    "location": "Sector 8, Gurgaon",
+                    "rating": "3.8",
+                    "restaurantName": "Sham Sweets",
+                    "votes": "85"
+                },
+                {
+                    "address": "47, Rodeo Drive, Arcadia 2, Sector 49, Near Sector 50, Gurgaon",
+                    "cost": 150,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Rodeo Drive, Sector 49, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Gohana Famous Jalebi",
+                    "votes": "157"
+                },
+                {
+                    "address": "Saraswati Kunj, Sector 53, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Indian",
+                        "Biryani",
+                        "Kebab"
+                    ],
+                    "location": "Sector 53, Gurgaon",
+                    "rating": "3.5",
+                    "restaurantName": "Fauji Dhaba",
+                    "votes": "574"
+                }
+            ],
+            "title": "Delivery Restaurants in Sector 50"
+        },
+        {
+            "details": [
+                {
+                    "address": "G1-G1A, Baani Square, Sector 50, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Biryani",
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "The Spice Lab",
+                    "votes": "1069"
+                },
+                {
+                    "address": "117-122, Nirvana Courtyard Market, Nirvana Country, Sector 50, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Mughlai"
+                    ],
+                    "location": "Nirvana Courtyard, Sector 50",
+                    "rating": "4.0",
+                    "restaurantName": "Dana Choga",
+                    "votes": "829"
+                },
+                {
+                    "address": "Good Earth City Centre, Malibu Town, Sector 50, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.4",
+                    "restaurantName": "Sankalp",
+                    "votes": "654"
+                },
+                {
+                    "address": "G-31, Baani Square, Sector 50, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "Tossin Pizza",
+                    "votes": "1724"
+                },
+                {
+                    "address": "G 46, Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 650,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Malaysian",
+                        "Indonesian",
+                        "Momos"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "Oriental Fusion",
+                    "votes": "611"
+                },
+                {
+                    "address": "89/90 Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Lebanese",
+                        "Continental",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.5",
+                    "restaurantName": "The Ivy",
+                    "votes": "1019"
+                },
+                {
+                    "address": "71, Ground Floor, Good Earth City Center, Nirvana, Sector 50, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "Chaayos",
+                    "votes": "697"
+                },
+                {
+                    "address": "Shop G 40/41, Baani Square, Sector 50, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Chinese",
+                        "Sushi",
+                        "Thai"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.0",
+                    "restaurantName": "Big Wong",
+                    "votes": "1491"
+                },
+                {
+                    "address": "C-15/16/17, Nirvana Courtyard Market, Nirvana Country, Sector 50, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Nirvana Courtyard, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "C'est La Vie",
+                    "votes": "689"
+                },
+                {
+                    "address": "224, 2nd Floor, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "0124 Bar Exchange - Open Terrace Brewery",
+                    "votes": "514"
+                },
+                {
+                    "address": "C-38, Nirvana Courtyard Market, Nirvana Country, Sector 50, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "American",
+                        "Bakery"
+                    ],
+                    "location": "Nirvana Courtyard, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "Madison & Pike",
+                    "votes": "664"
+                },
+                {
+                    "address": "G-28, Baani Square, Sector 50, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Pizza",
+                        "Burger"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "Sandburg Shakes",
+                    "votes": "909"
+                },
+                {
+                    "address": "G-53, Baani Square, Sector 50, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "Punjab On My Plate",
+                    "votes": "857"
+                },
+                {
+                    "address": "Shop 24, 1st Floor, Babu Chtru Complex, Wazirabad, Sector 52, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Italian",
+                        "Mithai"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "3.6",
+                    "restaurantName": "Singla's",
+                    "votes": "97"
+                },
+                {
+                    "address": "Shop 54-55, Bani Square, Sector 50, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Kerala",
+                        "Andhra",
+                        "Seafood",
+                        "South Indian"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.0",
+                    "restaurantName": "Coastal Reef",
+                    "votes": "632"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Sector 50"
+        },
+        {
+            "details": [
+                {
+                    "address": "G 23, Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "Fat Butterfly Bakery And Cafe",
+                    "votes": "652"
+                },
+                {
+                    "address": "71, Ground Floor, Good Earth City Center, Nirvana, Sector 50, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "Chaayos",
+                    "votes": "697"
+                },
+                {
+                    "address": "C-15/16/17, Nirvana Courtyard Market, Nirvana Country, Sector 50, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Nirvana Courtyard, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "C'est La Vie",
+                    "votes": "689"
+                },
+                {
+                    "address": "C-38, Nirvana Courtyard Market, Nirvana Country, Sector 50, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "American",
+                        "Bakery"
+                    ],
+                    "location": "Nirvana Courtyard, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "Madison & Pike",
+                    "votes": "664"
+                },
+                {
+                    "address": "10 & 11, Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.0",
+                    "restaurantName": "The Chocolate Room",
+                    "votes": "484"
+                },
+                {
+                    "address": "G-28, Baani Square, Sector 50, Gurgaon",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Pizza",
+                        "Burger"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "Sandburg Shakes",
+                    "votes": "909"
+                },
+                {
+                    "address": "SH 124, 125, 1st Floor, Good Earth City Centre, Sector 50, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Healthy Food",
+                        "Continental",
+                        "Sandwich"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "bueno sandwichcraft",
+                    "votes": "570"
+                },
+                {
+                    "address": "A-118, Nirvana Courtyard Market, Nirvana Country, Sector 50, Gurgaon",
+                    "cost": 850,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Nirvana Courtyard, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "Morellos - (Mess)Merising Shakes",
+                    "votes": "449"
+                },
+                {
+                    "address": "Shop 68, Ground Floor, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "3.9",
+                    "restaurantName": "Tea Halt",
+                    "votes": "296"
+                },
+                {
+                    "address": "Baani Square, G 93-94, D Block, Sector 50, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Momos"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "White Bricx Cafe",
+                    "votes": "450"
+                },
+                {
+                    "address": "Baani Square, South City 2, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "3.7",
+                    "restaurantName": "Barista",
+                    "votes": "63"
+                },
+                {
+                    "address": "B106/107, First Floor, Nirvana Court Yard, Sector 50, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "restaurantName": "The Hut Cafe"
+                },
+                {
+                    "address": "A40, Kibithu Villas Complex, Opposite Good Earth City Centre, Sector 47, Near Sector 50, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "restaurantName": "Kunzum Travel Cafe"
+                },
+                {
+                    "address": "D106/107, Nirvana Court Yard, Nirvana Country, Sector 50, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Street Food",
+                        "Beverages"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "restaurantName": "The Hut Cafe"
+                },
+                {
+                    "address": "Shop F 24, Adjacent To Hilton Hotel Baani Square, Sector 50, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Fast Food",
+                        "North Indian",
+                        "Beverages"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.0",
+                    "restaurantName": "Organic Express",
+                    "votes": "159"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Sector 50"
+        },
+        {
+            "details": [
+                {
+                    "address": "16-17, Ground Floor, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "Street Food",
+                        "South Indian"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "Om Sweets & Snacks",
+                    "votes": "1000"
+                },
+                {
+                    "address": "G66, Baani Square, Sector 50, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.3",
+                    "restaurantName": "The Cake Story",
+                    "votes": "928"
+                },
+                {
+                    "address": "G-92, Baani Square, Sector 50, Gurgaon",
+                    "cost": 450,
+                    "cuisines": [
+                        "Desserts",
+                        "Fast Food",
+                        "Beverages",
+                        "Sandwich"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Stop My Starvation",
+                    "votes": "83"
+                },
+                {
+                    "address": "89/90 Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Lebanese",
+                        "Continental",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.5",
+                    "restaurantName": "The Ivy",
+                    "votes": "1019"
+                },
+                {
+                    "address": "G 23, Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "Fat Butterfly Bakery And Cafe",
+                    "votes": "652"
+                },
+                {
+                    "address": "G-26, Baani Square, Sector 50, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "3.7",
+                    "restaurantName": "Havmor Ice Cream",
+                    "votes": "98"
+                },
+                {
+                    "address": "Ground Floor, G-7 Baani Square, Block A, Sector 51, Near Sector 50, Gurgaon",
+                    "cost": 150,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "restaurantName": "Naturals Ice Cream"
+                },
+                {
+                    "address": "C-38, Nirvana Courtyard Market, Nirvana Country, Sector 50, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "American",
+                        "Bakery"
+                    ],
+                    "location": "Nirvana Courtyard, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "Madison & Pike",
+                    "votes": "664"
+                },
+                {
+                    "address": "10 & 11, Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.0",
+                    "restaurantName": "The Chocolate Room",
+                    "votes": "484"
+                },
+                {
+                    "address": "G-68, Baani Square, Sector 50, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.0",
+                    "restaurantName": "Ice Ninja",
+                    "votes": "209"
+                },
+                {
+                    "address": "G-22, Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Fast Food",
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.6",
+                    "restaurantName": "Crepe-fe",
+                    "votes": "358"
+                },
+                {
+                    "address": "G-17,Ground Floor,Baani Square,Sector 50,Gurgaon",
+                    "cost": 450,
+                    "cuisines": [
+                        "Frozen Yogurt",
+                        "Desserts"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "3.8",
+                    "restaurantName": "Yumto",
+                    "votes": "61"
+                },
+                {
+                    "address": "G-58, Baani Square, Sector 50, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Fast Food",
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "3.8",
+                    "restaurantName": "Made With More",
+                    "votes": "165"
+                },
+                {
+                    "address": "Ground Floor, Baani Square, Sector 50, Gurgaon",
+                    "cost": 100,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Baani Square, Sector 50",
+                    "rating": "4.1",
+                    "restaurantName": "Mangle Di Kulfi",
+                    "votes": "72"
+                },
+                {
+                    "address": "Shop F-46, First Floor, Baani Square, Pocket C, Mayfield Garden, Sector 50, Gurugram",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Coffee"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.2",
+                    "restaurantName": "Baketards",
+                    "votes": "50"
+                }
+            ],
+            "title": "Desserts & Bakes in Sector 50"
+        },
+        {
+            "details": [
+                {
+                    "address": "224, 2nd Floor, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "0124 Bar Exchange - Open Terrace Brewery",
+                    "votes": "514"
+                },
+                {
+                    "address": "15, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "3.8",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "263"
+                },
+                {
+                    "address": "170, 171, 179, & 180, 1st Floor, Good Earth City Center, Sector 50, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Finger Food",
+                        "Continental",
+                        "North Indian",
+                        "Asian"
+                    ],
+                    "location": "Good Earth City Center, Sector 50",
+                    "rating": "4.2",
+                    "restaurantName": "Beer Company",
+                    "votes": "493"
+                },
+                {
+                    "address": "Opposite Nirvana Country, Golf Course Extention Road, Sector 65, Near Sector 50, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "3.5",
+                    "restaurantName": "Jolly Rockers",
+                    "votes": "40"
+                },
+                {
+                    "address": "Element One, Block A Lower Terrace, Sector 47, South City 2, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Asian",
+                        "North Indian",
+                        "Bar Food",
+                        "Mediterranean",
+                        "European",
+                        "Tex-Mex"
+                    ],
+                    "location": "South City 2",
+                    "rating": "3.9",
+                    "restaurantName": "Brewocrat - Brewery Skybar & Kitchen",
+                    "votes": "117"
+                },
+                {
+                    "address": "Hilton Garden Inn, Baani Square, South City 2, Gurgaon",
+                    "cost": 3100,
+                    "cuisines": [
+                        "Italian",
+                        "Thai",
+                        "European",
+                        "North Indian"
+                    ],
+                    "location": "Hilton Garden Inn, Sector 50, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Vibe: The Sky Bar - Hilton Garden Inn",
+                    "votes": "146"
+                },
+                {
+                    "address": "South Patio, Block-D, South City 2, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "South City 2",
+                    "restaurantName": "Picasso"
+                },
+                {
+                    "address": "3/1, Emilia 1, Golf Course Extension Road, Opposite Palm Drive, Sector 49, Golf Course Road, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sector 49",
+                    "restaurantName": "Bottoms Up"
+                },
+                {
+                    "address": "2001, 2nd Floor, ILD Trade Centre, Sector 47, Sohna Road, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "ILD Trade Centre Mall, Sohna Road",
+                    "rating": "4.4",
+                    "restaurantName": "Brewer Street",
+                    "votes": "683"
+                },
+                {
+                    "address": "Vipul Trade Centre, Shop 1, Sohna Road, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "American",
+                        "North Indian"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "4.4",
+                    "restaurantName": "Vapour Bar Exchange",
+                    "votes": "1013"
+                },
+                {
+                    "address": "Marble Market Road, Near Subhash Chowk, Sector 72A, Sector 53, Sohna Road, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.7",
+                    "restaurantName": "TFR Villa",
+                    "votes": "150"
+                },
+                {
+                    "address": "Fortune Select Excalibur, Sohna Road, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Chinese",
+                        "Asian"
+                    ],
+                    "location": "Fortune Select Excalibur, Sohna Road",
+                    "rating": "4.2",
+                    "restaurantName": "The Brewhouse - Fortune Select Excalibur",
+                    "votes": "171"
+                },
+                {
+                    "address": "Near Artemis Hospital, Sector 52, South City 2, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "South City 2",
+                    "rating": "3.4",
+                    "restaurantName": "Pablo Farms",
+                    "votes": "14"
+                },
+                {
+                    "address": "Near Subhash Chowk, Sector 48, Gurgaon, Delhi NCR",
+                    "cost": 1000,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sohna Road",
+                    "rating": "3.0",
+                    "restaurantName": "Insane",
+                    "votes": "7"
+                },
+                {
+                    "address": "Vatika Business Park, Sector 49, Near Sohna Road, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese",
+                        "Italian"
+                    ],
+                    "location": "Sector 49",
+                    "rating": "4.3",
+                    "restaurantName": "Open Tap",
+                    "votes": "1303"
+                }
+            ],
+            "title": "Nightlife Restaurants in Sector 50"
+        }
+    ]
+}

@@ -1,0 +1,1186 @@
+{
+    "placeName": "Nehru Place",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "Plot 220, Gali 10, Amrit Puri Main Market, East of Kailash, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "East of Kailash",
+                    "restaurantName": "Oye Kiddan"
+                },
+                {
+                    "address": "6, Corner Market, Near Hanuman Temple, Malviya Nagar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "4.2",
+                    "restaurantName": "Flavors of Chennai",
+                    "votes": "992"
+                },
+                {
+                    "address": "2nd, E-20, Shree Krishna Mandir, Central Market, Lajpat Nagar 2, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Lajpat Nagar 2",
+                    "rating": "3.9",
+                    "restaurantName": "Jhakkas Bombay Pav Bhaji",
+                    "votes": "297"
+                },
+                {
+                    "address": "14 & 15, PVR Anupam, Community Centre, Saket, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Mithai",
+                        "North Indian",
+                        "South Indian",
+                        "Fast Food"
+                    ],
+                    "location": "Saket",
+                    "rating": "3.7",
+                    "restaurantName": "Bikanervala",
+                    "votes": "338"
+                },
+                {
+                    "address": "46/16, Near Gate 1, Green Park Metro Station, Yusuf Sarai, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Yusuf Sarai",
+                    "rating": "4.0",
+                    "restaurantName": "Kuldeep Paranthe Wala",
+                    "votes": "141"
+                },
+                {
+                    "address": "Shop 2, Krishna Market, Near Deshbandhu College, Kalkaji, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "South Indian"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "3.9",
+                    "restaurantName": "Anna Ka Dosa",
+                    "votes": "1128"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "Murthal Parantha",
+                    "votes": "34"
+                },
+                {
+                    "address": "1691/2, Govind Puri Extension, Kalkaji, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts",
+                        "Street Food"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "4.0",
+                    "restaurantName": "Gopal's 56",
+                    "votes": "682"
+                },
+                {
+                    "address": "F 8, South Extension 1, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food"
+                    ],
+                    "location": "South Extension 1",
+                    "rating": "3.8",
+                    "restaurantName": "No. 1 Uncles Parantha",
+                    "votes": "109"
+                },
+                {
+                    "address": "C 125, Ground Floor, Lajpat Nagar 1, New Delhi",
+                    "cost": 150,
+                    "cuisines": [
+                        "Street Food",
+                        "Beverages"
+                    ],
+                    "location": "Lajpat Nagar 1",
+                    "rating": "3.5",
+                    "restaurantName": "Nashta \u0928\u093e\u0936\u094d\u0924\u093e",
+                    "votes": "129"
+                },
+                {
+                    "address": "3, Krishna Market, Lajpat Nagar 1, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "North Indian",
+                        "Street Food"
+                    ],
+                    "location": "Lajpat Nagar 1",
+                    "rating": "4.2",
+                    "restaurantName": "Anand Ji",
+                    "votes": "927"
+                },
+                {
+                    "address": "HS- 13, Kailash Colony Market, Kailash Colony, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Fast Food",
+                        "Mithai"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "3.5",
+                    "restaurantName": "Anupama Sweet",
+                    "votes": "360"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 600,
+                    "cuisines": [
+                        "Continental",
+                        "Asian",
+                        "Healthy Food",
+                        "Burger",
+                        "Biryani",
+                        "Pizza",
+                        "Italian",
+                        "Fast Food"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "3.7",
+                    "restaurantName": "FreshMenu",
+                    "votes": "620"
+                },
+                {
+                    "address": "A-55, Shop 2, Main Market Malviya Nagar, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Malviya Nagar",
+                    "rating": "4.1",
+                    "restaurantName": "Fruktville",
+                    "votes": "245"
+                },
+                {
+                    "address": "Shop 32, LSC DDA , Pocket D & E, Sarita Vihar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Sarita Vihar",
+                    "rating": "3.9",
+                    "restaurantName": "Sweet Truth",
+                    "votes": "50"
+                }
+            ],
+            "title": "Delivery Restaurants in Nehru Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "43, Ground Floor, Chiranjivi Tower, Nehru Place, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Continental",
+                        "Momos"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.2",
+                    "restaurantName": "SWAD - Desh Videsh Ka",
+                    "votes": "1222"
+                },
+                {
+                    "address": "R - 1, Upper Ground Floor, Epicuria Food Mall, Nehru Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.4",
+                    "restaurantName": "Nehru Place Social",
+                    "votes": "2340"
+                },
+                {
+                    "address": "Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Flying Saucer Cafe",
+                    "votes": "7714"
+                },
+                {
+                    "address": "Ground Floor, E Block, Opposite Satyam Cinema, Nehru Place, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Bengali",
+                        "Seafood"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.3",
+                    "restaurantName": "Oh! Calcutta",
+                    "votes": "1901"
+                },
+                {
+                    "address": "Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 3200,
+                    "cuisines": [
+                        "European",
+                        "Italian",
+                        "North Indian",
+                        "Salad"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.2",
+                    "restaurantName": "FIO Cookhouse and Bar",
+                    "votes": "1294"
+                },
+                {
+                    "address": "Epicuria Food Mall, Nehru Place, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Portuguese",
+                        "Wraps",
+                        "Burger",
+                        "Salad"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.2",
+                    "restaurantName": "Nando's",
+                    "votes": "1033"
+                },
+                {
+                    "address": "Upper Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 2500,
+                    "cuisines": [
+                        "European",
+                        "Chinese",
+                        "North Indian",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.5",
+                    "restaurantName": "Lord of the Drinks Forum",
+                    "votes": "3768"
+                },
+                {
+                    "address": "16th Floor, Eros Corporate Tower, Nehru Place, New Delhi",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Chinese",
+                        "Seafood"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.5",
+                    "restaurantName": "Royal China",
+                    "votes": "1268"
+                },
+                {
+                    "address": "Ground Floor, Eros Corporate Tower, Nehru Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Asian",
+                        "Japanese",
+                        "Momos"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Asian Tuk Tuk",
+                    "votes": "332"
+                },
+                {
+                    "address": "R-5, Upper Ground Floor, West Wing, TDI South Bridge, Epicuria Food Mall, Nehru Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.3",
+                    "restaurantName": "Dhaba - Estd 1986 Delhi",
+                    "votes": "1337"
+                },
+                {
+                    "address": "Unit 02, Upper Ground Floor, Epicuria Food Mall, TDI South Bridge, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "European",
+                        "American"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.1",
+                    "restaurantName": "The Irish House",
+                    "votes": "725"
+                },
+                {
+                    "address": "Lower Basement, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food",
+                        "Italian",
+                        "North Indian"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.3",
+                    "restaurantName": "The Chatter House",
+                    "votes": "2605"
+                },
+                {
+                    "address": "Unit R03, Upper Ground Floor, Epicuria, Nehru Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "European",
+                        "Asian",
+                        "Mediterranean"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.2",
+                    "restaurantName": "United Coffee House Rewind",
+                    "votes": "426"
+                },
+                {
+                    "address": "Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Sushi"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.2",
+                    "restaurantName": "Big Wong XL",
+                    "votes": "1018"
+                },
+                {
+                    "address": "24, Near Allahabad bank, Nehru Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Finger Food"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.0",
+                    "restaurantName": "Only Bar",
+                    "votes": "176"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Nehru Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "Upper Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.2",
+                    "restaurantName": "Chaayos",
+                    "votes": "443"
+                },
+                {
+                    "address": "Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.1",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "565"
+                },
+                {
+                    "address": "Shop no-3 Ground Floor Satyam Cineplex D-45, Nehru Place, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.5",
+                    "restaurantName": "The Chai Story",
+                    "votes": "44"
+                },
+                {
+                    "address": "Eros Hotel, American Plaza, Nehru Place, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Eros Hotel, Nehru Place",
+                    "rating": "3.7",
+                    "restaurantName": "Tea Lounge - Eros Hotel",
+                    "votes": "42"
+                },
+                {
+                    "address": "101-104, Ist Floor, Dinar Bhavan, Nehru Place, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "3.0",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "54"
+                },
+                {
+                    "address": "HS 5, Kailash Colony Market, Kailash Colony, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.4",
+                    "restaurantName": "Big Chill",
+                    "votes": "2238"
+                },
+                {
+                    "address": "A 7, Kailash Colony, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.4",
+                    "restaurantName": "FatJar Cafe & Market",
+                    "votes": "382"
+                },
+                {
+                    "address": "A-7, Kailash Colony, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.2",
+                    "restaurantName": "Binge",
+                    "votes": "313"
+                },
+                {
+                    "address": "R-21, Greater Kailash 1 (GK 1), New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Healthy Food"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.6",
+                    "restaurantName": "The Lo-cal Kitchen",
+                    "votes": "166"
+                },
+                {
+                    "address": "H-15A, Ground Floor, Kalkaji Main Road, Kalkaji, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "4.1",
+                    "restaurantName": "NYC Queens",
+                    "votes": "95"
+                },
+                {
+                    "address": "The Orion Plaza,First Floor, CC-26, Nehru Enclave, Kalkaji, New Delhi",
+                    "cost": 1200,
+                    "cuisines": [
+                        "Cafe",
+                        "North Indian"
+                    ],
+                    "location": "Kalkaji",
+                    "restaurantName": "The Blue Parrot Cafe"
+                },
+                {
+                    "address": "Shop 6, C Block Market, East of Kailash, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "East of Kailash",
+                    "rating": "3.8",
+                    "restaurantName": "Six Degree Cafe",
+                    "votes": "24"
+                },
+                {
+                    "address": "2nd Floor, HS-25, Kailash Colony Market, Kailash Colony, New Delhi",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "3.7",
+                    "restaurantName": "The Snook House Cafe",
+                    "votes": "194"
+                },
+                {
+                    "address": "35A, B Block, Third Floor, Kalkaji, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "3.6",
+                    "restaurantName": "Oggy & Dobby",
+                    "votes": "53"
+                },
+                {
+                    "address": "Near Gold Gym, East of Kailash, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Healthy Food",
+                        "Continental"
+                    ],
+                    "location": "East of Kailash",
+                    "rating": "3.7",
+                    "restaurantName": "Hwealthcafe",
+                    "votes": "45"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Nehru Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "Lower Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 600,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.0",
+                    "restaurantName": "Dunkin' Donuts",
+                    "votes": "624"
+                },
+                {
+                    "address": "G-3, Saraswati House, Nehru Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Mithai"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "3.9",
+                    "restaurantName": "Sona Sweets Sri Udipi Restaurant",
+                    "votes": "408"
+                },
+                {
+                    "address": "Food Court, Epicuria Food Mall, Nehru Place, New Delhi",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.0",
+                    "restaurantName": "Keventers",
+                    "votes": "141"
+                },
+                {
+                    "address": "S-5, Epicuria Food Mall, Nehru Place, New Delhi",
+                    "cost": 800,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.2",
+                    "restaurantName": "L'Op\u00e9ra Salon de Th\u00e9",
+                    "votes": "320"
+                },
+                {
+                    "address": "Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "3.6",
+                    "restaurantName": "Gelato Vinto",
+                    "votes": "23"
+                },
+                {
+                    "address": "Epicuria Mall, Lower Ground Floor, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 200,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "3.2",
+                    "restaurantName": "House of Candy",
+                    "votes": "9"
+                },
+                {
+                    "address": "Eros Hotel, American Plaza, Nehru Place, New Delhi",
+                    "cost": 700,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Eros Hotel, Nehru Place",
+                    "rating": "3.8",
+                    "restaurantName": "Sweet & Crusty - Eros Hotel",
+                    "votes": "67"
+                },
+                {
+                    "address": "HS 5, Kailash Colony Market, Kailash Colony, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.4",
+                    "restaurantName": "Big Chill",
+                    "votes": "2238"
+                },
+                {
+                    "address": "HS-3, Main Market, Kailash Colony, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food",
+                        "Salad"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.3",
+                    "restaurantName": "Maxims Pastry Shop",
+                    "votes": "1004"
+                },
+                {
+                    "address": "3, Kalkaji Main Road, Block F, Kalkaji, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "4.1",
+                    "restaurantName": "Giani's",
+                    "votes": "349"
+                },
+                {
+                    "address": "A-7, Kailash Colony, New Delhi",
+                    "cost": 450,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.2",
+                    "restaurantName": "Binge",
+                    "votes": "313"
+                },
+                {
+                    "address": "A-135, Double Storey, Near HDFC Bank, Kalkaji, New Delhi",
+                    "cost": 250,
+                    "cuisines": [
+                        "Mithai",
+                        "Street Food",
+                        "North Indian"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "3.7",
+                    "restaurantName": "Sant Sweets",
+                    "votes": "163"
+                },
+                {
+                    "address": "Shop B&C, 96B, Kalkaji, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "3.9",
+                    "restaurantName": "Havmor Ice Cream",
+                    "votes": "113"
+                },
+                {
+                    "address": "H-15A, Ground Floor, Kalkaji Main Road, Kalkaji, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "Kalkaji",
+                    "rating": "4.1",
+                    "restaurantName": "NYC Queens",
+                    "votes": "95"
+                },
+                {
+                    "address": "93, Sant Nagar, Back Side Ground Floor, East of Kailash, New Delhi",
+                    "cost": 550,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                    ],
+                    "location": "East of Kailash",
+                    "rating": "3.8",
+                    "restaurantName": "Anupama Sweets & Restaurant",
+                    "votes": "141"
+                }
+            ],
+            "title": "Desserts & Bakes in Nehru Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "Upper Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 2500,
+                    "cuisines": [
+                        "European",
+                        "Chinese",
+                        "North Indian",
+                        "Italian",
+                        "Momos"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.5",
+                    "restaurantName": "Lord of the Drinks Forum",
+                    "votes": "3768"
+                },
+                {
+                    "address": "R - 1, Upper Ground Floor, Epicuria Food Mall, Nehru Place, New Delhi",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.4",
+                    "restaurantName": "Nehru Place Social",
+                    "votes": "2340"
+                },
+                {
+                    "address": "Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Bar Food"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Flying Saucer Cafe",
+                    "votes": "7714"
+                },
+                {
+                    "address": "Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 3200,
+                    "cuisines": [
+                        "European",
+                        "Italian",
+                        "North Indian",
+                        "Salad"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.2",
+                    "restaurantName": "FIO Cookhouse and Bar",
+                    "votes": "1294"
+                },
+                {
+                    "address": "S.I, American Plaza, International Trade Tower, Nehru Place, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Spanish"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "2.6",
+                    "restaurantName": "MNKY HOUZ",
+                    "votes": "47"
+                },
+                {
+                    "address": "24, Near Allahabad bank, Nehru Place, New Delhi",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Finger Food"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.0",
+                    "restaurantName": "Only Bar",
+                    "votes": "176"
+                },
+                {
+                    "address": "American Plaza, ITT Building, Lala Lajpat Rai Road, Nehru Place, New Delhi",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "3.5",
+                    "restaurantName": "Roar",
+                    "votes": "49"
+                },
+                {
+                    "address": "HS-12, Kailash Colony Market, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "Finger Food"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.1",
+                    "restaurantName": "Uncultured Cafe & Bar",
+                    "votes": "1472"
+                },
+                {
+                    "address": "26, Level 2, Kailash Colony Market, Kailash Colony, New Delhi",
+                    "cost": 1550,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Kebab",
+                        "Momos"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.0",
+                    "restaurantName": "Cafe 27",
+                    "votes": "1109"
+                },
+                {
+                    "address": "F-39, East of Kailash, New Delhi",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Mexican"
+                    ],
+                    "location": "East of Kailash",
+                    "rating": "4.0",
+                    "restaurantName": "Storm Version 2.0",
+                    "votes": "461"
+                },
+                {
+                    "address": "10, N Block Market, Greater Kailash (GK) 1, New Delhi",
+                    "cost": 2600,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Asian"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "3.9",
+                    "restaurantName": "S Bar & Restaurant - Shalom",
+                    "votes": "599"
+                },
+                {
+                    "address": "M-45, 1st Floor, M Block Market, Greater Kailash (GK) 1, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Italian",
+                        "Continental",
+                        "Salad"
+                    ],
+                    "location": "M Block Market, Greater Kailash 1 (GK1)",
+                    "rating": "3.7",
+                    "restaurantName": "My Bar Cafe",
+                    "votes": "1057"
+                },
+                {
+                    "address": "M-23, M Block Market, 3rd Floor, Greater Kailash 1 (GK1), New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "M Block Market, Greater Kailash 1 (GK1)",
+                    "rating": "3.9",
+                    "restaurantName": "The Secret Garden At Music & Mountains",
+                    "votes": "63"
+                },
+                {
+                    "address": "M4, 2nd Floor, South Extension 2, New Delhi",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Italian",
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "South Extension 2",
+                    "rating": "4.2",
+                    "restaurantName": "Studio Xo Bar",
+                    "votes": "791"
+                },
+                {
+                    "address": "Moolchand Flyover Complex, Defence Colony, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "Chinese",
+                        "North Indian",
+                        "Salad"
+                    ],
+                    "location": "Defence Colony",
+                    "rating": "3.9",
+                    "restaurantName": "1 Oak Cafe & Bar",
+                    "votes": "1443"
+                }
+            ],
+            "title": "Clubs and lounges in Nehru Place"
+        },
+        {
+            "details": [
+                {
+                    "address": "Ground Floor, Eros Corporate Tower, Nehru Place, New Delhi",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Asian",
+                        "Japanese",
+                        "Momos"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.4",
+                    "restaurantName": "The Asian Tuk Tuk",
+                    "votes": "332"
+                },
+                {
+                    "address": "Ground Floor, E Block, Opposite Satyam Cinema, Nehru Place, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Bengali",
+                        "Seafood"
+                    ],
+                    "location": "Nehru Place",
+                    "rating": "4.3",
+                    "restaurantName": "Oh! Calcutta",
+                    "votes": "1901"
+                },
+                {
+                    "address": "Unit 02, Upper Ground Floor, Epicuria Food Mall, TDI South Bridge, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "European",
+                        "American"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.1",
+                    "restaurantName": "The Irish House",
+                    "votes": "725"
+                },
+                {
+                    "address": "Lower Basement, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food",
+                        "Italian",
+                        "North Indian"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.3",
+                    "restaurantName": "The Chatter House",
+                    "votes": "2605"
+                },
+                {
+                    "address": "Upper Ground Floor, Epicuria Food Mall, Nehru Place Metro Station, Nehru Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Japanese",
+                        "Asian",
+                        "Chinese",
+                        "Thai",
+                        "Sushi"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.1",
+                    "restaurantName": "YUZU",
+                    "votes": "404"
+                },
+                {
+                    "address": "S-4/5, Epicuria Food Mall, Nehru Place, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Epicuria Food Mall, Nehru Place",
+                    "rating": "4.0",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "561"
+                },
+                {
+                    "address": "Eros Hotel, American Plaza, Nehru Place, New Delhi",
+                    "cost": 3650,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Eros Hotel, Nehru Place",
+                    "rating": "3.6",
+                    "restaurantName": "Lounge & Bar - Eros Hotel",
+                    "votes": "27"
+                },
+                {
+                    "address": "36, Community Centre, East of Kailash, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Asian",
+                        "Continental",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "East of Kailash",
+                    "rating": "4.4",
+                    "restaurantName": "Bokan",
+                    "votes": "280"
+                },
+                {
+                    "address": "HS-6 Kailash Colony Market Greater Kailash-1 Delhi, India",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "4.2",
+                    "restaurantName": "Radio Station",
+                    "votes": "737"
+                },
+                {
+                    "address": "2, Community Center, Near Sapna Cinema, East of Kailash, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "East of Kailash",
+                    "rating": "3.6",
+                    "restaurantName": "BarShala",
+                    "votes": "164"
+                },
+                {
+                    "address": "HS 1, Kailash Colony, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Italian"
+                    ],
+                    "location": "Kailash Colony",
+                    "restaurantName": "3 Idiots"
+                },
+                {
+                    "address": "A-31, Kailash Colony, New Delhi",
+                    "cost": 1100,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Mughlai"
+                    ],
+                    "location": "Kailash Colony",
+                    "rating": "2.8",
+                    "restaurantName": "China Pearl's - Spinns",
+                    "votes": "27"
+                },
+                {
+                    "address": "M-55, 2nd Floor, M Block Market, Greater Kailash 1 (GK 1), New Delhi",
+                    "cost": 2000,
+                    "cuisines": [
+                        "European",
+                        "Asian",
+                        "North Indian",
+                        "Italian",
+                        "Continental"
+                    ],
+                    "location": "M Block Market, Greater Kailash 1 (GK1)",
+                    "rating": "4.4",
+                    "restaurantName": "Gastronomica Kitchen & Bar",
+                    "votes": "3155"
+                },
+                {
+                    "address": "M-22, 2nd Floor, Main Market, Greater Kailash 1 (GK1), New Delhi",
+                    "cost": 1700,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Pizza"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.3",
+                    "restaurantName": "Roadhouse Cafe",
+                    "votes": "933"
+                },
+                {
+                    "address": "M-32, 2nd Floor, Greater Kailash (GK) 1, New Delhi",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Italian",
+                        "Finger Food"
+                    ],
+                    "location": "Greater Kailash 1 (GK1)",
+                    "rating": "4.0",
+                    "restaurantName": "Elation",
+                    "votes": "378"
+                }
+            ],
+            "title": "Pubs & Bars in Nehru Place"
+        }
+    ]
+}

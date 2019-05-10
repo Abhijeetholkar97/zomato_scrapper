@@ -1,0 +1,1000 @@
+{
+    "placeName": "DLF Cyber City",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "LG 41, MGF Metropolis Mall, MG Road, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Beverages",
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "MGF Metropolis Mall, MG Road",
+                    "rating": "4.6",
+                    "restaurantName": "Ice Pice",
+                    "votes": "730"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Appa Desi",
+                    "votes": "114"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Italian",
+                        "Pizza",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 50, Gurgaon",
+                    "rating": "4.3",
+                    "restaurantName": "Baking Bad",
+                    "votes": "160"
+                },
+                {
+                    "address": "16/26, U Block, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "2.2",
+                    "restaurantName": "Grandma's Kitchen",
+                    "votes": "132"
+                },
+                {
+                    "address": "B-202 & 203, Supermart 1, DLF Phase 4, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Biryani",
+                        "Hyderabadi"
+                    ],
+                    "location": "Supermart 1, DLF Phase 4",
+                    "rating": "3.9",
+                    "restaurantName": "Biryani Blues",
+                    "votes": "2218"
+                },
+                {
+                    "address": "M-1/6, Basement, DLF Phase 2, Gurgaon, Delhi NCR",
+                    "cost": 600,
+                    "cuisines": [
+                        "American",
+                        "Fast Food",
+                        "Sandwich",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 2",
+                    "rating": "4.5",
+                    "restaurantName": "Wicked Wiches",
+                    "votes": "509"
+                },
+                {
+                    "address": "F-10, Sushant Arcade, Sushant Lok, Gurgaon",
+                    "cost": 650,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Rolls"
+                    ],
+                    "location": "Sushant Shopping Arcade, Sushant Lok, Gurgaon",
+                    "rating": "4.0",
+                    "restaurantName": "Wrapchick",
+                    "votes": "516"
+                },
+                {
+                    "address": "2, Central Plaza Mall, Golf Course Road, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Wraps",
+                        "Lebanese"
+                    ],
+                    "location": "Central Plaza Mall, Golf Course Road",
+                    "rating": "4.5",
+                    "restaurantName": "Shawarma House",
+                    "votes": "1412"
+                },
+                {
+                    "address": "W Block, Moulsari Road, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "Shree Om Food Plaza",
+                    "votes": "162"
+                },
+                {
+                    "address": "U8/18, Basement, Near DLF Phase 3 Metro Station, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Italian"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.6",
+                    "restaurantName": "Chilli Indiana",
+                    "votes": "150"
+                },
+                {
+                    "address": "SF-27, DLF Galleria, DLF Phase 4, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Burger"
+                    ],
+                    "location": "DLF Galleria, DLF Phase 4",
+                    "rating": "4.1",
+                    "restaurantName": "Burger Point",
+                    "votes": "720"
+                },
+                {
+                    "address": "Near Rapid Metro Station, DLF Phase 3, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Rolls"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "3.9",
+                    "restaurantName": "Eatezee Foods",
+                    "votes": "116"
+                },
+                {
+                    "address": "SCF 97, Main Market, Sector 14, Gurgaon",
+                    "cost": 350,
+                    "cuisines": [
+                        "Healthy Food",
+                        "Sandwich",
+                        "Salad"
+                    ],
+                    "location": "Sector 14, Gurgaon",
+                    "rating": "3.8",
+                    "restaurantName": "Subway",
+                    "votes": "368"
+                },
+                {
+                    "address": "Delivery Only",
+                    "cost": 400,
+                    "cuisines": [
+                        "Pizza",
+                        "Italian"
+                    ],
+                    "location": "DLF Phase 4",
+                    "rating": "3.5",
+                    "restaurantName": "Sliced",
+                    "votes": "76"
+                },
+                {
+                    "address": "136, Ground Floor, Block C, Phase 1, Sushant Lok, Gurgaon",
+                    "cost": 850,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Mughlai",
+                        "Continental",
+                        "Healthy Food",
+                        "Italian"
+                    ],
+                    "location": "Vyapar Kendra, Sushant Lok",
+                    "rating": "4.2",
+                    "restaurantName": "Lockup",
+                    "votes": "1437"
+                }
+            ],
+            "title": "Delivery Restaurants in DLF Cyber City"
+        },
+        {
+            "details": [
+                {
+                    "address": "Unit 1B & 1C, Upper Ground Floor-C, Building 10C, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "The Drunken Botanist",
+                    "votes": "4807"
+                },
+                {
+                    "address": "Shop 04A, Ground Floor DLF Cyber Hub, Tower - 08C, DLF Cyber City, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "European"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.5",
+                    "restaurantName": "Cyber Hub Social",
+                    "votes": "3118"
+                },
+                {
+                    "address": "2nd Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Italian",
+                        "Continental",
+                        "Spanish",
+                        "North Indian",
+                        "Asian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "3.9",
+                    "restaurantName": "Imperfecto",
+                    "votes": "3132"
+                },
+                {
+                    "address": "205-208 & 209-A, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2100,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Japanese",
+                        "Asian",
+                        "Pizza"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.3",
+                    "restaurantName": "Soi 7 Pub & Brewery",
+                    "votes": "4847"
+                },
+                {
+                    "address": "7-8, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Modern Indian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.5",
+                    "restaurantName": "Farzi Cafe",
+                    "votes": "5834"
+                },
+                {
+                    "address": "201-202, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2300,
+                    "cuisines": [
+                        "Mediterranean",
+                        "European",
+                        "American",
+                        "North Indian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.3",
+                    "restaurantName": "Sutra Gastropub",
+                    "votes": "2047"
+                },
+                {
+                    "address": "Unit 4/5/104/105, R Block, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2500,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Mexican",
+                        "North Indian",
+                        "American"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "Hard Rock Cafe",
+                    "votes": "3221"
+                },
+                {
+                    "address": "2nd Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "Salad"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "Raasta",
+                    "votes": "2627"
+                },
+                {
+                    "address": "Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2400,
+                    "cuisines": [
+                        "Modern Indian",
+                        "Italian",
+                        "European"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "The Wine Company",
+                    "votes": "2910"
+                },
+                {
+                    "address": "1st Floor, Shop 106-107, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Arabian",
+                        "Lebanese",
+                        "North Indian",
+                        "Kebab",
+                        "Iranian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "Pier 38",
+                    "votes": "1327"
+                },
+                {
+                    "address": "Tower B, Building 10, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1750,
+                    "cuisines": [
+                        "American",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "Quaff Microbrewery",
+                    "votes": "1018"
+                },
+                {
+                    "address": "K-8, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "The Beer Cafe",
+                    "votes": "1262"
+                },
+                {
+                    "address": "Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Thai",
+                        "Continental"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "Smaaash",
+                    "votes": "1116"
+                },
+                {
+                    "address": "Near DLF Phase 2 Rapid Metro Station, DLF Cyber City, Gurgaon",
+                    "cost": 1200,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "3.7",
+                    "restaurantName": "KNITE RYDER",
+                    "votes": "406"
+                },
+                {
+                    "address": "Building 8-B, Ground Floor, DLF Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "Gurgaon Pub Exchange",
+                    "votes": "290"
+                }
+            ],
+            "title": "Nightlife Restaurants in DLF Cyber City"
+        },
+        {
+            "details": [
+                {
+                    "address": "Unit 1B & 1C, Upper Ground Floor-C, Building 10C, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Continental",
+                        "Italian",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "The Drunken Botanist",
+                    "votes": "4807"
+                },
+                {
+                    "address": "Shop 6, Ground Floor, Building 8, Tower C, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Asian",
+                        "Burmese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.7",
+                    "restaurantName": "Burma Burma",
+                    "votes": "2224"
+                },
+                {
+                    "address": "Shop 04A, Ground Floor DLF Cyber Hub, Tower - 08C, DLF Cyber City, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "Asian",
+                        "North Indian",
+                        "European"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.5",
+                    "restaurantName": "Cyber Hub Social",
+                    "votes": "3118"
+                },
+                {
+                    "address": "3, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1300,
+                    "cuisines": [
+                        "Parsi",
+                        "North Indian",
+                        "Maharashtrian",
+                        "Beverages",
+                        "Bakery"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "SodaBottleOpenerWala",
+                    "votes": "3846"
+                },
+                {
+                    "address": "Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Chinese",
+                        "Japanese",
+                        "Sushi"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.5",
+                    "restaurantName": "Yum Yum Cha",
+                    "votes": "1363"
+                },
+                {
+                    "address": "Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe",
+                        "American"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.1",
+                    "restaurantName": "IHOP",
+                    "votes": "1998"
+                },
+                {
+                    "address": "1st Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.3",
+                    "restaurantName": "Dhaba - Estd 1986 Delhi",
+                    "votes": "2833"
+                },
+                {
+                    "address": "2nd Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Italian",
+                        "Continental",
+                        "Spanish",
+                        "North Indian",
+                        "Asian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "3.9",
+                    "restaurantName": "Imperfecto",
+                    "votes": "3132"
+                },
+                {
+                    "address": "Shop 24, Ground Floor, Cyber Hub, Sector 24, DLF Cyber City, Gurgaon",
+                    "cost": 2100,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.1",
+                    "restaurantName": "Pra Pra Prank",
+                    "votes": "1587"
+                },
+                {
+                    "address": "DLF Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "European",
+                        "Asian",
+                        "Mediterranean"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.1",
+                    "restaurantName": "United Coffee House Rewind",
+                    "votes": "908"
+                },
+                {
+                    "address": "205-208 & 209-A, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2100,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai",
+                        "Japanese",
+                        "Asian",
+                        "Pizza"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.3",
+                    "restaurantName": "Soi 7 Pub & Brewery",
+                    "votes": "4847"
+                },
+                {
+                    "address": "7-8, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Modern Indian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.5",
+                    "restaurantName": "Farzi Cafe",
+                    "votes": "5834"
+                },
+                {
+                    "address": "11, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Chinese"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.7",
+                    "restaurantName": "TCK By The China Kitchen",
+                    "votes": "203"
+                },
+                {
+                    "address": "102, 1st Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "Japanese",
+                        "Salad",
+                        "Vietnamese",
+                        "Malaysian"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "Mamagoto",
+                    "votes": "1044"
+                },
+                {
+                    "address": "Building 10 A, Near HDFC Bank, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1600,
+                    "cuisines": [
+                        "European",
+                        "Italian"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "Cicchetti By Mr Beans",
+                    "votes": "141"
+                }
+            ],
+            "title": "Dine-Out Restaurants in DLF Cyber City"
+        },
+        {
+            "details": [
+                {
+                    "address": "Building 5, DLF Cyber City, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "3.8",
+                    "restaurantName": "Blue Tokai Coffee Roasters",
+                    "votes": "75"
+                },
+                {
+                    "address": "K-1A, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "Theobroma",
+                    "votes": "1280"
+                },
+                {
+                    "address": "Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1100,
+                    "cuisines": [
+                        "Cafe",
+                        "American"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.1",
+                    "restaurantName": "IHOP",
+                    "votes": "1998"
+                },
+                {
+                    "address": "Shop 101, 1st Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 1400,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian",
+                        "Pizza",
+                        "Healthy Food",
+                        "Salad"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "OLLY - Olive's All Day Cafe & Bar",
+                    "votes": "364"
+                },
+                {
+                    "address": "Shop 10, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "2537"
+                },
+                {
+                    "address": "Ground Floor, Tower B Atrium, Building 5, Near Indian Oil Petrol Pump, DLF Cyber City, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "Chaayos",
+                    "votes": "546"
+                },
+                {
+                    "address": "15, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Continental",
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "PappaRoti",
+                    "votes": "1000"
+                },
+                {
+                    "address": "Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.1",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "764"
+                },
+                {
+                    "address": "K-4B, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Salad",
+                        "Healthy Food",
+                        "Pizza",
+                        "Frozen Yogurt"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "3.8",
+                    "restaurantName": "Red Mango",
+                    "votes": "541"
+                },
+                {
+                    "address": "Ground Floor, Building 10, DLF Cyber City, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "3.8",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "44"
+                },
+                {
+                    "address": "Food Court, Ground Floor, Tower B, Building Number 5, DLF Cyber City, Gurgaon",
+                    "cost": 900,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "3.6",
+                    "restaurantName": "The Chocolate Room",
+                    "votes": "36"
+                },
+                {
+                    "address": "K-2, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Bakery"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "3.8",
+                    "restaurantName": "Choko la",
+                    "votes": "124"
+                },
+                {
+                    "address": "Buliding 8, Tower C Ground Floor, Sector 24, DLF 2, DLF Cyber City, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "3.9",
+                    "restaurantName": "Tpot",
+                    "votes": "111"
+                },
+                {
+                    "address": "U 16/58, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Mexican"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.2",
+                    "restaurantName": "Vintage Kitchen",
+                    "votes": "628"
+                },
+                {
+                    "address": "U 6/49 & 50, DLF Phase 3, Gurgaon",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.0",
+                    "restaurantName": "The Roasters Cafe",
+                    "votes": "50"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in DLF Cyber City"
+        },
+        {
+            "details": [
+                {
+                    "address": "Opposite Plot 84, Near Police Station, Phase 1, Udyog Vihar, Gurgaon",
+                    "cost": 200,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Udyog Vihar",
+                    "rating": "4.5",
+                    "restaurantName": "Cakesisland.com",
+                    "votes": "265"
+                },
+                {
+                    "address": "U16/17, DLF Phase 3, Behind Cybercity, DLF Phase 3, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "DLF Phase 3",
+                    "rating": "4.8",
+                    "restaurantName": "Cake Desire",
+                    "votes": "166"
+                },
+                {
+                    "address": "K-1A, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.4",
+                    "restaurantName": "Theobroma",
+                    "votes": "1280"
+                },
+                {
+                    "address": "114, 115, 116, Cyber Hub, Sector 24, DLF Cyber City, Gurgaon",
+                    "cost": 450,
+                    "cuisines": [
+                        "North Indian",
+                        "Mithai",
+                        "South Indian",
+                        "Street Food",
+                        "Chinese",
+                        "Desserts"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "3.9",
+                    "restaurantName": "Haldiram's",
+                    "votes": "516"
+                },
+                {
+                    "address": "K-3A, Cyber Hub, Phase 2, DLF Cyber City, Gurgaon",
+                    "cost": 600,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "3.9",
+                    "restaurantName": "Dunkin' Donuts",
+                    "votes": "945"
+                },
+                {
+                    "address": "Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.2",
+                    "restaurantName": "The Bombaykery",
+                    "votes": "658"
+                },
+                {
+                    "address": "K-10A, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 350,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "Angels in my Kitchen",
+                    "votes": "1384"
+                },
+                {
+                    "address": "15, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Continental",
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "PappaRoti",
+                    "votes": "1000"
+                },
+                {
+                    "address": "Near Amphitheatre, DLF Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 450,
+                    "cuisines": [
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "Waffle Wallah",
+                    "votes": "204"
+                },
+                {
+                    "address": "Upper Ground Floor-C, Building 10C, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 350,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.0",
+                    "restaurantName": "Cold Stone Creamery",
+                    "votes": "81"
+                },
+                {
+                    "address": "K-4B, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Salad",
+                        "Healthy Food",
+                        "Pizza",
+                        "Frozen Yogurt"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "3.8",
+                    "restaurantName": "Red Mango",
+                    "votes": "541"
+                },
+                {
+                    "address": "K-5/A, Near Building 8-B Entrance, Cyber Hub, DLF Cyber City, Gurgaon",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "Cyber Hub, DLF Cyber City",
+                    "rating": "4.3",
+                    "restaurantName": "StickHouse",
+                    "votes": "111"
+                },
+                {
+                    "address": "Ground Floor, Building 5, DLF Cyber City, Gurgaon",
+                    "cost": 400,
+                    "cuisines": [
+                        "Bakery"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "3.8",
+                    "restaurantName": "Bakers Oven Xpress",
+                    "votes": "17"
+                },
+                {
+                    "address": "6, Ground Floor, Tower C, DLF Cyber Greens, DLF Cyber City, Gurgaon",
+                    "cost": 300,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Cyber Greens, DLF Cyber City",
+                    "rating": "3.8",
+                    "restaurantName": "Giani",
+                    "votes": "88"
+                },
+                {
+                    "address": "DLF Cyber City, Gurgaon (Cyber Hub)",
+                    "cost": 350,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "DLF Cyber City",
+                    "rating": "3.9",
+                    "restaurantName": "Suchali's Artisan Bake House",
+                    "votes": "114"
+                }
+            ],
+            "title": "Desserts & Bakes in DLF Cyber City"
+        }
+    ]
+}

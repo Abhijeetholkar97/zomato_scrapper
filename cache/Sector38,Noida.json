@@ -1,0 +1,967 @@
+{
+    "placeName": "Sector 38, Noida",
+    "restDetails": [
+        {
+            "details": [
+                {
+                    "address": "Shop 3, Sikka Plaza, Near Alchon Public School Mayur Vihar Phase 1, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Healthy Food"
+                    ],
+                    "location": "Mayur Vihar Phase 1",
+                    "rating": "4.0",
+                    "restaurantName": "Fityard Cafe",
+                    "votes": "175"
+                },
+                {
+                    "address": "Ground Floor, Logix City Centre Mall, Near Noida City Center Metro, Sector 32, Near, Sector 34, Noida",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 34, Noida",
+                    "rating": "4.5",
+                    "restaurantName": "Chaayos",
+                    "votes": "317"
+                },
+                {
+                    "address": "HA 106, Sector 104, Opposite Pathway School, Sector 110, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "South Indian",
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "Sector 110, Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Dasaprakash",
+                    "votes": "531"
+                },
+                {
+                    "address": "1/F, Near Labour Court, Sector 3, Noida",
+                    "cost": 350,
+                    "cuisines": [
+                        "Chinese",
+                        "Fast Food",
+                        "North Indian"
+                    ],
+                    "location": "Sector 3, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Thela001",
+                    "votes": "298"
+                },
+                {
+                    "address": "Hajipur Market, Sector 104, Near Sector 110, Noida",
+                    "cost": 400,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sector 110, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Mishthanpur",
+                    "votes": "153"
+                },
+                {
+                    "address": "Shop 7 & 8, Basement, Shanti Complex, Indira Market, Sector 27, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bengali",
+                        "Rolls",
+                        "Biryani"
+                    ],
+                    "location": "Sector 27, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Dada's Chops",
+                    "votes": "247"
+                },
+                {
+                    "address": "514 & 515, Hajipur Village, Sector 104, Near Sector 110, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "South Indian",
+                        "Chinese",
+                        "Street Food"
+                    ],
+                    "location": "Sector 110, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Barfi",
+                    "votes": "628"
+                },
+                {
+                    "address": "Shop 3, SR Complex, Opposite Woodland, Nayabans Red Light, Sector 15, Noida",
+                    "cost": 100,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Sector 15, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Ram-G Samose Wala",
+                    "votes": "173"
+                },
+                {
+                    "address": "C-11/98, Sector 41, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "North Indian",
+                        "Fast Food",
+                        "Rolls",
+                        "Biryani"
+                    ],
+                    "location": "Sector 41, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Faasos",
+                    "votes": "372"
+                },
+                {
+                    "address": "D - 85/2, Near KIDZEE School, Sector 51, Noida",
+                    "cost": 250,
+                    "cuisines": [
+                        "Fast Food",
+                        "Rolls"
+                    ],
+                    "location": "Sector 51, Noida",
+                    "rating": "3.2",
+                    "restaurantName": "Oye Samosa",
+                    "votes": "44"
+                },
+                {
+                    "address": "G-24B, Savitri Market, Sector 18, Noida",
+                    "cost": 100,
+                    "cuisines": [
+                        "North Indian"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Chandni Chowk Ke Mashoor Paranthe",
+                    "votes": "213"
+                },
+                {
+                    "address": "Shop 32, LSC DDA , Pocket D & E, Sarita Vihar, New Delhi",
+                    "cost": 300,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts"
+                    ],
+                    "location": "Sarita Vihar",
+                    "rating": "3.9",
+                    "restaurantName": "Sweet Truth",
+                    "votes": "50"
+                },
+                {
+                    "address": "Opposite Wave Silver Tower, Main Atta Market, Sector 27, Noida",
+                    "cost": 400,
+                    "cuisines": [
+                        "South Indian",
+                        "Chinese",
+                        "Street Food",
+                        "Mithai"
+                    ],
+                    "location": "Sector 27, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Aggarwal Bikaneri Sweets",
+                    "votes": "117"
+                },
+                {
+                    "address": "Sector 26, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Chinese",
+                        "North Indian",
+                        "Rolls"
+                    ],
+                    "location": "Sector 26, Noida",
+                    "rating": "4.6",
+                    "restaurantName": "Desi Dakaar",
+                    "votes": "835"
+                },
+                {
+                    "address": "K-1, Dharam Palace, Sector 18, Noida",
+                    "cost": 150,
+                    "cuisines": [
+                        "Street Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Sagar Chole Bhature",
+                    "votes": "30"
+                }
+            ],
+            "title": "Delivery Restaurants in Sector 38"
+        },
+        {
+            "details": [
+                {
+                    "address": "Gardens Gallaria, Sector 38, Noida",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Italian",
+                        "Continental",
+                        "Asian",
+                        "North Indian"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Imperfecto",
+                    "votes": "2019"
+                },
+                {
+                    "address": "2nd Floor, Opposite Food Court, Gardens Galleria, Sector 38, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "Finger Food",
+                        "Momos"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Time Machine",
+                    "votes": "1755"
+                },
+                {
+                    "address": "FB104,105, Garden Galleria Mall A-2, Secor 38A, Noida",
+                    "cost": 1300,
+                    "cuisines": [
+                        "American"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.5",
+                    "restaurantName": "Uno Chicago Bar & Grill",
+                    "votes": "220"
+                },
+                {
+                    "address": "Unit 250, First Floor, Gardens Galleria Mall, Opposite DLF Mall of India, Sector 38A, Sector 38, Noida",
+                    "cost": 850,
+                    "cuisines": [
+                        "Mediterranean",
+                        "Italian"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Bohemia",
+                    "votes": "1143"
+                },
+                {
+                    "address": "Gardens Galleria Mall, Sector 38, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.0",
+                    "restaurantName": "The Smoke Factory",
+                    "votes": "924"
+                },
+                {
+                    "address": "319-320, 3rd Floor, The Great India Place Mall, Sector 38-A, Near, Sector 38, Noida",
+                    "cost": 1700,
+                    "cuisines": [
+                        "American",
+                        "Tex-Mex",
+                        "Salad"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "4.2",
+                    "restaurantName": "TGI Fridays",
+                    "votes": "2374"
+                },
+                {
+                    "address": "305 & 306, 3rd Floor, TGIP Mall, Sector 38, Noida",
+                    "cost": 1900,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "restaurantName": "Reverb"
+                },
+                {
+                    "address": "Shop 205 & 206, 1st Floor, Gardens Galleria Mall, Plot A-2, Sector 38, Noida",
+                    "cost": 1800,
+                    "cuisines": [
+                        "Continental",
+                        "Lebanese",
+                        "Mediterranean",
+                        "North Indian"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Wing Ding - Pub & Cafe",
+                    "votes": "379"
+                },
+                {
+                    "address": "2nd Floor, Gardens Galleria Mall, Sector 38, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.2",
+                    "restaurantName": "The Bar Company",
+                    "votes": "217"
+                },
+                {
+                    "address": "Unit 308, 3rd Floor Great India Place, Sector 38, Noida, Delhi NCR",
+                    "cost": 700,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.8",
+                    "restaurantName": "Nazeer Delicacies",
+                    "votes": "75"
+                },
+                {
+                    "address": "311, Second Floor, Gardens Galleria Mall, Sector 38 - A, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Chinese",
+                        "Continental",
+                        "European",
+                        "North Indian"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Tito's",
+                    "votes": "645"
+                },
+                {
+                    "address": "2nd Floor, Gardens Galleria, Plot A2, Sector 38 A, Sector 38, Noida",
+                    "cost": 2500,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Continental",
+                        "Awadhi"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Spellbound",
+                    "votes": "726"
+                },
+                {
+                    "address": "The Great India Place Mall, Sector 38-A, Near Sector 38, Sector 38, Noida",
+                    "cost": 800,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.7",
+                    "restaurantName": "PIND BALLUCHI",
+                    "votes": "1038"
+                },
+                {
+                    "address": "Gardens Galleria Mall, Near The Great India Place, Sector 38, Noida",
+                    "cost": 1300,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Kebab"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Laat Saab",
+                    "votes": "1591"
+                },
+                {
+                    "address": "3rd Floor, The Great India Place Mall, Sector 38-A, Near, Sector 38, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Chinese",
+                        "Thai"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.9",
+                    "restaurantName": "Mandarin Trail",
+                    "votes": "736"
+                }
+            ],
+            "title": "Dine-Out Restaurants in Sector 38"
+        },
+        {
+            "details": [
+                {
+                    "address": "P-15, 6th floor, Sector 18, Noida",
+                    "cost": 800,
+                    "cuisines": [
+                        "Cafe",
+                        "Continental",
+                        "Chinese",
+                        "Lebanese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "The Shed - Sky Garden And Cafe",
+                    "votes": "68"
+                },
+                {
+                    "address": "36, The Great India Place Mall, Sector 38 A, Sector 38, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.8",
+                    "restaurantName": "Costa Coffee",
+                    "votes": "151"
+                },
+                {
+                    "address": "Gardens Galleria, Sector 38A, Sector 38, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "292"
+                },
+                {
+                    "address": "Shop 111, 1st Floor, The Great India Place Mall, Sector 38, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.4",
+                    "restaurantName": "Cafe Coffee Day",
+                    "votes": "58"
+                },
+                {
+                    "address": "Unit FB-101, Ground Floor, Gardens Galleria, Plot A-2, Sector 38-A, Near, Sector 38, Noida",
+                    "cost": 750,
+                    "cuisines": [
+                        "Cafe",
+                        "Tea",
+                        "Street Food",
+                        "Fast Food"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Chaayos",
+                    "votes": "176"
+                },
+                {
+                    "address": "305, 3rd Floor, The Great India Place Mall, Sector 38, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.6",
+                    "restaurantName": "Barista",
+                    "votes": "67"
+                },
+                {
+                    "address": "345, 2nd Floor, Gardens Galleria Mall, Sector 38, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe",
+                        "Italian"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "3.4",
+                    "restaurantName": "Pasta Italiano",
+                    "votes": "24"
+                },
+                {
+                    "address": "Unit 161, First Floor, Great India Place, Entertainment City, Sector 38, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Fast Food",
+                        "Beverages"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "4.0",
+                    "restaurantName": "Tpot",
+                    "votes": "52"
+                },
+                {
+                    "address": "3rd Floor, The Great India Place Mall, Sector 38, Noida",
+                    "cost": 400,
+                    "cuisines": [
+                        "Cafe",
+                        "Fast Food"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "restaurantName": "Fusion Game Center & Cafe"
+                },
+                {
+                    "address": "Kidzania, GIP, Entertainment City, Plot A 2, Sector-38 A, Sector 38, Noida",
+                    "cost": 850,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "restaurantName": "Tea Trails"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "European",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.4",
+                    "restaurantName": "The Big Chill",
+                    "votes": "1379"
+                },
+                {
+                    "address": "2K - 8, 1st Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Bakery",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Theobroma",
+                    "votes": "601"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Asian",
+                        "Modern Indian",
+                        "Continental",
+                        "Cafe"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Cafe Delhi Heights",
+                    "votes": "1514"
+                },
+                {
+                    "address": "3rd Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Theos",
+                    "votes": "295"
+                },
+                {
+                    "address": "Radisson Blu, L-2, Sector 18, Noida",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Radisson Blu, Sector 18, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "The Chocolate Box Lounge - Radisson Blu",
+                    "votes": "138"
+                }
+            ],
+            "title": "Caf\u00e9s and Delis in Sector 38"
+        },
+        {
+            "details": [
+                {
+                    "address": "G-50, Ground Floor, Sector 18, Noida",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Bakery",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Ka Eclairs & Kafe",
+                    "votes": "1150"
+                },
+                {
+                    "address": "Botanical Garden Metro Station, Sector 38, Noida",
+                    "cost": 500,
+                    "cuisines": [
+                        "Bakery",
+                        "Desserts",
+                        "Fast Food"
+                    ],
+                    "location": "Sector 38, Noida",
+                    "rating": "4.0",
+                    "restaurantName": "Mr. Brown",
+                    "votes": "348"
+                },
+                {
+                    "address": "SH-52, Plot A-2, Lower Ground Floor, Gardens Galleria, Sector 38, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Desserts",
+                        "Beverages",
+                        "Burger",
+                        "Fast Food"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Dunkin' Donuts",
+                    "votes": "560"
+                },
+                {
+                    "address": "Ground Floor, Great India Palce Mall, Sector 38, Noida",
+                    "cost": 150,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.9",
+                    "restaurantName": "McDonald's",
+                    "votes": "98"
+                },
+                {
+                    "address": "36, The Great India Place Mall, Sector 38 A, Sector 38, Noida",
+                    "cost": 600,
+                    "cuisines": [
+                        "Cafe"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.8",
+                    "restaurantName": "Costa Coffee",
+                    "votes": "151"
+                },
+                {
+                    "address": "Ground Floor, The Great India Place Mall, Sector 38 A, Noida, Sector 38, Noida",
+                    "cost": 400,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.7",
+                    "restaurantName": "Baskin Robbins",
+                    "votes": "46"
+                },
+                {
+                    "address": "Gardens Galleria, Sector 38A, Sector 38, Noida",
+                    "cost": 700,
+                    "cuisines": [
+                        "Cafe",
+                        "Desserts"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.1",
+                    "restaurantName": "Starbucks Coffee",
+                    "votes": "292"
+                },
+                {
+                    "address": "3rd Floor, Food Court, GIP Mall Of India, Sector 38, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.3",
+                    "restaurantName": "Frozen Stone",
+                    "votes": "6"
+                },
+                {
+                    "address": "Ground Floor, The Great India Palace Mall, Sector 38-A, Near, Sector 38, Noida",
+                    "cost": 250,
+                    "cuisines": [
+                        "Ice Cream"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.7",
+                    "restaurantName": "Turquoise Turkish Ice-cream",
+                    "votes": "32"
+                },
+                {
+                    "address": "Pavillion A 22, Kidzania, A 2, Sector 38A, Sector 38, Noida",
+                    "cost": 400,
+                    "cuisines": [
+                        "Beverages",
+                        "Ice Cream",
+                        "Desserts"
+                    ],
+                    "location": "Sector 38, Noida",
+                    "rating": "3.3",
+                    "restaurantName": "Keventers",
+                    "votes": "6"
+                },
+                {
+                    "address": "Food Court, Great India Place Mall, Sector 38, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.6",
+                    "restaurantName": "Giani's",
+                    "votes": "73"
+                },
+                {
+                    "address": "The Great India Place Mall, Sector 38 A, Sector 38, Noida",
+                    "cost": 250,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.6",
+                    "restaurantName": "Gelato Vinto",
+                    "votes": "40"
+                },
+                {
+                    "address": "Ground Floor, Near Entry 3, Great India Palace, Sector 38, Noida",
+                    "cost": 200,
+                    "cuisines": [
+                        "Beverages"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.2",
+                    "restaurantName": "Fruitish",
+                    "votes": "14"
+                },
+                {
+                    "address": "3rd Floor, The Great India Place Mall, Sector 38-A, Near Sector 38, Noida",
+                    "cost": 200,
+                    "cuisines": [
+                        "Desserts"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "3.3",
+                    "restaurantName": "Mr. Zurros",
+                    "votes": "27"
+                },
+                {
+                    "address": "Basement 1, Opposite Big Bazaar, The Great India Place Mall, Maharaja Agrasen Marg, Sector 38, Noida",
+                    "cost": 300,
+                    "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                    ],
+                    "location": "Sector 38, Noida",
+                    "rating": "3.6",
+                    "restaurantName": "It's Sugar Floss",
+                    "votes": "13"
+                }
+            ],
+            "title": "Desserts & Bakes in Sector 38"
+        },
+        {
+            "details": [
+                {
+                    "address": "Gardens Galleria Mall, Sector 38, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian",
+                        "Chinese"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.0",
+                    "restaurantName": "The Smoke Factory",
+                    "votes": "924"
+                },
+                {
+                    "address": "B-1, 9/10, Near Sector 18 Metro Station, Sector 18, Noida",
+                    "cost": 1550,
+                    "cuisines": [
+                        "Continental",
+                        "American",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "LIT Ultrabar",
+                    "votes": "771"
+                },
+                {
+                    "address": "C-27/27, Sector 18, Noida",
+                    "cost": 1800,
+                    "cuisines": [
+                        "North Indian",
+                        "Mughlai",
+                        "Chinese",
+                        "Finger Food"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.7",
+                    "restaurantName": "Blue Club & Lounge",
+                    "votes": "90"
+                },
+                {
+                    "address": "2nd Floor, Opposite Food Court, Gardens Galleria, Sector 38, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese",
+                        "Italian",
+                        "Finger Food",
+                        "Momos"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.3",
+                    "restaurantName": "Time Machine",
+                    "votes": "1755"
+                },
+                {
+                    "address": "305 & 306, 3rd Floor, TGIP Mall, Sector 38, Noida",
+                    "cost": 1900,
+                    "cuisines": [
+                        "North Indian",
+                        "Chinese",
+                        "Continental"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "restaurantName": "Reverb"
+                },
+                {
+                    "address": "2nd Floor, Gardens Galleria Mall, Sector 38, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Finger Food"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "4.2",
+                    "restaurantName": "The Bar Company",
+                    "votes": "217"
+                },
+                {
+                    "address": "2nd Floor, Gardens Galleria, Sector 38, Noida",
+                    "cost": 2000,
+                    "cuisines": [
+                        "Chinese",
+                        "Continental",
+                        "Finger Food",
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "Gardens Galleria, Sector 38 Noida",
+                    "rating": "3.7",
+                    "restaurantName": "No Objection House",
+                    "votes": "300"
+                },
+                {
+                    "address": "313, 3rd Floor, The Great India Place Mall, Sector 38-A, Near Sector 38, Noida",
+                    "cost": 2400,
+                    "cuisines": [
+                        "North Indian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "The Great India Place, Sector 38",
+                    "rating": "2.1",
+                    "restaurantName": "Club Ice Cube",
+                    "votes": "276"
+                },
+                {
+                    "address": "DLF Mall Of India, Sector 18, Noida",
+                    "cost": 1600,
+                    "cuisines": [
+                        "European",
+                        "American"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "The Irish House",
+                    "votes": "958"
+                },
+                {
+                    "address": "A 501 & B 504, 4th Floor, DLF Mall of India, Sector 18, Noida",
+                    "cost": 1400,
+                    "cuisines": [
+                        "North Indian",
+                        "Italian"
+                    ],
+                    "location": "DLF Mall of India, Sector 18,  Noida",
+                    "rating": "4.2",
+                    "restaurantName": "Noida Pub Exchange",
+                    "votes": "981"
+                },
+                {
+                    "address": "Radisson Blu, L-2, Sector 18, Noida",
+                    "cost": 3000,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian"
+                    ],
+                    "location": "Radisson Blu, Sector 18, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "@ Links - Radisson Blu",
+                    "votes": "91"
+                },
+                {
+                    "address": "K-24, Near HSBC Bank, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "Finger Food",
+                        "North Indian",
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.6",
+                    "restaurantName": "ZEST Astor18 Bar And Lounge",
+                    "votes": "334"
+                },
+                {
+                    "address": "G-38, 1st Floor, Sector 18, Noida",
+                    "cost": 1000,
+                    "cuisines": [
+                        "Italian",
+                        "Continental",
+                        "Chinese"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.9",
+                    "restaurantName": "Our Story Pub By Sherlock's",
+                    "votes": "601"
+                },
+                {
+                    "address": "P-11, 2nd & 3rd Floor, Above Sony Centre, Sector 18, Noida",
+                    "cost": 1500,
+                    "cuisines": [
+                        "American",
+                        "Italian"
+                    ],
+                    "location": "Sector 18, Noida",
+                    "rating": "3.8",
+                    "restaurantName": "Cheenos",
+                    "votes": "785"
+                },
+                {
+                    "address": "Mosaic Hotels, C-1, Sector 18, Noida",
+                    "cost": 2200,
+                    "cuisines": [
+                        "Continental",
+                        "North Indian",
+                        "Mexican"
+                    ],
+                    "location": "Mosaic Hotels, Sector 18, Noida",
+                    "rating": "3.4",
+                    "restaurantName": "Flluid - Mosaic Hotels",
+                    "votes": "153"
+                }
+            ],
+            "title": "Nightlife Restaurants in Sector 38"
+        }
+    ]
+}
